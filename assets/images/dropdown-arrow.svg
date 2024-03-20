@@ -1,0 +1,28 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#F5F5F5"/>
+<g id="Landing" clip-path="url(#clip0_0_1)">
+<rect width="1440" height="6806" transform="translate(-400 -46)" fill="white"/>
+<g id="Menu">
+<rect width="1440" height="110" transform="translate(-400 -46)" fill="white"/>
+<g id="Navigation">
+<g id="Frame 127">
+<g id="Frame 1">
+<g id="Frame 4">
+<g id="Frame" clip-path="url(#clip1_0_1)">
+<path id="Vector" d="M9 12L4.5 7.5H13.5L9 12Z" fill="#171717"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1440" height="6806" fill="white" transform="translate(-400 -46)"/>
+</clipPath>
+<clipPath id="clip1_0_1">
+<rect width="18" height="18" fill="white"/>
+</clipPath>
+</defs>
+</svg>
