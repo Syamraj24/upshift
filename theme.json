@@ -28,37 +28,37 @@
         {
           "slug": "grey",
           "color": "rgba(22, 22, 19, 0.5)",
-          "name": "Quaternary"
+          "name": "Grey"
         },
         {
           "slug": "dark",
           "color": "#151B1F",
-          "name": "Quinary"
+          "name": "Dark"
         },
         {
           "slug": "dawnpink",
           "color": "#E8E8E8",
-          "name": "Senary"
+          "name": "dawn Pink"
         },
         {
           "slug": "naturalgrey",
           "color": "#878787",
-          "name": "Septenary"
+          "name": "Natural Grey"
         },
         {
           "slug": "white-smoke",
           "color": "#F2F2F2",
-          "name": "Octonary"
+          "name": "White smoke"
         },
         {
           "slug": "night-black",
           "color": "#010101",
-          "name": "Nonary"
+          "name": "Night black"
         },
         {
           "slug": "silver",
           "color": "#CDCDCD",
-          "name": "Denary"
+          "name": "Silver"
         },
         {
           "slug": "Border",
@@ -68,7 +68,7 @@
         {
           "slug": "cloud",
           "color": "#C6C6C6",
-          "name": "Undenary"
+          "name": "Cloud"
         }
       ],
       "duotone": [

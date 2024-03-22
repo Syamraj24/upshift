@@ -1,22 +1,4 @@
-/* .Upshift-Accordion summary {
-    list-style: none;
-    position: relative;
-    padding-right: 30px;
-}
-
-.Upshift-Accordion summary::after {
-    content: ' \002B';
-    position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
-    right: 0;
-    font-size: 32px;
-}
-
-.Upshift-Accordion details[open] summary::after {
-    content: ' \002D';
-}
-
+/* 
 html {
     scroll-behavior: smooth;
 }
@@ -255,3 +237,22 @@ footer button.wp-block-navigation__submenu-icon.wp-block-navigation-submenu__tog
 .duotone-primary {
     filter: var(--wp--preset--duotone--primary);
 } */
+
+.Upshift-Accordion summary {
+    list-style: none;
+    position: relative;
+    padding-right: 30px;
+}
+
+.Upshift-Accordion summary::after {
+    content: ' \002B';
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    right: 0;
+    font-size: 32px;
+}
+
+.Upshift-Accordion details[open] summary::after {
+    content: ' \002D';
+}
