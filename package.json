@@ -1,0 +1,22 @@
+{
+  "name": "upshift",
+  "lockfileVersion": 2,
+  "requires": true,
+  "main": "gulpfile.js",
+  "scripts": {
+    "archive": "cross-env git archive --format=zip --prefix=upshift/ --output=./build/upshift.zip --worktree-attributes master",
+    "dev-archive": "cross-env git archive --format=zip --prefix=upshift/ --output=./build/upshift.zip --worktree-attributes dev-branch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/awsmin/fse-base.git"
+  },
+  "devDependencies": {
+    "cross-env": "^5.2.1",
+    "gulp-sort": "^2.0.0",
+    "gulp-wp-pot": "^2.5.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
