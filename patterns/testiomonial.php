@@ -33,7 +33,7 @@ $images = [
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                     <div class="wp-block-group"><!-- wp:image {"id":931,"width":"65px","height":"65px","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"100%"}}} -->
-                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://localhost/fse-projects/wp-content/themes/upshift//assets/images/avatar-1.png" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
+                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -65,7 +65,7 @@ $images = [
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                     <div class="wp-block-group"><!-- wp:image {"id":931,"width":"65px","height":"65px","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"100%"}}} -->
-                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://localhost/fse-projects/wp-content/themes/upshift//assets/images/avatar-2.png" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
+                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -100,7 +100,7 @@ $images = [
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                     <div class="wp-block-group"><!-- wp:image {"id":931,"width":"65px","height":"65px","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"100%"}}} -->
-                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://localhost/fse-projects/wp-content/themes/upshift//assets/images/avatar-3.png" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
+                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
@@ -132,7 +132,7 @@ $images = [
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                     <div class="wp-block-group"><!-- wp:image {"id":931,"width":"65px","height":"65px","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"100%"}}} -->
-                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="http://localhost/fse-projects/wp-content/themes/upshift//assets/images/avatar-4.png" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
+                        <figure class="wp-block-image size-full is-resized has-custom-border"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-931" style="border-radius:100%;width:65px;height:65px" /></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->

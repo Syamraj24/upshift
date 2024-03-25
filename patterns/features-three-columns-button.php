@@ -25,7 +25,7 @@ $images = [
     <div class="wp-block-columns alignwide" style="margin-bottom:20px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"}},"border":{"radius":"20px"}},"backgroundColor":"primary","className":"height-full","layout":{"type":"constrained"}} -->
             <div class="wp-block-group height-full has-primary-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"width":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-resized is-style-default"><img src="http://localhost/fse-projects/wp-content/themes/upshift/assets/images/cloud-computing.svg" alt="" class="wp-image-145" style="width:60px" /></figure>
+                <figure class="wp-block-image size-full is-resized is-style-default"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-145" style="width:60px" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"typography":{"lineHeight":1.4},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}}},"textColor":"heading","fontSize":"meadium"} -->
@@ -43,7 +43,7 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"},"margin":{"top":"0","bottom":"0"}},"border":{"radius":"20px"}},"backgroundColor":"primary","className":"height-full","layout":{"type":"constrained"}} -->
             <div class="wp-block-group height-full has-primary-background-color has-background" style="border-radius:20px;margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"width":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-resized is-style-default"><img src="http://localhost/fse-projects/wp-content/themes/upshift/assets/images/cube.svg" alt="" class="wp-image-145" style="width:60px" /></figure>
+                <figure class="wp-block-image size-full is-resized is-style-default"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-145" style="width:60px" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"typography":{"lineHeight":1.4},"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}}},"textColor":"heading","fontSize":"meadium"} -->
@@ -61,7 +61,7 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|xx-small"},"border":{"radius":"20px"}},"backgroundColor":"primary","className":"height-full","layout":{"type":"constrained"}} -->
             <div class="wp-block-group height-full has-primary-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"width":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-resized is-style-default"><img src="http://localhost/fse-projects/wp-content/themes/upshift/assets/images/badge.svg" alt="" class="wp-image-145" style="width:60px" /></figure>
+                <figure class="wp-block-image size-full is-resized is-style-default"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-145" style="width:60px" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
@@ -82,7 +82,7 @@ $images = [
     <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|xx-small"},"border":{"radius":"20px"}},"backgroundColor":"primary","className":"height-full","layout":{"type":"constrained"}} -->
             <div class="wp-block-group height-full has-primary-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"width":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-resized is-style-default"><img src="http://localhost/fse-projects/wp-content/themes/upshift/assets/images/chatting.svg" alt="" class="wp-image-145" style="width:60px" /></figure>
+                <figure class="wp-block-image size-full is-resized is-style-default"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-145" style="width:60px" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"meadium"} -->
@@ -100,7 +100,7 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|xx-small"},"border":{"radius":"20px"}},"backgroundColor":"primary","className":"height-full","layout":{"type":"constrained"}} -->
             <div class="wp-block-group height-full has-primary-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"width":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-resized is-style-default"><img src="http://localhost/fse-projects/wp-content/themes/upshift/assets/images/design.svg" alt="" class="wp-image-145" style="width:60px" /></figure>
+                <figure class="wp-block-image size-full is-resized is-style-default"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-145" style="width:60px" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"meadium"} -->
@@ -118,7 +118,7 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","right":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|40"},"blockGap":"var:preset|spacing|xx-small"},"border":{"radius":"20px"}},"backgroundColor":"primary","className":"height-full","layout":{"type":"constrained"}} -->
             <div class="wp-block-group height-full has-primary-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"width":"60px","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-resized is-style-default"><img src="http://localhost/fse-projects/wp-content/themes/upshift/assets/images/security.svg" alt="" class="wp-image-145" style="width:60px" /></figure>
+                <figure class="wp-block-image size-full is-resized is-style-default"><img src="<?php echo esc_url($images[5]); ?>" alt="" class="wp-image-145" style="width:60px" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
