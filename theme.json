@@ -95,27 +95,27 @@
         {
           "size": "0.5rem",
           "slug": "10",
-          "name": "XXX Small,8"
+          "name": "XXX Small"
         },
         {
           "size": "clamp(0.875rem, 0.875rem + ((1vw - 0.48rem) * 0.24), 1rem)",
           "slug": "20",
-          "name": "XX Small,16"
+          "name": "XX Small"
         },
         {
           "size": "clamp(1rem, calc(1rem + ((1vw - 0.48rem) * 0.6944)), 1.5rem)",
           "slug": "30",
-          "name": "X Small,24"
+          "name": "X Small"
         },
         {
           "size": "clamp(1.25rem, calc(1.25rem + ((1vw - 0.48rem) * 1.0417)), 2rem)",
           "slug": "40",
-          "name": "Small,32"
+          "name": "Small"
         },
         {
           "size": "clamp(2.25rem, calc(2.25rem + ((1vw - 0.48rem) * 1.7857)), 3rem)",
           "slug": "50",
-          "name": "Medium,48"
+          "name": "Medium"
         },
         {
           "size": "clamp(2.5rem, calc(2.5rem + ((1vw - 0.48rem) * 1.3889)), 3.5rem)",
@@ -264,7 +264,7 @@
           "slug": "x-small"
         },
         {
-          "name": "Small,24",
+          "name": "Small",
           "slug": "small",
           "size": "clamp(1rem, calc(1rem + ((1vw - 0.48rem) * 0.1736)), 1.125rem)",
           "fluid": {
@@ -273,7 +273,7 @@
           }
         },
         {
-          "name": "X Meadium,28",
+          "name": "X Meadium",
           "slug": "xmeadium",
           "size": "clamp(1.125rem, calc(1.125rem + ((1vw - 0.48rem) * 0.1736)), 1.25rem)",
           "fluid": {
@@ -282,7 +282,7 @@
           }
         },
         {
-          "name": "Meadium,32",
+          "name": "Meadium",
           "slug": "meadium",
           "size": "clamp(1.25rem, calc(1.25rem + ((1vw - 0.48rem) * 0.3472)), 1.5rem)",
           "fluid": {

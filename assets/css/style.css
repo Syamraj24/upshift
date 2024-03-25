@@ -237,7 +237,9 @@ footer button.wp-block-navigation__submenu-icon.wp-block-navigation-submenu__tog
 .duotone-primary {
     filter: var(--wp--preset--duotone--primary);
 } */
-
+a {
+    text-decoration: none;
+}
 .Upshift-Accordion summary {
     list-style: none;
     position: relative;
@@ -250,9 +252,18 @@ footer button.wp-block-navigation__submenu-icon.wp-block-navigation-submenu__tog
     top: 50%;
     transform: translateY(-50%);
     right: 0;
-    font-size: 32px;
+    font-size: var(--wp--preset--font-size--x-meadium);
 }
 
 .Upshift-Accordion details[open] summary::after {
     content: ' \002D';
+}
+
+.category {
+    width: fit-content;
+    border-radius: 8px;
+}
+
+.category a {
+    text-decoration: none;
 }

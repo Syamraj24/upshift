@@ -127,8 +127,8 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:buttons -->
-                    <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"black","className":"btn-fill"} -->
-                        <div class="wp-block-button btn-fill"><a class="wp-block-button__link has-black-color has-primary-background-color has-text-color has-background wp-element-button">Get Started</a></div>
+                    <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"black","className":"btn-2"} -->
+                        <div class="wp-block-button btn-2"><a class="wp-block-button__link has-black-color has-primary-background-color has-text-color has-background wp-element-button">Get Started</a></div>
                         <!-- /wp:button -->
                     </div>
                     <!-- /wp:buttons -->

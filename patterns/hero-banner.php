@@ -26,8 +26,8 @@ $images = [$get_url . "assets/images/hero-banner.jpg"];
             <!-- /wp:group -->
 
             <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|medium"}}}} -->
-            <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--medium)"><!-- wp:button -->
-                <div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Start a Demo</a></div>
+            <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--medium)"><!-- wp:button {"className":"btn-2"} -->
+                <div class="wp-block-button btn-2"><a class="wp-block-button__link wp-element-button">Start a Demo</a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->
@@ -35,7 +35,7 @@ $images = [$get_url . "assets/images/hero-banner.jpg"];
         <!-- /wp:column -->
         <!-- wp:column {"verticalAlignment":"center","width":"49.16%"} -->
         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:49.16%"><!-- wp:image {"align":"center","lightbox":{"enabled":false},"id":91,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"30px"}}} -->
-            <figure class="wp-block-image aligncenter size-full has-custom-border"><img src="http://localhost/fse-projects/wp-content/themes/upshift/assets/images/hero-banner.jpg" alt="" class="wp-image-91" style="border-radius:30px" /></figure>
+            <figure class="wp-block-image aligncenter size-full has-custom-border"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-91" style="border-radius:30px" /></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->

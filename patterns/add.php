@@ -22,9 +22,9 @@ $images = [
             <h2 class="wp-block-heading has-xxlarge-font-size" style="margin-top:0;margin-right:0;margin-bottom:var(--wp--preset--spacing--40);margin-left:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px">Still a bit curious?<br>Get start today</h2>
             <!-- /wp:heading -->
 
-            <!-- wp:buttons {"className":"no-hover","style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}}}} -->
-            <div class="wp-block-buttons no-hover" style="margin-top:0;margin-bottom:0"><!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"x-small"} -->
-                <div class="wp-block-button has-custom-font-size has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link wp-element-button">Get Started</a></div>
+            <!-- wp:buttons {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}}}} -->
+            <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0"><!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"className":"btn-2","fontSize":"x-small"} -->
+                <div class="wp-block-button has-custom-font-size btn-2 has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link wp-element-button">Get Started</a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->
