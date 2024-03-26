@@ -69,6 +69,11 @@
           "slug": "cloud",
           "color": "#C6C6C6",
           "name": "Cloud"
+        },
+        {
+          "slug": "nav-menu",
+          "color": "#171717",
+          "name": "Nav menu"
         }
       ],
       "duotone": [

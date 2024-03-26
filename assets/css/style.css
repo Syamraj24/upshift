@@ -240,6 +240,7 @@ footer button.wp-block-navigation__submenu-icon.wp-block-navigation-submenu__tog
 a {
     text-decoration: none;
 }
+
 .Upshift-Accordion summary {
     list-style: none;
     position: relative;
@@ -266,4 +267,38 @@ a {
 
 .category a {
     text-decoration: none;
+}
+
+.category a:hover {
+    text-decoration: none;
+    color: var(--wp--preset--color--black);
+}
+
+.btn-2 a:hover {
+    background-color: var(--wp--preset--color--white);
+    color: var(--wp--preset--color--black);
+}
+
+@media(max-width:1140px) {
+    .nav-menu, .nav-btn {
+        display: none!important;
+    }
+   
+}
+
+@media(min-width:1140px) {
+    .mob-menu {
+        display: none;
+    }
+}
+
+@media(max-width:992px) {
+    .mob-hidden {
+        display: none;
+    }
+}
+@media(max-width:768px){
+    .footer-menu{
+        display: none;
+    }
 }
