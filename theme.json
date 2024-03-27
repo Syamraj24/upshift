@@ -74,6 +74,11 @@
           "slug": "nav-menu",
           "color": "#171717",
           "name": "Nav menu"
+        },
+        {
+          "slug": "argent-grey",
+          "color": "#C1C1C1",
+          "name": "Argent grey"
         }
       ],
       "duotone": [

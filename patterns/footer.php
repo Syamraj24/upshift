@@ -20,7 +20,7 @@ $images = [
             <!-- /wp:image -->
 
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"body-alt","fontSize":"small"} -->
-            <p class="has-body-alt-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600">Advanced creation platform for web professionals.</p>
+            <p class="has-body-alt-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e('Advanced creation platform for web professionals.', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:column -->
@@ -29,14 +29,13 @@ $images = [
         <div class="wp-block-column footer-menu"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}},"className":"mob-hidden"} -->
             <div class="wp-block-columns alignwide mob-hidden" style="padding-top:var(--wp--preset--spacing--20)"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px">Pages</h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Pages', 'upshift'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Features', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Company', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Blog', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Services', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Contact us', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Reviews', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
@@ -47,14 +46,13 @@ $images = [
 
                 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px">Support</h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Support', 'upshift'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Docs', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Hooks & Functions', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Contact us', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Support (Tech)', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Feedback', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Roadmap', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
@@ -65,7 +63,7 @@ $images = [
 
                 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px">Company</h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Company', 'upshift'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
@@ -82,7 +80,7 @@ $images = [
 
                 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px">Products</h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Products', 'upshift'); ?></h2>
                     <!-- /wp:heading -->
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Products List', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->

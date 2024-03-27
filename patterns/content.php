@@ -11,15 +11,15 @@
 <div class="wp-block-group has-white-background-color has-background" style="padding-top:var(--wp--preset--spacing--55);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns -->
     <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
         <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"4px"}}}} -->
-            <h2 class="wp-block-heading" style="margin-bottom:4px">Take a look at the results we had achieved</h2>
+            <h2 class="wp-block-heading" style="margin-bottom:4px"><?php esc_html_e('Take a look at the results we had achieved', 'upshift'); ?></h2>
             <!-- /wp:heading -->
 
             <!-- wp:paragraph -->
-            <p>Mauris laoreet erat dolor, eget porta libero gravida nec. Sed vitae ultricies velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent molestie rutrum nisi a laoreet.</p>
+            <p><?php esc_html_e('Mauris laoreet erat dolor, eget porta libero gravida nec. Sed vitae ultricies velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent molestie rutrum nisi a laoreet.', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
 
             <!-- wp:paragraph -->
-            <p>Duis vestibulum sodales ante sed malesuada. Nam consectetur sed ex eget blandit. In eget ante nisl. Sed laoreet id nisi ut suscipit. Etiam vestibulum</p>
+            <p><?php esc_html_e('Duis vestibulum sodales ante sed malesuada. Nam consectetur sed ex eget blandit. In eget ante nisl. Sed laoreet id nisi ut suscipit. Etiam vestibulum', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:column -->
@@ -31,7 +31,7 @@
                 <!-- /wp:spacer -->
 
                 <!-- wp:heading {"level":4} -->
-                <h4 class="wp-block-heading">3.2 million<br>happy customers</h4>
+                <h4 class="wp-block-heading"><?php esc_html_e('3.2 million', 'upshift'); ?><br><?php esc_html_e('happy customers', 'upshift'); ?></h4>
                 <!-- /wp:heading -->
 
                 <!-- wp:separator -->
@@ -39,7 +39,7 @@
                 <!-- /wp:separator -->
 
                 <!-- wp:heading {"level":4} -->
-                <h4 class="wp-block-heading">745k<br>monthly active users</h4>
+                <h4 class="wp-block-heading"><?php esc_html_e('745k', 'upshift'); ?><br><?php esc_html_e('monthly active users', 'upshift'); ?></h4>
                 <!-- /wp:heading -->
 
                 <!-- wp:separator -->
@@ -47,9 +47,8 @@
                 <!-- /wp:separator -->
 
                 <!-- wp:heading {"level":4} -->
-                <h4 class="wp-block-heading">$10 million gross<br>merchandise volume</h4>
+                <h4 class="wp-block-heading"><?php esc_html_e('$10 million gross', 'upshift'); ?><br><?php esc_html_e('merchandise volume', 'upshift'); ?></h4>
                 <!-- /wp:heading -->
-
                 <!-- wp:spacer {"height":"11px"} -->
                 <div style="height:11px" aria-hidden="true" class="wp-block-spacer"></div>
                 <!-- /wp:spacer -->

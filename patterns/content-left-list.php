@@ -13,17 +13,16 @@ $images = [
 
 ];
 ?>
-
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-white-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"}}},"textColor":"night-black"} -->
     <div class="wp-block-columns alignwide are-vertically-aligned-center has-night-black-color has-text-color"><!-- wp:column {"verticalAlignment":"center"} -->
         <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
             <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"lineHeight":1.3,"letterSpacing":"0.01em"}}} -->
-                <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3">Solutions for the unique business</h2>
+                <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Solutions for the unique business', 'upshift'); ?></h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.6"}},"fontSize":"xmeadium"} -->
-                <p class="has-xmeadium-font-size" style="font-style:normal;font-weight:600;line-height:1.6">We are dedicated to helping businesses improve the experience they provide for their customers.</p>
+                <p class="has-xmeadium-font-size" style="font-style:normal;font-weight:600;line-height:1.6"><?php esc_html_e('We are dedicated to helping businesses improve the experience they provide for their customers.', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
@@ -37,7 +36,7 @@ $images = [
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8">Meet your customer needs with Sense</p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Meet your customer needs with Sense', 'upshift'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->
@@ -54,7 +53,7 @@ $images = [
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8">Automate managing and communicating ui</p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Automate managing and communicating ui', 'upshift'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->
@@ -71,7 +70,7 @@ $images = [
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8">Get your reporting and analytics at one place</p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Get your reporting and analytics at one place', 'upshift'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->
@@ -88,7 +87,7 @@ $images = [
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8">Human support and live chat functionality</p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Human support and live chat functionality', 'upshift'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->

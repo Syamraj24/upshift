@@ -41,7 +41,7 @@
 
         <!-- wp:query-no-results {"align":"wide"} -->
         <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when a query returns no results.","fontSize":"large"} -->
-        <p class="has-text-align-center has-large-font-size">Sorry, but nothing matched your search terms.<br>Try another search?</p>
+        <p class="has-text-align-center has-large-font-size"><?php esc_html_e('Sorry, but nothing matched your search terms', 'upshift'); ?> <br><?php esc_html_e(' Try another search?', 'upshift'); ?></p>
         <!-- /wp:paragraph -->
 
         <!-- wp:search {"label":"Search","showLabel":false,"width":50,"widthUnit":"%","buttonText":"Search","buttonPosition":"button-inside","buttonUseIcon":true,"align":"center","className":"is-style-swt-search-minimal"} /-->
