@@ -6,8 +6,7 @@
  * Categories: featured
  * Keywords: Features two columns icons
  */
-$get_url = get_template_directory_uri();
-
+$get_url = trailingslashit(get_template_directory_uri());
 $images = [
     $get_url . "/assets/images/support-1.svg",
     $get_url . "/assets/images/support-2.svg",
