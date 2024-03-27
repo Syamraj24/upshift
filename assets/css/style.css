@@ -11,6 +11,7 @@ img {
     max-width: 100%;
 
 }
+
 .Upshift-Accordion summary {
     list-style: none;
     position: relative;
@@ -50,10 +51,12 @@ img {
 }
 
 @media(max-width:1140px) {
-    .nav-menu, .nav-btn {
-        display: none!important;
+
+    .nav-menu,
+    .nav-btn {
+        display: none !important;
     }
-   
+
 }
 
 @media(min-width:1140px) {
@@ -67,8 +70,9 @@ img {
         display: none;
     }
 }
-@media(max-width:768px){
-    .footer-menu{
+
+@media(max-width:768px) {
+    .footer-menu {
         display: none;
     }
 }
