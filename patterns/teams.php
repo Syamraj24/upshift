@@ -4,9 +4,9 @@
  * Title: Team Members
  * Slug: teams
  * Categories: gallery
+ * Keywords: Team Members
  */
-$get_url = get_template_directory_uri();
-
+$get_url = trailingslashit(get_template_directory_uri());
  $images = [
      $get_url . "/assets/images/team-1.jpg",
      $get_url . "/assets/images/team-2.jpg",

@@ -1,61 +1,61 @@
 <?php
- function upshift_register() {
-    register_block_pattern_category(
-        'hero',
-        [ 
-            'label' => __( 'Hero', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'gallery',
-        [ 
-            'label' => __( 'Gallery', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'features',
-        [ 
-            'label' => __( 'Features', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'testimonial',
-        [ 
-            'label' => __( 'Testimonial', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'blog',
-        [ 
-            'label' => __( 'blog', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'faq',
-        [ 
-            'label' => __( 'Faq', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'contact',
-        [ 
-            'label' => __( 'Contact', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'content',
-        [ 
-            'label' => __( 'Content', 'upshift' )
-        ]
-    );
-    register_block_pattern_category(
-        'count',
-        [ 
-            'label' => __( 'counts', 'upshift' )
-        ]
-    );
- }
-add_action( 'init', 'upshift_register' );
+//  function upshift_register() {
+//     register_block_pattern_category(
+//         'hero',
+//         [ 
+//             'label' => __( 'Hero', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'gallery',
+//         [ 
+//             'label' => __( 'Gallery', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'features',
+//         [ 
+//             'label' => __( 'Features', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'testimonial',
+//         [ 
+//             'label' => __( 'Testimonial', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'blog',
+//         [ 
+//             'label' => __( 'blog', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'faq',
+//         [ 
+//             'label' => __( 'Faq', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'contact',
+//         [ 
+//             'label' => __( 'Contact', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'content',
+//         [ 
+//             'label' => __( 'Content', 'upshift' )
+//         ]
+//     );
+//     register_block_pattern_category(
+//         'count',
+//         [ 
+//             'label' => __( 'counts', 'upshift' )
+//         ]
+//     );
+//  }
+// add_action( 'init', 'upshift_register' );
 
 add_action('init', function() {
     remove_theme_support('core-block-patterns');

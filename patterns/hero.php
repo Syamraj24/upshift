@@ -2,7 +2,8 @@
 /**
  * Title: Hero
  * Slug: hero
- * Categories: hero
+ * Categories: banner
+ * Keywords: Hero
  */
 ?>
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"24px"}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained"}} -->

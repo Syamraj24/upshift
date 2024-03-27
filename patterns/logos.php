@@ -4,7 +4,18 @@
  * Title: Logos
  * Slug: logos
  * Categories: gallery
+ * Keywords:Logos
  */
+$get_url = trailingslashit(get_template_directory_uri());
+$images = [
+    $get_url . "/assets/images/Nextmove.svg",
+    $get_url . "/assets/images/Ebooks.svg",
+    $get_url . "/assets/images/cloud.svg",
+    $get_url . "/assets/images/vision.svg",
+    $get_url . "/assets/images/rise.svg",
+
+
+];
 ?>
 
 <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
@@ -13,23 +24,23 @@
         <p class="has-xmeadium-font-size" style="padding-top:0;padding-right:6px;padding-bottom:0;padding-left:0;font-style:normal;font-weight:700">Trusted by these brands:</p>
         <!-- /wp:paragraph -->
         <!-- wp:image {"id":2965,"sizeSlug":"xlarge","linkDestination":"custom"} -->
-        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url(get_theme_file_uri("assets/images/Nextmove.svg")); ?>" alt="" class="wp-image-2965" /></figure>
+        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-2965" /></figure>
         <!-- /wp:image -->
 
         <!-- wp:image {"id":2964,"sizeSlug":"xlarge","linkDestination":"custom"} -->
-        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url(get_theme_file_uri("assets/images/Ebooks.svg")); ?>" alt="" class="wp-image-2964" /></figure>
+        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-2964" /></figure>
         <!-- /wp:image -->
 
         <!-- wp:image {"id":2962,"sizeSlug":"xlarge","linkDestination":"custom"} -->
-        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url(get_theme_file_uri("assets/images/cloud.svg")); ?>" alt="" class="wp-image-2962" /></figure>
+        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-2962" /></figure>
         <!-- /wp:image -->
 
         <!-- wp:image {"id":2963,"sizeSlug":"xlarge","linkDestination":"custom"} -->
-        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url(get_theme_file_uri("assets/images/vision.svg")); ?>" alt="" class="wp-image-2963" /></figure>
+        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-2963" /></figure>
         <!-- /wp:image -->
 
         <!-- wp:image {"id":2961,"sizeSlug":"xlarge","linkDestination":"custom"} -->
-        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url(get_theme_file_uri("assets/images/rise.svg")); ?>" alt="" class="wp-image-2961" /></figure>
+        <figure class="wp-block-image size-xlarge"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-2961" /></figure>
         <!-- /wp:image -->
     </div>
     <!-- /wp:group -->

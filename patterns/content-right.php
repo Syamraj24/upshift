@@ -3,36 +3,47 @@
 /**
  * Title: Content right
  * Slug: content-right
- * Categories: content
+ * Categories: featured
+ * Keywords: Content right
  */
+$get_url = trailingslashit(get_template_directory_uri());
+$images = [
+    $get_url . "/assets/images/product.jpg",
+];
 ?>
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0"},"blockGap":"var:preset|spacing|xlarge"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="padding-top:0;padding-bottom:0"><!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80","right":"var:preset|spacing|20","left":"var:preset|spacing|20"}},"border":{"radius":"20px"}},"backgroundColor":"white-smoke","layout":{"type":"constrained","wideSize":"980px"}} -->
-<div class="wp-block-group alignwide has-white-smoke-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--20)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"}}},"textColor":"night-black"} -->
-<div class="wp-block-columns alignwide are-vertically-aligned-center has-night-black-color has-text-color"><!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:image {"id":378,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}}} -->
-<figure class="wp-block-image size-full has-custom-border"><img src="<?php echo esc_url(get_theme_file_uri("assets/images/product.png")); ?>" alt="" class="wp-image-378" style="border-radius:20px"/></figure>
-<!-- /wp:image --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column -->
+    <div class="wp-block-group alignwide has-white-smoke-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--20);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--20)"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"}}},"textColor":"night-black"} -->
+        <div class="wp-block-columns alignwide are-vertically-aligned-center has-night-black-color has-text-color"><!-- wp:column {"verticalAlignment":"center"} -->
+            <div class="wp-block-column is-vertically-aligned-center">
 
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"lineHeight":1.3,"letterSpacing":"0.01em"}}} -->
-<h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3">We create products that users love</h2>
-<!-- /wp:heading -->
+                <!-- wp:image {"id":378,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}}} -->
+                <figure class="wp-block-image size-full has-custom-border"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-378" style="border-radius:20px" /></figure>
+                <!-- /wp:image -->
+            </div>
+            <!-- /wp:column -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.6"}},"fontSize":"xmeadium"} -->
-<p class="has-xmeadium-font-size" style="font-style:normal;font-weight:700;line-height:1.6">Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet</p>
-<!-- /wp:paragraph -->
+            <!-- wp:column {"verticalAlignment":"center"} -->
+            <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
+                <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"lineHeight":1.3,"letterSpacing":"0.01em"}}} -->
+                    <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3">We create products that users love</h2>
+                    <!-- /wp:heading -->
 
-<!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-<p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8">Eros, mi tincidunt lorem donec aenean. Facilisis velit eget morbi urna, in sed viverra sagittis dolor. Ultrices sem mattis eget faucibus tortor.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:group --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group --></div>
+                    <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.6"}},"fontSize":"xmeadium"} -->
+                    <p class="has-xmeadium-font-size" style="font-style:normal;font-weight:700;line-height:1.6">Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet</p>
+                    <!-- /wp:paragraph -->
+
+                    <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
+                    <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8">Eros, mi tincidunt lorem donec aenean. Facilisis velit eget morbi urna, in sed viverra sagittis dolor. Ultrices sem mattis eget faucibus tortor.</p>
+                    <!-- /wp:paragraph -->
+                </div>
+                <!-- /wp:group -->
+            </div>
+            <!-- /wp:column -->
+        </div>
+        <!-- /wp:columns -->
+    </div>
+    <!-- /wp:group -->
+</div>
 <!-- /wp:group -->
