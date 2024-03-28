@@ -84,11 +84,18 @@
       "duotone": [
         {
           "colors": [
-            "#FB9B58",
-            "#FB9B58"
+            "#000000",
+            "#000000"
           ],
           "slug": "primary",
-          "name": "primary"
+          "name": "Primary"
+        },{
+          "colors": [
+            "#000000",
+            "#000000"
+          ],
+          "slug": "secondary",
+          "name": "Secondary"
         }
       ]
     },
@@ -372,7 +379,7 @@
   },
   "styles": {
     "color": {
-      "background": "var(--wp--preset--color--background)",
+      "background": "var(--wp--preset--color--white)",
       "text": "var(--wp--preset--color--black)"
     },
     "blocks": {
@@ -388,7 +395,7 @@
       },
       "core/paragraph": {
         "color": {
-          "text": "var(--wp--preset--color--paragraph)"
+          "text": "var(--wp--preset--color--black)"
         }
       }
     },
