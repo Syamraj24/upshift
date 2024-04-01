@@ -24,9 +24,9 @@ $images = [
 
     <!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"bottom":"20px"}}}} -->
     <div class="wp-block-columns alignwide" style="margin-bottom:20px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
-        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained","justifyContent":"center"}} -->
-            <div class="wp-block-group has-white-color has-black-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"white","fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-white-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4">Everything is in the cloud</h5>
+        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"text-color","textColor":"bg-color","layout":{"type":"constrained","justifyContent":"center"}} -->
+            <div class="wp-block-group has-bg-color-color has-text-color-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"bg-color","fontSize":"meadium"} -->
+                <h5 class="wp-block-heading has-bg-color-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4">Everything is in the cloud</h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
@@ -69,8 +69,8 @@ $images = [
 
     <!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"bottom":"20px"}}}} -->
     <div class="wp-block-columns alignwide" style="margin-bottom:20px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
-        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"primary","textColor":"black","layout":{"type":"constrained","justifyContent":"center"}} -->
-            <div class="wp-block-group has-black-color has-primary-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
+        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"primary","textColor":"text-color","layout":{"type":"constrained","justifyContent":"center"}} -->
+            <div class="wp-block-group has-text-color-color has-primary-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
                 <h5 class="wp-block-heading has-heading-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4">Quality assurance</h5>
                 <!-- /wp:heading -->
 
@@ -90,9 +90,9 @@ $images = [
         <!-- /wp:column -->
 
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
-        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained","justifyContent":"center"}} -->
-            <div class="wp-block-group has-white-color has-black-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"white","fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-white-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4">24/7 live support</h5>
+        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"text-color","textColor":"bg-color","layout":{"type":"constrained","justifyContent":"center"}} -->
+            <div class="wp-block-group has-bg-color-color has-text-color-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"bg-color","fontSize":"meadium"} -->
+                <h5 class="wp-block-heading has-bg-color-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4">24/7 live support</h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
@@ -114,9 +114,9 @@ $images = [
 
     <!-- wp:columns {"align":"wide"} -->
     <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
-        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained","justifyContent":"center"}} -->
-            <div class="wp-block-group has-white-color has-black-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"white","fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-white-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4">Customize your UIs</h5>
+        <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"text-color","textColor":"bg-color","layout":{"type":"constrained","justifyContent":"center"}} -->
+            <div class="wp-block-group has-bg-color-color has-text-color-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"bg-color","fontSize":"meadium"} -->
+                <h5 class="wp-block-heading has-bg-color-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4">Customize your UIs</h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
