@@ -28,7 +28,7 @@
                 },
                 {
                     "slug": "grey",
-                    "color": "rgba(22, 22, 19, 0.5)",
+                    "color": "#999999",
                     "name": "Grey"
                 },
                 {
@@ -85,6 +85,16 @@
                     "slug": "button",
                     "color": "#DA3768",
                     "name": "BUtton"
+                },
+                {
+                    "name": "BG Color",
+                    "color": "#000000",
+                    "slug": "bg-color"
+                },
+                {
+                    "name": "Text Color",
+                    "color": "#ffffff",
+                    "slug": "text-color"
                 }
             ],
             "duotone": [

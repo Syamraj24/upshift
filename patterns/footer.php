@@ -86,11 +86,8 @@ $images = [
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Products List', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Plans & Pricing', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Services', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
                     <!-- wp:navigation-link {"label":"<?php esc_html_e('Partners', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-
                     <!-- /wp:navigation -->
-
                 </div>
                 <!-- /wp:column -->
             </div>

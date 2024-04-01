@@ -79,6 +79,16 @@
           "slug": "argent-grey",
           "color": "#C1C1C1",
           "name": "Argent grey"
+        },
+        {
+          "name": "BG Color",
+          "color": "#FFFFFF",
+          "slug": "bg-color"
+        },
+        {
+          "name": "Text Color",
+          "color": "#000000",
+          "slug": "text-color"
         }
       ],
       "duotone": [

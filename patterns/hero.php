@@ -7,8 +7,8 @@
  * Keywords: Hero
  */
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"24px"}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-color has-black-background-color has-text-color has-background" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","wideSize":"780px","justifyContent":"center"}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"24px"}},"backgroundColor":"text-color","textColor":"bg-color","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-bg-color-color has-text-color-background-color has-text-color has-background" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)"><!-- wp:group {"align":"wide","layout":{"type":"constrained","wideSize":"780px","justifyContent":"center"}} -->
     <div class="wp-block-group alignwide"><!-- wp:heading {"textAlign":"center","level":1} -->
         <h1 class="wp-block-heading has-text-align-center"><?php esc_html_e('We are Up Shift &amp;', 'upshift'); ?><br><?php esc_html_e('we create digital things', 'upshift'); ?></h1>
         <!-- /wp:heading -->
