@@ -95,11 +95,6 @@
                     "name": "Text Color",
                     "color": "#ffffff",
                     "slug": "text-color"
-                },
-                {
-                    "name": "BG Section",
-                    "color": "#202020",
-                    "slug": "section-bg"
                 }
             ],
             "duotone": [
