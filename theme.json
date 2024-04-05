@@ -13,7 +13,7 @@
         },
         {
           "slug": "secondary",
-          "color": "#020204",
+          "color": "#000000",
           "name": "Secondary"
         },
         {
@@ -23,12 +23,12 @@
         },
         {
           "slug": "background",
-          "color": "#f9f9f9",
+          "color": "#F2F2F2",
           "name": "Background"
         },
         {
           "slug": "grey",
-          "color": "rgba(22, 22, 19, 0.5)",
+          "color": "#828282",
           "name": "Grey"
         },
         {
@@ -37,59 +37,14 @@
           "name": "Dark"
         },
         {
-          "slug": "dawnpink",
-          "color": "#E8E8E8",
-          "name": "dawn Pink"
-        },
-        {
-          "slug": "naturalgrey",
-          "color": "#878787",
-          "name": "Natural Grey"
-        },
-        {
-          "slug": "white-smoke",
-          "color": "#F2F2F2",
-          "name": "White smoke"
-        },
-        {
-          "slug": "night-black",
-          "color": "#010101",
-          "name": "Night black"
-        },
-        {
-          "slug": "silver",
-          "color": "#CDCDCD",
-          "name": "Silver"
-        },
-        {
           "slug": "Border",
-          "color": "#B9B9B9",
+          "color": "#B5B5B5",
           "name": "Border"
-        },
-        {
-          "slug": "cloud",
-          "color": "#C6C6C6",
-          "name": "Cloud"
-        },
-        {
-          "slug": "nav-menu",
-          "color": "#171717",
-          "name": "Nav menu"
-        },
-        {
-          "slug": "argent-grey",
-          "color": "#C1C1C1",
-          "name": "Argent grey"
         },
         {
           "name": "BG Color",
           "color": "#FFFFFF",
           "slug": "bg-color"
-        },
-        {
-          "name": "Text Color",
-          "color": "#000000",
-          "slug": "text-color"
         }
       ],
       "duotone": [
@@ -406,7 +361,7 @@
       },
       "core/paragraph": {
         "color": {
-          "text": "var(--wp--preset--color--text-color)"
+          "text": "var(--wp--preset--color--secondary)"
         }
       }
     },
@@ -424,13 +379,13 @@
           }
         },
         "color": {
-          "background": "var(--wp--preset--color--text-color)",
+          "background": "var(--wp--preset--color--secondary)",
           "text": "var(--wp--preset--color--bg-color)"
         },
         ":hover": {
           "color": {
             "background": "var(--wp--preset--color--primary)",
-            "text": "var(--wp--preset--color--text-color)"
+            "text": "var(--wp--preset--color--secondary)"
           }
         },
         "typography": {

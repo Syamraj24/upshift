@@ -110,7 +110,7 @@ textarea {
     font-weight: var(--wp--custom--font-weight--medium);
     background: var(--wp--preset--color--white);
     border: 0.5px solid var(--wp--preset--color--black);
-    color: var(--wp--preset--color--argent-grey);
+    color: var(--wp--preset--color--grey);
     letter-spacing: 0.02em;
     box-sizing: border-box;
     text-transform: capitalize;

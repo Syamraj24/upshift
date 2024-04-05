@@ -14,8 +14,8 @@ $images = [
     $get_url . "/assets/images/features-4.svg",
 ];
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"text-color","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-text-color-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-secondary-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
     <div class="wp-block-columns alignwide"><!-- wp:column {"width":"49.15%","style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"default"}} -->
         <div class="wp-block-column" style="flex-basis:49.15%"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"}}}} -->
             <div class="wp-block-columns alignwide"><!-- wp:column -->
@@ -109,8 +109,8 @@ $images = [
                 <!-- /wp:paragraph -->
 
                 <!-- wp:buttons -->
-                <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"text-color","style":{"elements":{"link":{"color":{"text":"var:preset|color|text-color"}}}},"className":"btn-2"} -->
-                    <div class="wp-block-button btn-2"><a class="wp-block-button__link has-text-color-color has-primary-background-color has-text-color has-background has-link-color wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+                <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"className":"btn-2"} -->
+                    <div class="wp-block-button btn-2"><a class="wp-block-button__link has-secondary-color has-primary-background-color has-text-color has-background has-link-color wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                     <!-- /wp:button -->
                 </div>
                 <!-- /wp:buttons -->

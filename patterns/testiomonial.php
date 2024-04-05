@@ -27,8 +27,8 @@ $images = [
                     <p class="has-review-color has-text-color" style="font-size:21px">★★★★★</p>
                     <!-- /wp:paragraph -->
 
-                    <!-- wp:paragraph {"style":{"spacing":{"padding":{"left":"0","bottom":"var:preset|spacing|10"}},"typography":{"lineHeight":"1.9"}},"textColor":"text-color","fontSize":"x-small"} -->
-                    <p class="has-text-color-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('“Viverra sem cursus ut consectetur at. Habitant lectus duis neque dui viverra dui. Magna pellentesque posuere nisl diam faucibus diam. Sapien at eleifend elit gravida amet tempus tortor. Lacinia egestas.”', 'upshift'); ?></p>
+                    <!-- wp:paragraph {"style":{"spacing":{"padding":{"left":"0","bottom":"var:preset|spacing|10"}},"typography":{"lineHeight":"1.9"}},"textColor":"secondary","fontSize":"x-small"} -->
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('“Viverra sem cursus ut consectetur at. Habitant lectus duis neque dui viverra dui. Magna pellentesque posuere nisl diam faucibus diam. Sapien at eleifend elit gravida amet tempus tortor. Lacinia egestas.”', 'upshift'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -59,8 +59,8 @@ $images = [
                     <p class="has-review-color has-text-color" style="font-size:21px">★★★★★</p>
                     <!-- /wp:paragraph -->
 
-                    <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"text-color","fontSize":"x-small"} -->
-                    <p class="has-text-color-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique a tortor at elementum. Praesent volutpat, dolor et euismod congue, tellus ex cursus ipsum, eget posuere lacus ipsum a felis.volutpat, dolor et', 'upshift'); ?></p>
+                    <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique a tortor at elementum. Praesent volutpat, dolor et euismod congue, tellus ex cursus ipsum, eget posuere lacus ipsum a felis.volutpat, dolor et', 'upshift'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -94,8 +94,8 @@ $images = [
                     <p class="has-review-color has-text-color" style="font-size:21px">★★★★★</p>
                     <!-- /wp:paragraph -->
 
-                    <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"text-color","fontSize":"x-small"} -->
-                    <p class="has-text-color-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'upshift'); ?></p>
+                    <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'upshift'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -126,8 +126,8 @@ $images = [
                     <p class="has-review-color has-text-color" style="font-size:21px">★★★★★</p>
                     <!-- /wp:paragraph -->
 
-                    <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"text-color","fontSize":"x-small"} -->
-                    <p class="has-text-color-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'upshift'); ?></p>
+                    <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'upshift'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->

@@ -47,8 +47,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Patrick Meyer', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Chairman &amp; CEO', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Chairman &amp; CEO', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
@@ -62,8 +62,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Cameron Williamson', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Senior manager', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Senior manager', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
@@ -78,8 +78,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Jane Cooper', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Project manager', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Project manager', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
@@ -93,8 +93,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Wade Warren', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Senior developer', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Senior developer', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
@@ -111,8 +111,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Liam Kim', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Resolution Expert', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Resolution Expert', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
@@ -126,8 +126,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Ava Rodriguez', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Solving Guru', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Solving Guru', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
@@ -141,8 +141,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Cody Fischer', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Satisfaction Champion', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Satisfaction Champion', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->
@@ -156,8 +156,8 @@ $images = [
                 <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Leslie Alexander', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"naturalgrey","fontSize":"x-small"} -->
-                <p class="has-naturalgrey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Business Developer', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
+                <p class="has-grey-color has-text-color has-x-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Business Developer', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:column -->

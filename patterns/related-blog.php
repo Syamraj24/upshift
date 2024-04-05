@@ -6,13 +6,13 @@
  * Categories: posts
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|80"},"blockGap":"0"}},"backgroundColor":"text-color","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-text-color-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|55"}}},"textColor":"bg-color"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|80"},"blockGap":"0"}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-secondary-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|55"}}},"textColor":"bg-color"} -->
     <h2 class="wp-block-heading has-text-align-center has-bg-color-color has-text-color" style="padding-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Related articles', 'upshift'); ?></h2>
     <!-- /wp:heading -->
 
     <!-- wp:query {"queryId":0,"query":{"perPage":3,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"displayLayout":{"type":"flex","columns":3},"align":"wide","layout":{"inherit":false}} -->
-    <div class="wp-block-query alignwide"><!-- wp:post-template -->
+    <div class="wp-block-query alignwide"><!-- wp:post-template {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"grid","columnCount":3}} -->
         <!-- wp:group {"style":{"border":{"radius":"20px"}},"backgroundColor":"bg-color","layout":{"type":"constrained","justifyContent":"left"}} -->
         <div class="wp-block-group has-bg-color-background-color has-background" style="border-radius:20px"><!-- wp:post-featured-image {"isLink":true,"style":{"border":{"radius":"20px"}}} /-->
 
