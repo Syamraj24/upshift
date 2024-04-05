@@ -1,7 +1,7 @@
 {
     "$schema": "https://schemas.wp.org/trunk/theme.json",
     "version": 2,
-    "title": "dark",
+    "title": "yellow",
     "settings": {
         "appearanceTools": true,
         "color": {
@@ -12,84 +12,34 @@
                     "name": "Primary"
                 },
                 {
-                    "slug": "secondary",
-                    "color": "#020204",
-                    "name": "Secondary"
+                  "slug": "background",
+                  "color": "#f9f9f9",
+                  "name": "Background"
                 },
                 {
-                    "slug": "Review",
-                    "color": "#F16522",
-                    "name": "review"
+                  "slug": "grey",
+                  "color": "rgba(22, 22, 19, 0.5)",
+                  "name": "Grey"
                 },
                 {
-                    "slug": "background",
-                    "color": "#f9f9f9",
-                    "name": "Background"
+                  "name": "BG Color",
+                  "color": "#FFFFFF",
+                  "slug": "bg-color"
                 },
                 {
-                    "slug": "grey",
-                    "color": "rgba(22, 22, 19, 0.5)",
-                    "name": "Grey"
-                },
-                {
-                    "slug": "dark",
-                    "color": "#151B1F",
-                    "name": "Dark"
-                },
-                {
-                    "slug": "dawnpink",
-                    "color": "#E8E8E8",
-                    "name": "dawn Pink"
-                },
-                {
-                    "slug": "naturalgrey",
-                    "color": "#878787",
-                    "name": "Natural Grey"
-                },
-                {
-                    "slug": "white-smoke",
-                    "color": "#F2F2F2",
-                    "name": "White smoke"
-                },
-                {
-                    "slug": "night-black",
-                    "color": "#010101",
-                    "name": "Night black"
-                },
-                {
-                    "slug": "silver",
-                    "color": "#CDCDCD",
-                    "name": "Silver"
-                },
-                {
-                    "slug": "Border",
-                    "color": "#B9B9B9",
-                    "name": "Border"
-                },
-                {
-                    "slug": "cloud",
-                    "color": "#C6C6C6",
-                    "name": "Cloud"
-                },
-                {
-                    "slug": "nav-menu",
-                    "color": "#171717",
-                    "name": "Nav menu"
-                },
-                {
-                    "slug": "argent-grey",
-                    "color": "#C1C1C1",
-                    "name": "Argent grey"
+                  "name": "Text Color",
+                  "color": "#000000",
+                  "slug": "text-color"
                 }
             ],
             "duotone": [
                 {
                     "colors": [
-                        "#000000",
-                        "#000000"
+                        "#FF710A",
+                        "#FFCB47"
                     ],
-                    "slug": "primary",
-                    "name": "Primary"
+                    "slug": "yellow",
+                    "name": "yellow"
                 }
             ]
         }
