@@ -2,7 +2,7 @@
 
 /**
  * Title: Content left list
- * Slug: content-left-list
+ * Slug: upshift/content-left-list
  * Categories: featured
  * Keywords: Content left list
  */

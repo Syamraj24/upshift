@@ -2,7 +2,7 @@
 
 /**
  * Title: Related Blog
- * Slug: related-blog
+ * Slug: upshift/related-blog
  * Categories: blog
  */
 ?>

@@ -2,7 +2,7 @@
 
 /**
  * Title: Features Three Columns button
- * Slug: features-three-columns-button
+ * Slug: upshift/features-three-columns-button
  * Categories: featured
  * Keywords: Features Three Columns button
  */

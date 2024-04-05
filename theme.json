@@ -1,6 +1,7 @@
 {
   "$schema": "https://schemas.wp.org/trunk/theme.json",
   "version": 2,
+  
   "settings": {
     "appearanceTools": true,
     "color": {
@@ -89,6 +90,11 @@
           "name": "Text Color",
           "color": "#000000",
           "slug": "text-color"
+        },
+        {
+          "name": "BG Section",
+          "color": "#000000",
+          "slug": "section-bg"
         }
       ],
       "duotone": [
@@ -405,7 +411,7 @@
       },
       "core/paragraph": {
         "color": {
-          "text": "var(--wp--preset--color--black)"
+          "text": "var(--wp--preset--color--text-color)"
         }
       }
     },
@@ -423,13 +429,13 @@
           }
         },
         "color": {
-          "background": "var(--wp--preset--color--black)",
-          "text": "var(--wp--preset--color--white)"
+          "background": "var(--wp--preset--color--text-color)",
+          "text": "var(--wp--preset--color--bg-color)"
         },
         ":hover": {
           "color": {
             "background": "var(--wp--preset--color--primary)",
-            "text": "var(--wp--preset--color--black)"
+            "text": "var(--wp--preset--color--text-color)"
           }
         },
         "typography": {
