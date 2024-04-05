@@ -23,7 +23,7 @@
             <div class="wp-block-columns are-vertically-aligned-center">
                 <!-- wp:column {"verticalAlignment":"center","width":""} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"top":"4px","right":"var:preset|spacing|10","left":"var:preset|spacing|10","bottom":"4px"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"green","textColor":"dark","className":"category","fontSize":"xxx-small"} /-->
+                    <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"top":"4px","right":"var:preset|spacing|10","left":"var:preset|spacing|10","bottom":"4px"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"green","textColor":"secondary","className":"category","fontSize":"xxx-small"} /-->
                 </div>
                 <!-- /wp:column -->
 

@@ -32,11 +32,6 @@
           "name": "Grey"
         },
         {
-          "slug": "dark",
-          "color": "#151B1F",
-          "name": "Dark"
-        },
-        {
           "slug": "Border",
           "color": "#B5B5B5",
           "name": "Border"
