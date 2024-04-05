@@ -2,7 +2,7 @@
 
 /**
  * Title: Content right
- * Slug: content-right
+ * Slug: upshift/content-right
  * Categories: featured
  * Keywords: Content right
  */

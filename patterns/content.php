@@ -2,7 +2,7 @@
 
 /**
  * Title: Content
- * Slug: content
+ * Slug: upshift/content
  * Categories: featured
  * Keywords: Content
  */

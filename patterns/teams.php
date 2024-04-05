@@ -2,7 +2,7 @@
 
 /**
  * Title: Team Members
- * Slug: teams
+ * Slug: upshift/teams
  * Categories: gallery
  * Keywords: Team Members
  */

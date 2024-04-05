@@ -2,7 +2,7 @@
 
 /**
  * Title: Content right count
- * Slug: content-right-count
+ * Slug: upshift/content-right-count
  * Categories: featured
  * Keywords: Content right count
  */

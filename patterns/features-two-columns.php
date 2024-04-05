@@ -2,7 +2,7 @@
 
 /**
  * Title: Features two columns
- * Slug: features-two-columns
+ * Slug: upshift/features-two-columns
  * Categories: featured
  * Keywords: Features two columns
  */

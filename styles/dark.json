@@ -8,7 +8,7 @@
             "palette": [
                 {
                     "slug": "primary",
-                    "color": "#101111",
+                    "color": "#202020",
                     "name": "Primary"
                 },
                 {
@@ -33,12 +33,12 @@
                 },
                 {
                     "slug": "dark",
-                    "color": "#151B1F",
+                    "color": "#FFFFFF",
                     "name": "Dark"
                 },
                 {
                     "slug": "dawnpink",
-                    "color": "#E8E8E8",
+                    "color": "#202020",
                     "name": "dawn Pink"
                 },
                 {
@@ -48,7 +48,7 @@
                 },
                 {
                     "slug": "white-smoke",
-                    "color": "#F2F2F2",
+                    "color": "#424242",
                     "name": "White smoke"
                 },
                 {
@@ -95,6 +95,11 @@
                     "name": "Text Color",
                     "color": "#ffffff",
                     "slug": "text-color"
+                },
+                {
+                    "name": "BG Section",
+                    "color": "#202020",
+                    "slug": "section-bg"
                 }
             ],
             "duotone": [
@@ -115,6 +120,24 @@
                     "name": "Secondary"
                 }
             ]
+        },
+        "blocks": {
+            "upshift/add": {
+                "color": {
+                    "palette": [
+                        {
+                            "slug": "primary",
+                            "color": "#7c027c",
+                            "name": "Purple"
+                        },
+                        {
+                            "slug": "secondary",
+                            "color": "#420142",
+                            "name": "Dark purple"
+                        }
+                    ]
+                }
+            }
         }
     },
     "styles": {
@@ -135,7 +158,7 @@
             },
             "core/paragraph": {
                 "color": {
-                    "text": "var(--wp--preset--color--white)"
+                    "text": "var(--wp--preset--color--text-color)"
                 }
             }
         },
@@ -154,12 +177,12 @@
                 },
                 "color": {
                     "background": "var(--wp--preset--color--button)",
-                    "text": "var(--wp--preset--color--white)"
+                    "text": "var(--wp--preset--color--bg-color)"
                 },
                 ":hover": {
                     "color": {
-                        "background": "var(--wp--preset--color--white)",
-                        "text": "var(--wp--preset--color--black)"
+                        "background": "var(--wp--preset--color--bg-color)",
+                        "text": "var(--wp--preset--color--text-color)"
                     }
                 },
                 "typography": {
@@ -213,7 +236,7 @@
                     "lineHeight": "1.3"
                 },
                 "color": {
-                    "text": "var(--wp--preset--color--white)"
+                    "text": "var(--wp--preset--color--text-color)"
                 }
             }
         },

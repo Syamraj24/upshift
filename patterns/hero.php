@@ -2,7 +2,7 @@
 
 /**
  * Title: Hero
- * Slug: hero
+ * Slug: upshift/hero
  * Categories: banner
  * Keywords: Hero
  */

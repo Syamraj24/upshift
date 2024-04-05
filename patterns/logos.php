@@ -2,7 +2,7 @@
 
 /**
  * Title: Logos
- * Slug: logos
+ * Slug: upshift/logos
  * Categories: gallery
  * Keywords:Logos
  */
