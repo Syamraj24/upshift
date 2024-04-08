@@ -33,7 +33,7 @@
                 },
                 {
                     "slug": "Border",
-                    "color": "#B5B5B5",
+                    "color": "#FFFFFF",
                     "name": "Border"
                 },
                 {
@@ -58,8 +58,8 @@
                 },
                 {
                     "colors": [
-                        "#000000",
-                        "#000000"
+                        "#7DCA24",
+                        "#67A61E"
                     ],
                     "slug": "secondary",
                     "name": "Secondary"
