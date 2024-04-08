@@ -48,9 +48,12 @@ img {
     text-decoration: none;
 }
 
-.category a:hover {
-    text-decoration: none;
-    color: var(--wp--preset--color--black);
+.category:hover {
+    background-color: var(--wp--preset--color--btn-hover) !important;
+}
+
+.category:hover a {
+    color: var(--wp--preset--color--secondary) !important;
 }
 
 .is-style-outline.btn-nofill a:hover {
@@ -153,4 +156,9 @@ label {
     letter-spacing: 0.02em;
     margin-bottom: 4px;
     text-transform: capitalize;
+}
+
+header a:hover span,
+footer a:hover span {
+    color: var(--wp--preset--color--primary);
 }
