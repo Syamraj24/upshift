@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/awsmin/fse-base.git"
+    "url": "https://github.com/Syamraj24/upshift.git"
   },
   "devDependencies": {
     "cross-env": "^5.2.1",
