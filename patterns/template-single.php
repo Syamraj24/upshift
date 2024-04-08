@@ -7,8 +7,8 @@
  * Inserter: false
  */
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"32px","bottom":"32px"},"blockGap":"12px"}},"backgroundColor":"secondary","textColor":"bg-color","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-bg-color-color has-secondary-background-color has-text-color has-background" style="padding-top:32px;padding-bottom:32px">
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"32px","bottom":"32px"},"blockGap":"12px"}},"backgroundColor":"bg-color","textColor":"secondary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-secondary-color has-bg-color-background-color has-text-color has-background" style="padding-top:32px;padding-bottom:32px">
     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|10","bottom":"var:preset|spacing|10"}}},"layout":{"type":"constrained"}} -->
     <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--10)">
         <!-- wp:group {"align":"wide","layout":{"type":"constrained","wideSize":"780px","justifyContent":"center"}} -->
@@ -23,7 +23,7 @@
             <div class="wp-block-columns are-vertically-aligned-center">
                 <!-- wp:column {"verticalAlignment":"center","width":""} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"top":"4px","right":"var:preset|spacing|10","left":"var:preset|spacing|10","bottom":"4px"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"green","textColor":"secondary","className":"category","fontSize":"xxx-small"} /-->
+                    <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"category","fontSize":"xxx-small"} /-->
                 </div>
                 <!-- /wp:column -->
 

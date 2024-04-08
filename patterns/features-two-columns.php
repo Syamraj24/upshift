@@ -14,17 +14,17 @@ $images = [
     $get_url . "/assets/images/service-4.svg",
 ];
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-secondary-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"},"padding":{"bottom":"var:preset|spacing|40"}}},"textColor":"bg-color"} -->
-    <div class="wp-block-columns alignwide has-bg-color-color has-text-color" style="padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:column -->
-        <div class="wp-block-column"><!-- wp:heading {"textAlign":"left","style":{"spacing":{"margin":{"top":"0","right":"0","left":"0"}}},"textColor":"bg-color"} -->
-            <h2 class="wp-block-heading has-text-align-left has-bg-color-color has-text-color" style="margin-top:0;margin-right:0;margin-left:0"><?php esc_html_e("Still not convinced? Here's a few more services for you", 'upshift'); ?></h2>
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"},"padding":{"bottom":"var:preset|spacing|40"}}},"textColor":"secondary"} -->
+    <div class="wp-block-columns alignwide has-secondary-color has-text-color" style="padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:column -->
+        <div class="wp-block-column"><!-- wp:heading {"textAlign":"left","style":{"spacing":{"margin":{"top":"0","right":"0","left":"0"}}},"textColor":"secondary"} -->
+            <h2 class="wp-block-heading has-text-align-left has-secondary-color has-text-color" style="margin-top:0;margin-right:0;margin-left:0"><?php esc_html_e("Still not convinced? Here's a few more services for you", 'upshift'); ?></h2>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
         <!-- wp:column -->
-        <div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}}},"textColor":"bg-color","fontSize":"small"} -->
-            <p class="has-bg-color-color has-text-color has-link-color has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Mauris sed lectus ipsum. Ut at tincidunt quam. Nunc rhoncus tempus ipsum vitae pharetra. Ut et leo at metus luctus condimentum quis eget lectus. Cras sed feugiat eros. Maecenas aliquet facilisis .', 'upshift'); ?></p>
+        <div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"small"} -->
+            <p class="has-secondary-color has-text-color has-link-color has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Mauris sed lectus ipsum. Ut at tincidunt quam. Nunc rhoncus tempus ipsum vitae pharetra. Ut et leo at metus luctus condimentum quis eget lectus. Cras sed feugiat eros. Maecenas aliquet facilisis .', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|55"}}}} -->
