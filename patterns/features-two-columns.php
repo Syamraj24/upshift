@@ -28,8 +28,8 @@ $images = [
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|55"}}}} -->
-            <div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--55)"><!-- wp:button {"backgroundColor":"primary","textColor":"secondary","className":"btn-2"} -->
-                <div class="wp-block-button btn-2"><a class="wp-block-button__link has-secondary-color has-primary-background-color has-text-color has-background wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+            <div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--55)"><!-- wp:button {"backgroundColor":"primary","textColor":"secondary"} -->
+                <div class="wp-block-button"><a class="wp-block-button__link has-secondary-color has-primary-background-color has-text-color has-background wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->

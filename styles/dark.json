@@ -33,13 +33,18 @@
                 },
                 {
                     "slug": "Border",
-                    "color": "#252525",
+                    "color": "#B5B5B5",
                     "name": "Border"
                 },
                 {
                     "name": "BG Color",
                     "color": "#000000",
                     "slug": "bg-color"
+                },
+                {
+                    "name": "Button Hover",
+                    "color": "#528518",
+                    "slug": "btn-hover"
                 }
             ],
             "duotone": [
@@ -75,7 +80,7 @@
                 },
                 ":hover": {
                     "color": {
-                        "background": "var(--wp--preset--color--bg-color)",
+                        "background": "var(--wp--preset--color--btn-hover)",
                         "text": "var(--wp--preset--color--secondary)"
                     }
                 }

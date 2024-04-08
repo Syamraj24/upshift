@@ -26,8 +26,8 @@ $images = [
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons -->
-            <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"secondary","className":"btn-2"} -->
-                <div class="wp-block-button btn-2"><a class="wp-block-button__link has-secondary-color has-primary-background-color has-text-color has-background wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+            <div class="wp-block-buttons"><!-- wp:button -->
+                <div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->

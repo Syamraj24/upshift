@@ -26,8 +26,8 @@ $images = [$get_url . "assets/images/hero-banner.jpg"];
             <!-- /wp:group -->
 
             <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"var:preset|spacing|medium"}}}} -->
-            <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--medium)"><!-- wp:button {"className":"btn-2"} -->
-                <div class="wp-block-button btn-2"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Start a Demo', 'upshift'); ?></a></div>
+            <div class="wp-block-buttons" style="margin-top:var(--wp--preset--spacing--medium)"><!-- wp:button -->
+                <div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Start a Demo', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->
