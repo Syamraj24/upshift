@@ -1,47 +1,64 @@
 {
-    "$schema": "https://schemas.wp.org/trunk/theme.json",
-    "version": 2,
-    "title": "yellow",
-    "settings": {
-        "appearanceTools": true,
-        "color": {
-            "palette": [
-                {
-                    "slug": "primary",
-                    "color": "#FFCB47",
-                    "name": "Primary"
-                },
-                {
-                  "slug": "background",
-                  "color": "#f9f9f9",
-                  "name": "Background"
-                },
-                {
-                  "slug": "grey",
-                  "color": "rgba(22, 22, 19, 0.5)",
-                  "name": "Grey"
-                },
-                {
-                  "name": "BG Color",
-                  "color": "#FFFFFF",
-                  "slug": "bg-color"
-                },
-                {
-                  "name": "Text Color",
-                  "color": "#000000",
-                  "slug": "text-color"
-                }
-            ],
-            "duotone": [
-                {
-                    "colors": [
-                        "#FF710A",
-                        "#FFCB47"
-                    ],
-                    "slug": "yellow",
-                    "name": "yellow"
-                }
-            ]
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "version": 2,
+  "title": "yellow",
+  "settings": {
+    "appearanceTools": true,
+    "color": {
+      "palette": [
+        {
+          "slug": "primary",
+          "color": "#FFCB47",
+          "name": "Primary"
+        },
+        {
+          "slug": "secondary",
+          "color": "#000000",
+          "name": "Secondary"
+        },
+        {
+          "slug": "Review",
+          "color": "#F16522",
+          "name": "review"
+        },
+        {
+          "slug": "background",
+          "color": "#F2F2F2",
+          "name": "Background"
+        },
+        {
+          "slug": "grey",
+          "color": "#828282",
+          "name": "Grey"
+        },
+        {
+          "slug": "Border",
+          "color": "#B5B5B5",
+          "name": "Border"
+        },
+        {
+          "name": "BG Color",
+          "color": "#FFFFFF",
+          "slug": "bg-color"
+        },
+        {
+          "name": "Button Hover",
+          "color": "#c29a36",
+          "slug": "btn-hover"
         }
+      ],
+      "duotone": [
+        {
+          "colors": ["#000000", "#000000"],
+          "slug": "primary",
+          "name": "Primary"
+        },
+        {
+          "colors": ["#B8FF65", "#7DC32B"],
+          "slug": "secondary",
+          "name": "Secondary"
+        }
+      ]
     }
+  }
 }
