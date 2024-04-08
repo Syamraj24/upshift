@@ -53,10 +53,10 @@ img {
     color: var(--wp--preset--color--black);
 }
 
-.btn-2 a:hover {
+/* .btn-2 a:hover {
     background-color: var(--wp--preset--color--white);
     color: var(--wp--preset--color--black);
-}
+} */
 
 @media(max-width:1140px) {
 
