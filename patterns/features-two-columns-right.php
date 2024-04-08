@@ -14,20 +14,20 @@ $images = [
     $get_url . "/assets/images/chat.svg",
 ];
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"secondary","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-secondary-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|20"}}}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|20"}}}} -->
     <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":"33.33%","style":{"spacing":{"blockGap":"0"}}} -->
-        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|30"}}},"textColor":"bg-color"} -->
-            <h2 class="wp-block-heading has-bg-color-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--30)"><?php esc_html_e('Build your SaaS website with Up Shift', 'upshift'); ?></h2>
+        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|30"}}},"textColor":"secondary"} -->
+            <h2 class="wp-block-heading has-secondary-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--30)"><?php esc_html_e('Build your SaaS website with Up Shift', 'upshift'); ?></h2>
             <!-- /wp:heading -->
 
-            <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"textColor":"bg-color","fontSize":"small"} -->
-            <p class="has-bg-color-color has-small-font-size" style="padding-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Create, build and ship your products real faster. With your own customized portal. showcase your Business like never before', 'upshift'); ?></p>
+            <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"textColor":"secondary","fontSize":"small"} -->
+            <p class="has-secondary-color has-small-font-size" style="padding-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Create, build and ship your products real faster. With your own customized portal. showcase your Business like never before', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons -->
-            <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"secondary","className":"btn-2"} -->
-                <div class="wp-block-button btn-2"><a class="wp-block-button__link has-secondary-color has-primary-background-color has-text-color has-background wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+            <div class="wp-block-buttons"><!-- wp:button -->
+                <div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->

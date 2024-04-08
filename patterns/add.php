@@ -24,8 +24,8 @@ $images = [
             <!-- /wp:heading -->
 
             <!-- wp:buttons {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}}}} -->
-            <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0"><!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"className":"btn-2","fontSize":"x-small"} -->
-                <div class="wp-block-button has-custom-font-size btn-2 has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+            <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0"><!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"x-small"} -->
+                <div class="wp-block-button has-custom-font-size has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->

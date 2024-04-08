@@ -53,9 +53,10 @@ img {
     color: var(--wp--preset--color--black);
 }
 
-.btn-2 a:hover {
-    background-color: var(--wp--preset--color--white);
-    color: var(--wp--preset--color--black);
+.is-style-outline.btn-nofill a:hover {
+    background-color: var(--wp--preset--color--btn-hover);
+    color: var(--wp--preset--color--secondary);
+    border-color: var(--wp--preset--color--primary);
 }
 
 @media(max-width:1140px) {
