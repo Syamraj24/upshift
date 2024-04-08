@@ -50,7 +50,7 @@ $images = [
 
         <!-- wp:group {"className":"mob-menu","layout":{"type":"constrained"}} -->
         <div class="wp-block-group mob-menu">
-            <!-- wp:navigation {"textColor":"secondary","overlayMenu":"always","icon":"menu","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"center","flexWrap":"wrap"},"style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"spacing":{"blockGap":"2em"}},"fontSize":"x-small"} -->
+            <!-- wp:navigation {"textColor":"secondary","backgroundColor":"bg-color","overlayMenu":"always","icon":"menu","layout":{"type":"flex","setCascadingProperties":true,"justifyContent":"center","flexWrap":"wrap"},"style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"spacing":{"blockGap":"2em"}},"fontSize":"x-small"} -->
             <!-- wp:navigation-link {"label":"<?php esc_html_e('Features', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
             <!-- wp:navigation-link {"label":"<?php esc_html_e('Company', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
             <!-- wp:navigation-link {"label":"<?php esc_html_e('Blog', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
@@ -58,8 +58,8 @@ $images = [
             <!-- wp:navigation-link {"label":"<?php esc_html_e('Contact', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
             <!-- wp:buttons {"className":"mob-nav-btn-","layout":{"type":"flex","justifyContent":"center","orientation":"vertical"},"style":{"spacing":{"blockGap":"2rem"}},"fontSize":"small"} -->
             <div class="wp-block-buttons has-custom-font-size mob-nav-btn has-small-font-size">
-                <!-- wp:button {"textColor":"secondary","style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"left":"var:preset|spacing|40","right":"var:preset|spacing|40","top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}},"border":{"width":"1px"}},"borderColor":"secondary","className":"is-style-outline btn-nofill","fontSize":"x-small"} -->
-                <div class="wp-block-button has-custom-font-size is-style-outline btn-nofill has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link has-secondary-color has-text-color has-border-color has-secondary-border-color wp-element-button" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40)"><?php esc_html_e('Sign In', 'upshift'); ?></a></div>
+                <!-- wp:button {"textColor":"secondary","style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"left":"var:preset|spacing|40","right":"var:preset|spacing|40","top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}},"border":{"width":"1px"}},"className":"is-style-outline btn-nofill","fontSize":"x-small"} -->
+                <div class="wp-block-button has-custom-font-size is-style-outline btn-nofill has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link has-secondary-color has-text-color wp-element-button" style="border-width:1px;padding-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--40)"><?php esc_html_e('Sign In', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
 
                 <!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"},"spacing":{"padding":{"left":"var:preset|spacing|40","right":"var:preset|spacing|40","top":"var:preset|spacing|20","bottom":"var:preset|spacing|20"}}},"className":"is-style-fill","fontSize":"x-small"} -->
