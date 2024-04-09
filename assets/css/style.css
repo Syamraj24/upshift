@@ -20,6 +20,10 @@ img {
     filter: var(--wp--preset--duotone--secondary)
 }
 
+.Upshift-Duotone-Tertiary {
+    filter: var(--wp--preset--duotone--tertiary)
+}
+
 .Upshift-Accordion summary {
     list-style: none;
     position: relative;
@@ -162,9 +166,10 @@ header a:hover span,
 footer a:hover span {
     color: var(--wp--preset--color--primary);
 }
-.upshift-pagination .page-numbers, 
-.upshift-pagination .wp-block-query-pagination-previous, 
-.upshift-pagination .wp-block-query-pagination-next{
+
+.upshift-pagination .page-numbers,
+.upshift-pagination .wp-block-query-pagination-previous,
+.upshift-pagination .wp-block-query-pagination-next {
     display: inline-block;
     min-width: 1.5em;
     padding: 0.938em 2.25em;
@@ -172,13 +177,15 @@ footer a:hover span {
     background-color: var(--wp--preset--color--bg-color);
     color: var(--wp--preset--color--border);
     border-radius: 1.875rem;
-    border:1px solid var(--wp--preset--color--border);
+    border: 1px solid var(--wp--preset--color--border);
 }
-.upshift-pagination a:hover{
+
+.upshift-pagination a:hover {
     background-color: var(--wp--preset--color--secondary);
     color: var(--wp--preset--color--bg-color);
 }
-.upshift-pagination .current{
+
+.upshift-pagination .current {
     background-color: var(--wp--preset--color--secondary) !important;
     color: var(--wp--preset--color--bg-color) !important;
 }
