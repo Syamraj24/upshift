@@ -187,3 +187,8 @@ footer a:hover span {
     color: var(--wp--preset--color--border);
     border:1px solid var(--wp--preset--color--border);
 }
+
+.upshift-single-post-author p, 
+.upshift-single-post-author .wp-block-post-author-name {
+    display: inline;
+}
