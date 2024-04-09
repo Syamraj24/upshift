@@ -30,13 +30,17 @@
         </div>
         <!-- /wp:group -->
         <!-- /wp:post-template -->
-        <!-- wp:query-pagination {"layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"},"className":"upshift-pagination"} -->
-        <!-- wp:query-pagination-previous /-->
+        <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+        <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)">
+            <!-- wp:query-pagination {"className":"upshift-pagination","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+            <!-- wp:query-pagination-previous /-->
 
-        <!-- wp:query-pagination-numbers {"midSize":0} /-->
+            <!-- wp:query-pagination-numbers {"midSize":0} /-->
 
-        <!-- wp:query-pagination-next /-->
-        <!-- /wp:query-pagination -->
+            <!-- wp:query-pagination-next /-->
+            <!-- /wp:query-pagination -->
+        </div>
+        <!-- /wp:group -->
     </div>
     <!-- /wp:query -->
 </div>

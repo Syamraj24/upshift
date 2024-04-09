@@ -169,16 +169,17 @@ footer a:hover span {
     min-width: 1.5em;
     padding: 0.938em 2.25em;
     text-align: center;
-    background-color: var(--wp--preset--color--bg-color);
-    color: var(--wp--preset--color--border);
-    border-radius: 1.875rem;
-    border:1px solid var(--wp--preset--color--border);
-}
-.upshift-pagination a:hover{
     background-color: var(--wp--preset--color--secondary);
     color: var(--wp--preset--color--bg-color);
+    border-radius: 1.875rem;
+}
+.upshift-pagination a:hover{
+    background-color: var(--wp--preset--color--bg-color);
+    color: var(--wp--preset--color--border);
+    border:1px solid var(--wp--preset--color--border);
 }
 .upshift-pagination .current{
-    background-color: var(--wp--preset--color--secondary) !important;
-    color: var(--wp--preset--color--bg-color) !important;
+    background-color: var(--wp--preset--color--bg-color);
+    color: var(--wp--preset--color--border);
+    border:1px solid var(--wp--preset--color--border);
 }
