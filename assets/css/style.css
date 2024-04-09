@@ -20,6 +20,10 @@ img {
     filter: var(--wp--preset--duotone--secondary)
 }
 
+.Upshift-Duotone-Tertiary {
+    filter: var(--wp--preset--duotone--tertiary)
+}
+
 .Upshift-Accordion summary {
     list-style: none;
     position: relative;

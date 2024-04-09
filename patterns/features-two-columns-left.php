@@ -109,8 +109,8 @@ $images = [
                 <!-- /wp:paragraph -->
 
                 <!-- wp:buttons -->
-                <div class="wp-block-buttons"><!-- wp:button {"backgroundColor":"primary","textColor":"secondary","style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}}} -->
-                    <div class="wp-block-button"><a class="wp-block-button__link has-secondary-color has-primary-background-color has-text-color has-background has-link-color wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+                <div class="wp-block-buttons"><!-- wp:button {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}}} -->
+                    <div class="wp-block-button"><a class="wp-block-button__link has-link-color wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                     <!-- /wp:button -->
                 </div>
                 <!-- /wp:buttons -->
