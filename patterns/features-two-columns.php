@@ -22,14 +22,15 @@ $images = [
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
-        <!-- wp:column -->
+        <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|40"}}} -->
         <div class="wp-block-column"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}},"textColor":"secondary","fontSize":"small"} -->
             <p class="has-secondary-color has-text-color has-link-color has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Mauris sed lectus ipsum. Ut at tincidunt quam. Nunc rhoncus tempus ipsum vitae pharetra. Ut et leo at metus luctus condimentum quis eget lectus. Cras sed feugiat eros. Maecenas aliquet facilisis .', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons {"style":{"spacing":{"margin":{"bottom":"var:preset|spacing|55"}}}} -->
-            <div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--55)"><!-- wp:button {"backgroundColor":"primary","textColor":"secondary"} -->
-                <div class="wp-block-button"><a class="wp-block-button__link has-secondary-color has-primary-background-color has-text-color has-background wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+            <div class="wp-block-buttons" style="margin-bottom:var(--wp--preset--spacing--55)">
+                <!-- wp:button -->
+                <div class="wp-block-button"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->
@@ -41,8 +42,8 @@ $images = [
     <!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"bottom":"20px"}}}} -->
     <div class="wp-block-columns alignwide" style="margin-bottom:20px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small","padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|40","bottom":"var:preset|spacing|50","left":"var:preset|spacing|40"}},"border":{"radius":"20px","width":"1px"}},"borderColor":"Border","backgroundColor":"bg-color","className":"height-full has-Border-border-color","layout":{"type":"flex","orientation":"vertical"}} -->
-            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-style-default"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-145" /></figure>
+            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-145" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"meadium"} -->
@@ -59,8 +60,8 @@ $images = [
 
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small","padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|40","bottom":"var:preset|spacing|50","left":"var:preset|spacing|40"}},"border":{"radius":"20px","width":"1px"}},"borderColor":"Border","backgroundColor":"bg-color","className":"height-full has-Border-border-color","layout":{"type":"flex","orientation":"vertical"}} -->
-            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-style-default"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-145" /></figure>
+            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-145" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"meadium"} -->
@@ -80,8 +81,8 @@ $images = [
     <!-- wp:columns {"align":"wide"} -->
     <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small","padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|40","bottom":"var:preset|spacing|50","left":"var:preset|spacing|40"}},"border":{"radius":"20px","width":"1px"}},"borderColor":"Border","backgroundColor":"bg-color","className":"height-full has-Border-border-color","layout":{"type":"flex","orientation":"vertical"}} -->
-            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-style-default"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-145" /></figure>
+            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-145" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"meadium"} -->
@@ -99,8 +100,8 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column">
             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small","padding":{"top":"var:preset|spacing|50","right":"var:preset|spacing|40","bottom":"var:preset|spacing|50","left":"var:preset|spacing|40"}},"border":{"radius":"20px","width":"1px"}},"borderColor":"Border","backgroundColor":"bg-color","className":"height-full has-Border-border-color","layout":{"type":"flex","orientation":"vertical"}} -->
-            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-                <figure class="wp-block-image size-full is-style-default"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-145" /></figure>
+            <div class="wp-block-group height-full has-Border-border-color has-border-color has-border-border-color has-bg-color-background-color has-background" style="border-width:1px;border-radius:20px;padding-top:var(--wp--preset--spacing--50);padding-right:var(--wp--preset--spacing--40);padding-bottom:var(--wp--preset--spacing--50);padding-left:var(--wp--preset--spacing--40)"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-145" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"meadium"} -->
