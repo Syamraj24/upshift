@@ -43,20 +43,20 @@ img {
     content: ' \002D';
 }
 
-.category {
+.upshift-post-category {
     width: fit-content;
     border-radius: 8px;
 }
 
-.category a {
+.upshift-post-category a {
     text-decoration: none;
 }
 
-.category:hover {
+.upshift-post-category:hover {
     background-color: var(--wp--preset--color--btn-hover) !important;
 }
 
-.category:hover a {
+.upshift-post-category:hover a {
     color: var(--wp--preset--color--secondary) !important;
 }
 
