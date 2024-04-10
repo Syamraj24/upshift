@@ -60,9 +60,6 @@
 
     <!-- wp:pattern {"slug":"upshift/related-blog"} /-->
 
-    <!-- wp:spacer -->
-    <div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
-    <!-- /wp:spacer -->
     <!-- wp:pattern {"slug":"upshift/add"} /-->
 </div>
 <!-- /wp:group -->
