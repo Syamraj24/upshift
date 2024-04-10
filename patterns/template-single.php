@@ -19,21 +19,21 @@
             <div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">
                 <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"upshift-post-category","fontSize":"xxx-small"} /-->
 
-                <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}},"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"textColor":"bg-color"} -->
-                <p class="has-bg-color-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"> <?php esc_html_e('|', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}},"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"textColor":"bg-color"} -->
+                <p class="has-bg-color-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"> <?php esc_html_e('|', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:group {"className":"upshift-single-post-header","layout":{"type":"constrained"}} -->
                 <div class="wp-block-group upshift-single-post-header">
-                    <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}},"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"textColor":"bg-color"} -->
-                    <p class="has-bg-color-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)"><?php esc_html_e('Written by : ', 'upshift'); ?> </p>
+                    <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}}},"textColor":"bg-color"} -->
+                    <p class="has-bg-color-color has-text-color has-link-color"><?php esc_html_e('Written by : ', 'upshift'); ?> </p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:post-author-name /-->
                 </div>
                 <!-- /wp:group -->
 
-                <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}}},"textColor":"bg-color"} -->
-                <p class="has-bg-color-color has-text-color has-link-color"><?php esc_html_e('|', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}},"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"textColor":"bg-color"} -->
+                <p class="has-bg-color-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><?php esc_html_e('|', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
 
 
