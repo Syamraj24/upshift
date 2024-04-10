@@ -19,8 +19,8 @@ $images = [
             <figure class="wp-block-image size-full"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-63" /></figure>
             <!-- /wp:image -->
 
-            <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"body-alt","fontSize":"small"} -->
-            <p class="has-body-alt-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e('Advanced creation platform for web professionals.', 'upshift'); ?></p>
+            <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"white","fontSize":"small"} -->
+            <p class="has-white-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e('Advanced creation platform for web professionals.', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:column -->
