@@ -11,10 +11,13 @@ $images = [
     $get_url . "assets/images/business.png"
 ];
 ?>
-<!-- wp:group {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group " style="margin-top:0;margin-bottom:0"><!-- wp:columns {"verticalAlignment":null,"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","right":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|70"},"blockGap":{"top":"var:preset|spacing|50"}},"border":{"radius":"20px"}},"backgroundColor":"primary"} -->
-    <div class="wp-block-columns alignwide has-primary-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)"><!-- wp:column {"verticalAlignment":"center","width":"53.94%","layout":{"type":"default"}} -->
-        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:53.94%"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"margin":{"bottom":"12px"}}},"fontSize":"small"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"},"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)">
+    <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","right":"var:preset|spacing|70","bottom":"var:preset|spacing|70","left":"var:preset|spacing|70"},"blockGap":{"top":"var:preset|spacing|50"}},"border":{"radius":"20px"}},"backgroundColor":"primary"} -->
+    <div class="wp-block-columns alignwide has-primary-background-color has-background" style="border-radius:20px;padding-top:var(--wp--preset--spacing--70);padding-right:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)">
+        <!-- wp:column {"verticalAlignment":"center","width":"53.94%","layout":{"type":"default"}} -->
+        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:53.94%">
+            <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"margin":{"bottom":"12px"}}},"fontSize":"small"} -->
             <p class="has-small-font-size" style="margin-bottom:12px;font-style:normal;font-weight:600;line-height:1.8">
                 <?php esc_html_e('Join the innovative community', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
@@ -24,7 +27,8 @@ $images = [
             <!-- /wp:heading -->
 
             <!-- wp:buttons {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}}}} -->
-            <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0"><!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"x-small"} -->
+            <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0">
+                <!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"x-small"} -->
                 <div class="wp-block-button has-custom-font-size has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
                 <!-- /wp:button -->
             </div>
@@ -33,7 +37,8 @@ $images = [
         <!-- /wp:column -->
 
         <!-- wp:column {"width":"43.03%","layout":{"type":"default"}} -->
-        <div class="wp-block-column" style="flex-basis:43.03%"><!-- wp:image {"align":"center","id":268,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
+        <div class="wp-block-column" style="flex-basis:43.03%">
+            <!-- wp:image {"align":"center","id":268,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
             <figure class="wp-block-image aligncenter size-full is-style-default"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-268" /></figure>
             <!-- /wp:image -->
         </div>
