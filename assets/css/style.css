@@ -11,9 +11,11 @@ img {
     max-width: 100%;
 
 }
-.img-full img{
+
+.img-full img {
     width: 100%;
 }
+
 .Upshift-Duotone-Primary {
     filter: var(--wp--preset--duotone--primary)
 }
@@ -115,7 +117,7 @@ textarea {
     height: 50px;
     padding: 11px 17px;
     border-radius: 10px;
-    font-family: var(--wp--preset--font-family--body);
+    font-family: var(--wp--preset--font-family--manrope);
     font-size: var(--wp--preset--font-size--x-small);
     font-weight: var(--wp--custom--font-weight--medium);
     background: var(--wp--preset--color--bg-color);
@@ -132,7 +134,7 @@ textarea {
 
 input[type=submit],
 button[type=submit] {
-    font-family: var(--wp--preset--font-family--body);
+    font-family: var(--wp--preset--font-family--manrope);
     font-weight: var(--wp--custom--font-weight--bold);
     font-size: var(--wp--preset--font-size--x-small);
     background: var(--wp--preset--color--primary);
@@ -155,7 +157,7 @@ button[type=submit]:hover {
 
 label {
     display: block;
-    font-family: var(--wp--preset--font-family--body);
+    font-family: var(--wp--preset--font-family--manrope);
     font-size: var(--wp--preset--font-size--x-small);
     font-weight: var(--wp--custom--font-weight--medium);
     color: var(--wp--preset--color--secondary);
