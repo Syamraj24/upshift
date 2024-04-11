@@ -7,8 +7,8 @@
  * Inserter: false
  */
 ?>
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"32px","bottom":"32px","left":"50"},"blockGap":"12px"}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-white-color has-black-background-color has-text-color has-background" style="padding-top:32px;padding-bottom:32px;padding-left:50">
+<!-- wp:group {"align":"full","style":{"spacing":{"blockGap":"12px"}},"backgroundColor":"bg-color","textColor":"secondary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-secondary-color has-bg-color-background-color has-text-color has-background">
     <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":"24px"},"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained"}} -->
     <div class="wp-block-group alignfull has-white-color has-black-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--70);padding-bottom:var(--wp--preset--spacing--70)">
         <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|50","left":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
