@@ -11,7 +11,9 @@ img {
     max-width: 100%;
 
 }
-
+.img-full img{
+    width: 100%;
+}
 .Upshift-Duotone-Primary {
     filter: var(--wp--preset--duotone--primary)
 }

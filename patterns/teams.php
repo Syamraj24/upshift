@@ -20,7 +20,7 @@ $images = [
 ];
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|80"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"0","padding":{"bottom":"var:preset|spacing|55"}}},"backgroundColor":"bg-color","className":"blog-head","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"bottom":"var:preset|spacing|55"}}},"backgroundColor":"bg-color","className":"blog-head","layout":{"type":"flex","flexWrap":"ywrap","justifyContent":"space-between"}} -->
     <div class="wp-block-group alignwide blog-head has-bg-color-background-color has-background" style="padding-bottom:var(--wp--preset--spacing--55)"><!-- wp:group {"layout":{"type":"constrained","wideSize":"569px"}} -->
         <div class="wp-block-group"><!-- wp:heading -->
             <h2 class="wp-block-heading"><?php esc_html_e('The amazing team behind our company', 'upshift'); ?></h2>
@@ -37,10 +37,12 @@ $images = [
     </div>
     <!-- /wp:group -->
     <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|40"}},"layout":{"type":"constrained"}} -->
-    <div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"}}}} -->
-        <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+    <div class="wp-block-group alignwide"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"40px","left":"20px"}}}} -->
+        <div class="wp-block-columns alignwide">
+            <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
+            <div class="wp-block-column">
+                <!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
@@ -54,8 +56,8 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+            <div class="wp-block-column"><!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
@@ -69,8 +71,8 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+            <div class="wp-block-column"><!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
 
@@ -85,8 +87,8 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+            <div class="wp-block-column"><!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
@@ -101,10 +103,10 @@ $images = [
         </div>
         <!-- /wp:columns -->
 
-        <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"}}}} -->
+        <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"40px","left":"20px"}}}} -->
         <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+            <div class="wp-block-column"><!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
@@ -118,8 +120,8 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[5]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+            <div class="wp-block-column"><!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[5]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
@@ -133,8 +135,8 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[6]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+            <div class="wp-block-column"><!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[6]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
@@ -148,8 +150,8 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column {"style":{"spacing":{"blockGap":"0"}}} -->
-            <div class="wp-block-column"><!-- wp:image {"id":354,"width":280,"height":280,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
-                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[7]); ?>" alt="" class="wp-image-354" style="border-radius:20px" width="280" height="280" /></figure>
+            <div class="wp-block-column"><!-- wp:image {"id":354,"scale":"cover","sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}},"className":"img-full"} -->
+                <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[7]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
