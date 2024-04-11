@@ -8,7 +8,7 @@
  */
 $get_url = trailingslashit(get_template_directory_uri());
 $images = [
-    $get_url . "/assets/images/product.jpg",
+    $get_url . "/assets/images/business-products.jpg",
 ];
 ?>
 
