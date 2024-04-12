@@ -43,7 +43,7 @@
         },
         {
           "name": "Button Hover",
-          "color": "#c29a36",
+          "color": "#24ab70",
           "slug": "btn-hover"
         }
       ],
@@ -54,9 +54,17 @@
           "name": "Primary"
         },
         {
-          "colors": ["#B8FF65", "#7DC32B"],
+          "colors": ["#2DDB8F", "#25CA82"],
           "slug": "secondary",
           "name": "Secondary"
+        },
+        {
+            "colors": [
+                "#FFFFFF",
+                "#FFFFFF"
+            ],
+            "slug": "tertiary",
+            "name": "Tertiary"
         }
       ]
     }
