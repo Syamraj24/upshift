@@ -74,21 +74,5 @@
                 }
             ]
         }
-    },
-    "styles": {
-        "elements": {
-          "button": {
-            "color": {
-              "background": "var(--wp--preset--color--secondary)",
-              "text": "var(--wp--preset--color--bg-color)"
-            },
-            ":hover": {
-              "color": {
-                "background": "var(--wp--preset--color--btn-hover)",
-                "text": "var(--wp--preset--color--bg-color)"
-              }
-            }
-          }
-        }
-      }
+    }
 }
