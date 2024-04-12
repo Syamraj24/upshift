@@ -357,6 +357,23 @@
       "text": "var(--wp--preset--color--black)"
     },
     "blocks": {
+      "core/post-content": {
+        "elements": {
+          "link": {
+            "color": {
+              "text": "var(--wp--preset--color--primary)"
+            },
+            "typography": {
+              "textDecoration": "none"
+            },
+            ":hover": {
+              "typography": {
+                "textDecoration": "underline"
+              }
+            }
+          }
+        }
+      },
       "core/navigation": {
         "typography": {
           "fontSize": "var(--wp--preset--font-size--x-small)"
