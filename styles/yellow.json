@@ -49,14 +49,28 @@
       ],
       "duotone": [
         {
-          "colors": ["#000000", "#000000"],
+          "colors": [
+            "#000000",
+            "#000000"
+          ],
           "slug": "primary",
           "name": "Primary"
         },
         {
-          "colors": ["#B8FF65", "#7DC32B"],
+          "colors": [
+            "#B8FF65",
+            "#7DC32B"
+          ],
           "slug": "secondary",
           "name": "Secondary"
+        },
+        {
+          "colors": [
+            "#FFFFFF",
+            "#FFFFFF"
+          ],
+          "slug": "tertiary",
+          "name": "Tertiary"
         }
       ]
     }
