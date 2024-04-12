@@ -8,7 +8,7 @@
             "palette": [
                 {
                     "slug": "primary",
-                    "color": "#54F2F2",
+                    "color": "#F3686D",
                     "name": "Primary"
                 },
                 {
@@ -33,7 +33,7 @@
                 },
                 {
                     "slug": "Border",
-                    "color": "#E8E8E8",
+                    "color": "#B5B5B5",
                     "name": "Border"
                 },
                 {
@@ -43,7 +43,7 @@
                 },
                 {
                     "name": "Button Hover",
-                    "color": "#0A8282",
+                    "color": "#B70F14",
                     "slug": "btn-hover"
                 }
             ],
@@ -58,8 +58,8 @@
                 },
                 {
                     "colors": [
-                        "#54F2F2",
-                        "#1CDADA"
+                        "#F3686D",
+                        "#F35157"
                     ],
                     "slug": "secondary",
                     "name": "Secondary"
@@ -77,18 +77,18 @@
     },
     "styles": {
         "elements": {
-            "button": {
-                "color": {
-                    "background": "var(--wp--preset--color--secondary)",
-                    "text": "var(--wp--preset--color--bg-color)"
-                },
-                ":hover": {
-                    "color": {
-                        "background": "var(--wp--preset--color--btn-hover)",
-                        "text": "var(--wp--preset--color--bg-color)"
-                    }
-                }
+          "button": {
+            "color": {
+              "background": "var(--wp--preset--color--secondary)",
+              "text": "var(--wp--preset--color--bg-color)"
+            },
+            ":hover": {
+              "color": {
+                "background": "var(--wp--preset--color--btn-hover)",
+                "text": "var(--wp--preset--color--bg-color)"
+              }
             }
+          }
         }
-    }
+      }
 }

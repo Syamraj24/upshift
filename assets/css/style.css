@@ -66,7 +66,7 @@ img {
 
 .is-style-outline.btn-nofill a:hover {
     background-color: var(--wp--preset--color--btn-hover);
-    color: var(--wp--preset--color--secondary);
+    color: var(--wp--preset--color--bg-color)!important;
     border-color: var(--wp--preset--color--primary);
 }
 
@@ -151,7 +151,7 @@ button[type=submit] {
 
 input[type=submit]:hover,
 button[type=submit]:hover {
-    background: var(--wp--preset--color--secondary);
+    background: var(--wp--preset--color--btn-hover);
     color: #fff;
 }
 
