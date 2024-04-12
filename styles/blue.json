@@ -1,0 +1,78 @@
+{
+    "$schema": "https://schemas.wp.org/trunk/theme.json",
+    "version": 2,
+    "title": "Blue",
+    "settings": {
+        "appearanceTools": true,
+        "color": {
+            "palette": [
+                {
+                    "slug": "primary",
+                    "color": "#54F2F2",
+                    "name": "Primary"
+                },
+                {
+                    "slug": "secondary",
+                    "color": "#000000",
+                    "name": "Secondary"
+                },
+                {
+                    "slug": "Review",
+                    "color": "#F16522",
+                    "name": "review"
+                },
+                {
+                    "slug": "background",
+                    "color": "#F2F2F2",
+                    "name": "Background"
+                },
+                {
+                    "slug": "grey",
+                    "color": "#828282",
+                    "name": "Grey"
+                },
+                {
+                    "slug": "Border",
+                    "color": "#E8E8E8",
+                    "name": "Border"
+                },
+                {
+                    "name": "BG Color",
+                    "color": "#FFFFFF",
+                    "slug": "bg-color"
+                },
+                {
+                    "name": "Button Hover",
+                    "color": "#c29a36",
+                    "slug": "btn-hover"
+                }
+            ],
+            "duotone": [
+                {
+                    "colors": [
+                        "#000000",
+                        "#000000"
+                    ],
+                    "slug": "primary",
+                    "name": "Primary"
+                },
+                {
+                    "colors": [
+                        "#54F2F2",
+                        "#1CDADA"
+                    ],
+                    "slug": "secondary",
+                    "name": "Secondary"
+                },
+                {
+                    "colors": [
+                        "#FFFFFF",
+                        "#FFFFFF"
+                    ],
+                    "slug": "tertiary",
+                    "name": "Tertiary"
+                }
+            ]
+        }
+    }
+}
