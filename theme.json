@@ -360,15 +360,15 @@
       "core/post-content": {
         "elements": {
           "link": {
-            "color": {
-              "text": "var(--wp--preset--color--primary)"
-            },
             "typography": {
-              "textDecoration": "none"
+              "textDecoration": "underline"
             },
             ":hover": {
+              "color": {
+                "text": "var(--wp--preset--color--primary)"
+              },
               "typography": {
-                "textDecoration": "underline"
+                "textDecoration": "none"
               }
             }
           }
