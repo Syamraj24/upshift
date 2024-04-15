@@ -40,13 +40,17 @@
         <!-- /wp:group -->
         <!-- /wp:post-template -->
 
-        <!-- wp:query-pagination {"paginationArrow":"arrow","layout":{"type":"flex","justifyContent":"center"}} -->
-        <!-- wp:query-pagination-previous /-->
+        <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
+        <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)">
+            <!-- wp:query-pagination {"className":"upshift-pagination","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+            <!-- wp:query-pagination-previous /-->
 
-        <!-- wp:query-pagination-numbers /-->
+            <!-- wp:query-pagination-numbers {"midSize":0} /-->
 
-        <!-- wp:query-pagination-next /-->
-        <!-- /wp:query-pagination -->
+            <!-- wp:query-pagination-next /-->
+            <!-- /wp:query-pagination -->
+        </div>
+        <!-- /wp:group -->
 
         <!-- wp:query-no-results {"align":"wide"} -->
         <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when a query returns no results.","fontSize":"large"} -->
