@@ -7,8 +7,8 @@
  * Keywords: Content
  */
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|55","bottom":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--55);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns -->
+<!-- wp:group {"align":"fill","style":{"spacing":{"padding":{"top":"var:preset|spacing|55","bottom":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--55);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns -->
     <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}}} -->
         <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"4px"}}}} -->
             <h2 class="wp-block-heading" style="margin-bottom:4px"><?php esc_html_e('Take a look at the results we had achieved', 'upshift'); ?></h2>

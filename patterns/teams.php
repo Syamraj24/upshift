@@ -20,8 +20,8 @@ $images = [
 ];
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|80"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"bottom":"var:preset|spacing|55"}}},"backgroundColor":"bg-color","className":"blog-head","layout":{"type":"flex","flexWrap":"ywrap","justifyContent":"space-between"}} -->
-    <div class="wp-block-group alignwide blog-head has-bg-color-background-color has-background" style="padding-bottom:var(--wp--preset--spacing--55)"><!-- wp:group {"layout":{"type":"constrained","wideSize":"569px"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"bottom":"var:preset|spacing|55"}}},"className":"blog-head","layout":{"type":"flex","flexWrap":"ywrap","justifyContent":"space-between"}} -->
+    <div class="wp-block-group alignwide blog-head" style="padding-bottom:var(--wp--preset--spacing--55)"><!-- wp:group {"layout":{"type":"constrained","wideSize":"569px"}} -->
         <div class="wp-block-group"><!-- wp:heading -->
             <h2 class="wp-block-heading"><?php esc_html_e('The amazing team behind our company', 'upshift'); ?></h2>
             <!-- /wp:heading -->

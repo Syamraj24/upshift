@@ -14,8 +14,8 @@ $images = [
     $get_url . "/assets/images/service-4.svg",
 ];
 ?>
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"},"padding":{"bottom":"var:preset|spacing|40"}}},"textColor":"secondary"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"0","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"20px","left":"20px"},"padding":{"bottom":"var:preset|spacing|40"}}},"textColor":"secondary"} -->
     <div class="wp-block-columns alignwide has-secondary-color has-text-color" style="padding-bottom:var(--wp--preset--spacing--40)"><!-- wp:column -->
         <div class="wp-block-column"><!-- wp:heading {"textAlign":"left","style":{"spacing":{"margin":{"top":"0","right":"0","left":"0"}}},"textColor":"secondary"} -->
             <h2 class="wp-block-heading has-text-align-left has-secondary-color has-text-color" style="margin-top:0;margin-right:0;margin-left:0"><?php esc_html_e("Still not convinced? Here's a few more services for you", 'upshift'); ?></h2>

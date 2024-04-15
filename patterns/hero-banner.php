@@ -11,8 +11,8 @@ $get_url = trailingslashit(get_template_directory_uri());
 
 $images = [$get_url . "assets/images/hero-banner.jpg"];
 ?>
-<!-- wp:group {"align":"wide","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"primary","layout":{"type":"constrained","justifyContent":"center"}} -->
-<div class="wp-block-group alignwide has-primary-background-color has-background" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"padding":{"left":"0","right":"0","top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":{"top":"var:preset|spacing|40"}}}} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"primary","layout":{"type":"constrained","justifyContent":"center"}} -->
+<div class="wp-block-group alignfull has-primary-background-color has-background" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"padding":{"left":"0","right":"0","top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":{"top":"var:preset|spacing|40"}}}} -->
     <div class="wp-block-columns alignwide are-vertically-aligned-center" style="padding-top:var(--wp--preset--spacing--70);padding-right:0;padding-bottom:var(--wp--preset--spacing--70);padding-left:0"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":[]}} -->
         <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":1,"textColor":"heading","className":"wp-block-heading"} -->
             <h1 class="wp-block-heading has-heading-color has-text-color"><?php esc_html_e('Focus on your business growth with Round', 'upshift'); ?></h1>
