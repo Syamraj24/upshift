@@ -16,7 +16,6 @@
             <!-- wp:group {"style":{"spacing":{"blockGap":"6px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
             <div class="wp-block-group">
                 <!-- wp:site-logo {"width":40,"shouldSyncIcon":true,"className":"Upshift-Duotone-Secondary"} /-->
-
                 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}},"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.1","letterSpacing":"0px"}},"textColor":"secondary","fontSize":"small"} -->
                 <p class="has-secondary-color has-text-color has-link-color has-small-font-size" style="font-style:normal;font-weight:700;letter-spacing:0px;line-height:1.1"><?php esc_html_e('Up', 'upshift'); ?><br><?php esc_html_e('Shift', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
