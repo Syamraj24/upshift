@@ -18,8 +18,8 @@ $images = [
 ];
 
 ?>
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|100","bottom":"var:preset|spacing|100"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--100);padding-bottom:var(--wp--preset--spacing--100)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"800"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"heading","className":"wp-block-heading"} -->
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|100","bottom":"var:preset|spacing|100"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--100);padding-bottom:var(--wp--preset--spacing--100)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"800"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"heading","className":"wp-block-heading"} -->
     <h2 class="wp-block-heading has-text-align-center has-heading-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-weight:800"><?php esc_html_e('Creative Works', 'upshift'); ?></h2>
     <!-- /wp:heading -->
 
@@ -27,8 +27,8 @@ $images = [
     <p class="has-text-align-center has-small-font-size" style="margin-bottom:var(--wp--preset--spacing--55);font-style:normal;font-weight:500"><?php esc_html_e('Step into my world of creative prowess, where ideas take shape and innovation flourishes. Explore an eclectic mix of projects spanning design, writing, and multimedia endeavors.', 'upshift'); ?></p>
     <!-- /wp:paragraph -->
 
-    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
-    <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"top"} -->
+    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"},"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
+    <div class="wp-block-columns alignwide" style="padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"top"} -->
         <div class="wp-block-column is-vertically-aligned-top"><!-- wp:image {"id":677,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"12px"}}} -->
             <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>
             <!-- /wp:image -->
@@ -63,8 +63,8 @@ $images = [
     </div>
     <!-- /wp:columns -->
 
-    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"},"margin":{"top":"var:preset|spacing|20"}}}} -->
-    <div class="wp-block-columns alignwide" style="margin-top:var(--wp--preset--spacing--20)"><!-- wp:column {"verticalAlignment":"top"} -->
+    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"},"margin":{"top":"var:preset|spacing|20"},"padding":{"right":"var:preset|spacing|30","left":"var:preset|spacing|30"}}}} -->
+    <div class="wp-block-columns alignwide" style="margin-top:var(--wp--preset--spacing--20);padding-right:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)"><!-- wp:column {"verticalAlignment":"top"} -->
         <div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"layout":{"type":"constrained"}} -->
             <div class="wp-block-group"><!-- wp:image {"id":677,"sizeSlug":"full","linkDestination":"none","align":"center","style":{"border":{"radius":"12px"}}} -->
                 <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>

@@ -9,8 +9,8 @@
 $get_url = trailingslashit(get_template_directory_uri());
 $images = [$get_url . "assets/images/tickcircle.svg"];
 ?>
-<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignwide" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
     <!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"800"},"spacing":{"margin":{"bottom":"var:preset|spacing|30"}}},"textColor":"heading","className":"wp-block-heading"} -->
     <h2 class="wp-block-heading has-text-align-center has-heading-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--30);font-weight:800"><?php esc_html_e('Choose a plan, and get creative.', 'upshift'); ?></h2>
     <!-- /wp:heading -->
@@ -19,8 +19,8 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
     <p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Choose a plan tailored to your needs', 'upshift'); ?></p>
     <!-- /wp:paragraph -->
 
-    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"},"padding":{"top":"var:preset|spacing|55"}}}} -->
-    <div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--55)">
+    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"},"padding":{"top":"var:preset|spacing|55","right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
+    <div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--55);padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column">
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|55","right":"var:preset|spacing|55","bottom":"var:preset|spacing|55","left":"var:preset|spacing|55"},"blockGap":"0"},"border":{"radius":"12px","width":"0px","style":"none"}},"backgroundColor":"primary","layout":{"type":"constrained","justifyContent":"center"}} -->
