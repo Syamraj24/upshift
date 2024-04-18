@@ -19,8 +19,8 @@ $images = [
                 <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Up Shift got your back with friendly support', 'upshift'); ?></h2>
                 <!-- /wp:heading -->
 
-                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.6"}},"fontSize":"xmeadium"} -->
-                <p class="has-xmeadium-font-size" style="font-style:normal;font-weight:700;line-height:1.6"><?php esc_html_e('We are dedicated to helping businesses improve the experience they provide for their customers.', 'upshift'); ?></p>
+                <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.6"}},"fontSize":"xmedium"} -->
+                <p class="has-xmedium-font-size" style="font-style:normal;font-weight:700;line-height:1.6"><?php esc_html_e('We are dedicated to helping businesses improve the experience they provide for their customers.', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->

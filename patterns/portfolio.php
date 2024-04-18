@@ -33,8 +33,8 @@ $images = [
             <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>
             <!-- /wp:image -->
 
-            <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmeadium"} -->
-            <h3 class="wp-block-heading has-xmeadium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Innovation', 'upshift'); ?></a></h3>
+            <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Innovation', 'upshift'); ?></a></h3>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -44,8 +44,8 @@ $images = [
             <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>
             <!-- /wp:image -->
 
-            <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmeadium"} -->
-            <h3 class="wp-block-heading has-xmeadium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Versatility', 'upshift'); ?></a></h3>
+            <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Versatility', 'upshift'); ?></a></h3>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -55,8 +55,8 @@ $images = [
             <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>
             <!-- /wp:image -->
 
-            <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmeadium"} -->
-            <h3 class="wp-block-heading has-xmeadium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Impact', 'upshift'); ?></a></h3>
+            <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Impact', 'upshift'); ?></a></h3>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -70,8 +70,8 @@ $images = [
                 <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmeadium"} -->
-                <h3 class="wp-block-heading has-xmeadium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Precision', 'upshift'); ?></a></h3>
+                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
+                <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Precision', 'upshift'); ?></a></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
@@ -84,8 +84,8 @@ $images = [
                 <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmeadium"} -->
-                <h3 class="wp-block-heading has-xmeadium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Distinction', 'upshift'); ?></a></h3>
+                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
+                <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Distinction', 'upshift'); ?></a></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->
@@ -98,8 +98,8 @@ $images = [
                 <figure class="wp-block-image aligncenter size-full has-custom-border"><a href="#"><img src="<?php echo esc_url($images[5]); ?>" alt="" class="wp-image-677" style="border-radius:12px" /></a></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmeadium"} -->
-                <h3 class="wp-block-heading has-xmeadium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Engagement', 'upshift'); ?></a></h3>
+                <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
+                <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Engagement', 'upshift'); ?></a></h3>
                 <!-- /wp:heading -->
             </div>
             <!-- /wp:group -->

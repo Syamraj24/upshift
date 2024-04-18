@@ -111,7 +111,7 @@
         {
           "size": "clamp(2.5rem, calc(2.5rem + ((1vw - 0.48rem) * 1.3889)), 3.5rem)",
           "slug": "55",
-          "name": "X Meadium"
+          "name": "X Medium"
         },
         {
           "size": "clamp(3rem, calc(3rem + ((1vw - 0.48rem) * 2.381)), 4rem)",
@@ -240,12 +240,12 @@
       ],
       "fontSizes": [
         {
-          "name": "xxx Small",
+          "name": "XXX Small",
           "size": "0.75rem",
           "slug": "xxx-small"
         },
         {
-          "name": "xX Small",
+          "name": "XX Small",
           "size": "0.813rem",
           "slug": "xx-small"
         },
@@ -264,8 +264,8 @@
           }
         },
         {
-          "name": "X Meadium",
-          "slug": "xmeadium",
+          "name": "X Medium",
+          "slug": "xmedium",
           "size": "clamp(1.125rem, calc(1.125rem + ((1vw - 0.48rem) * 0.1736)), 1.25rem)",
           "fluid": {
             "min": "1.125rem",
@@ -273,8 +273,8 @@
           }
         },
         {
-          "name": "Meadium",
-          "slug": "meadium",
+          "name": "Medium",
+          "slug": "medium",
           "size": "clamp(1.25rem, calc(1.25rem + ((1vw - 0.48rem) * 0.3472)), 1.5rem)",
           "fluid": {
             "min": "1.25rem",
@@ -450,12 +450,12 @@
       },
       "h4": {
         "typography": {
-          "fontSize": "var(--wp--preset--font-size--x-meadium)"
+          "fontSize": "var(--wp--preset--font-size--x-medium)"
         }
       },
       "h5": {
         "typography": {
-          "fontSize": "var(--wp--preset--font-size--meadium)"
+          "fontSize": "var(--wp--preset--font-size--medium)"
         }
       },
       "heading": {

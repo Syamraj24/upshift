@@ -42,8 +42,8 @@ $images = [
                         <figure class="wp-block-image aligncenter size-full is-resized Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-145" style="object-fit:cover;width:40px;height:40px" /></figure>
                         <!-- /wp:image -->
 
-                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Fully responsive', 'upshift'); ?></h5>
+                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Fully responsive', 'upshift'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
@@ -60,8 +60,8 @@ $images = [
                         <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-145" /></figure>
                         <!-- /wp:image -->
 
-                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('E-commerce', 'upshift'); ?></h5>
+                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('E-commerce', 'upshift'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
@@ -81,8 +81,8 @@ $images = [
                         <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-145" /></figure>
                         <!-- /wp:image -->
 
-                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Multi layout template', 'upshift'); ?></h5>
+                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Multi layout template', 'upshift'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
@@ -99,8 +99,8 @@ $images = [
                         <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-145" /></figure>
                         <!-- /wp:image -->
 
-                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"meadium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Amazing support staff', 'upshift'); ?></h5>
+                        <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Amazing support staff', 'upshift'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->

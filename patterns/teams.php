@@ -45,8 +45,8 @@ $images = [
                 <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Patrick Meyer', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Patrick Meyer', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
@@ -60,8 +60,8 @@ $images = [
                 <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Cameron Williamson', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Cameron Williamson', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
@@ -76,8 +76,8 @@ $images = [
                 <!-- /wp:image -->
 
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Jane Cooper', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Jane Cooper', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
@@ -91,8 +91,8 @@ $images = [
                 <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Wade Warren', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Wade Warren', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
@@ -109,8 +109,8 @@ $images = [
                 <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Liam Kim', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Liam Kim', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
@@ -124,8 +124,8 @@ $images = [
                 <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[5]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Ava Rodriguez', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Ava Rodriguez', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
@@ -139,8 +139,8 @@ $images = [
                 <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[6]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Cody Fischer', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Cody Fischer', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
@@ -154,8 +154,8 @@ $images = [
                 <figure class="wp-block-image size-full is-resized has-custom-border img-full"><img src="<?php echo esc_url($images[7]); ?>" alt="" class="wp-image-354" style="border-radius:20px;object-fit:cover" /></figure>
                 <!-- /wp:image -->
 
-                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"meadium"} -->
-                <h5 class="wp-block-heading has-meadium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Leslie Alexander', 'upshift'); ?></h5>
+                <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"2px"}},"typography":{"lineHeight":1.3}},"fontSize":"medium"} -->
+                <h5 class="wp-block-heading has-medium-font-size" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:2px;line-height:1.3"><?php esc_html_e('Leslie Alexander', 'upshift'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"500"}},"textColor":"grey","fontSize":"x-small"} -->
