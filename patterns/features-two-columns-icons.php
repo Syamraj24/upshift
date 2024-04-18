@@ -33,8 +33,8 @@ $images = [
                 <!-- /wp:paragraph -->
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
                 <div class="wp-block-group">
-                    <!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-145" /></figure>
+                    <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
+                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
 
                 </div>
@@ -56,8 +56,8 @@ $images = [
 
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
                 <div class="wp-block-group">
-                    <!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-145" /></figure>
+                    <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -79,8 +79,8 @@ $images = [
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-145" /></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
+                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[2]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -98,8 +98,8 @@ $images = [
                 <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-145" /></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -121,8 +121,8 @@ $images = [
                 <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-145" /></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
+                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[4]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -142,8 +142,8 @@ $images = [
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"id":145,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[5]); ?>" alt="" class="wp-image-145" /></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[5]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->

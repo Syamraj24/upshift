@@ -15,8 +15,8 @@ $images = [
 <div class="wp-block-group alignfull has-white-color has-black-background-color has-text-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
     <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}}} -->
     <div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--20)"><!-- wp:column {"width":"380px","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","wideSize":"","justifyContent":"left"}} -->
-        <div class="wp-block-column" style="flex-basis:380px"><!-- wp:image {"id":63,"sizeSlug":"full","linkDestination":"custom"} -->
-            <figure class="wp-block-image size-full"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-63" /></figure>
+        <div class="wp-block-column" style="flex-basis:380px"><!-- wp:image {"sizeSlug":"full","linkDestination":"custom"} -->
+            <figure class="wp-block-image size-full"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
             <!-- /wp:image -->
 
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"white","fontSize":"small"} -->

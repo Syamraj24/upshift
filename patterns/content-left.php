@@ -36,8 +36,8 @@ $images = [
         <!-- /wp:column -->
 
         <!-- wp:column {"verticalAlignment":"center"} -->
-        <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":387,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}}} -->
-            <figure class="wp-block-image size-full has-custom-border"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-387" style="border-radius:20px" /></figure>
+        <div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}}} -->
+            <figure class="wp-block-image size-full has-custom-border"><img src="<?php echo esc_url($images[0]); ?>" alt="" style="border-radius:20px" /></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->

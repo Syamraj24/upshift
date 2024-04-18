@@ -38,8 +38,8 @@ $images = [
 
         <!-- wp:column {"width":"43.03%","layout":{"type":"default"}} -->
         <div class="wp-block-column" style="flex-basis:43.03%">
-            <!-- wp:image {"align":"center","id":268,"sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
-            <figure class="wp-block-image aligncenter size-full is-style-default"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-268" /></figure>
+            <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"is-style-default"} -->
+            <figure class="wp-block-image aligncenter size-full is-style-default"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->

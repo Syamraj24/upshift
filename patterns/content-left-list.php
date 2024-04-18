@@ -29,8 +29,8 @@ $images = [
                 <div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px">
-                        <!-- wp:image {"id":482,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-482" /></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
@@ -46,8 +46,8 @@ $images = [
 
                     <!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
-                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"id":482,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-482" /></figure>
+                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
@@ -63,8 +63,8 @@ $images = [
 
                     <!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
-                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"id":482,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-482" /></figure>
+                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
@@ -80,8 +80,8 @@ $images = [
 
                     <!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
-                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"id":482,"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-482" /></figure>
+                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
@@ -103,8 +103,8 @@ $images = [
 
         <!-- wp:column {"verticalAlignment":"center"} -->
         <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"layout":{"type":"constrained"}} -->
-            <div class="wp-block-group"><!-- wp:image {"id":378,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}}} -->
-                <figure class="wp-block-image size-full has-custom-border"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-378" style="border-radius:20px" /></figure>
+            <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"20px"}}} -->
+                <figure class="wp-block-image size-full has-custom-border"><img src="<?php echo esc_url($images[1]); ?>" alt="" style="border-radius:20px" /></figure>
                 <!-- /wp:image -->
             </div>
             <!-- /wp:group -->

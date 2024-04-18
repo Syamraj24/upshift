@@ -40,8 +40,8 @@ $images = [
                 <div class="wp-block-column is-vertically-aligned-center">
                     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"border":{"radius":"16px"}},"layout":{"type":"constrained"}} -->
                     <div class="wp-block-group" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--10)">
-                        <!-- wp:image {"id":533,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
-                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-533" /></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
+                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"x-small"} -->
@@ -60,8 +60,8 @@ $images = [
                 <div class="wp-block-column is-vertically-aligned-center">
                     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"border":{"radius":"16px"}},"layout":{"type":"constrained"}} -->
                     <div class="wp-block-group" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--10)">
-                        <!-- wp:image {"id":533,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
-                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[1]); ?>" alt="" class="wp-image-533" /></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
+                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[1]); ?>" alt=""/></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"x-small"} -->
@@ -80,8 +80,8 @@ $images = [
                 <div class="wp-block-column is-vertically-aligned-center">
                     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"border":{"radius":"16px"}},"layout":{"type":"constrained"}} -->
                     <div class="wp-block-group" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--10)">
-                        <!-- wp:image {"id":533,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
-                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[2]); ?>" alt="" class="wp-image-533" /></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
+                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[2]); ?>" alt=""/></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"x-small"} -->
@@ -108,8 +108,8 @@ $images = [
                 <div class="wp-block-column is-vertically-aligned-center">
                     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"border":{"radius":"16px"}},"layout":{"type":"constrained"}} -->
                     <div class="wp-block-group" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--10)">
-                        <!-- wp:image {"id":533,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
-                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[3]); ?>" alt="" class="wp-image-533" /></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
+                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[3]); ?>" alt=""/></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"x-small"} -->
@@ -128,8 +128,8 @@ $images = [
                 <div class="wp-block-column is-vertically-aligned-center">
                     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"border":{"radius":"16px"}},"layout":{"type":"constrained"}} -->
                     <div class="wp-block-group" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--10)">
-                        <!-- wp:image {"id":533,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
-                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[4]); ?>" alt="" class="wp-image-533" /></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
+                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[4]); ?>" alt=""/></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"x-small"} -->
@@ -148,8 +148,8 @@ $images = [
                 <div class="wp-block-column is-vertically-aligned-center">
                     <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"border":{"radius":"16px"}},"layout":{"type":"constrained"}} -->
                     <div class="wp-block-group" style="border-radius:16px;padding-top:var(--wp--preset--spacing--40);padding-right:var(--wp--preset--spacing--10);padding-bottom:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--10)">
-                        <!-- wp:image {"id":533,"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
-                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[5]); ?>" alt="" class="wp-image-533" /></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","align":"center","className":"is-style-rounded"} -->
+                        <figure class="wp-block-image aligncenter size-full is-style-rounded"><img src="<?php echo esc_url($images[5]); ?>" alt=""/></figure>
                         <!-- /wp:image -->
 
                         <!-- wp:paragraph {"align":"center","style":{"spacing":{"padding":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"800"}},"fontSize":"x-small"} -->

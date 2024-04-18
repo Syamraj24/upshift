@@ -34,8 +34,8 @@ $images = [$get_url . "assets/images/hero-banner.jpg"];
         </div>
         <!-- /wp:column -->
         <!-- wp:column {"verticalAlignment":"center","width":"49.16%"} -->
-        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:49.16%"><!-- wp:image {"align":"center","lightbox":{"enabled":false},"id":91,"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"30px"}}} -->
-            <figure class="wp-block-image aligncenter size-full has-custom-border"><img src="<?php echo esc_url($images[0]); ?>" alt="" class="wp-image-91" style="border-radius:30px" /></figure>
+        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:49.16%"><!-- wp:image {"align":"center","lightbox":{"enabled":false},"sizeSlug":"full","linkDestination":"none","style":{"border":{"radius":"30px"}}} -->
+            <figure class="wp-block-image aligncenter size-full has-custom-border"><img src="<?php echo esc_url($images[0]); ?>" alt="" style="border-radius:30px" /></figure>
             <!-- /wp:image -->
         </div>
         <!-- /wp:column -->
