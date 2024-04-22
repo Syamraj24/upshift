@@ -40,7 +40,11 @@ img {
     top: 50%;
     transform: translateY(-50%);
     right: 0;
-    font-size: var(--wp--preset--font-size--x-medium);
+    font-size: var(--wp--preset--font-size--x-meadium);
+}
+
+.Upshift-Accordion details {
+    border-radius: 20px;
 }
 
 .Upshift-Accordion details[open] summary::after {
@@ -66,7 +70,7 @@ img {
 
 .is-style-outline.btn-nofill a:hover {
     background-color: var(--wp--preset--color--btn-hover);
-    color: var(--wp--preset--color--bg-color)!important;
+    color: var(--wp--preset--color--bg-color) !important;
     border-color: var(--wp--preset--color--primary);
 }
 
@@ -205,8 +209,4 @@ footer a:hover span {
     margin-block-start: var(--wp--preset--spacing--30);
     margin-block-end: var(--wp--preset--spacing--30);
 
-}
-
-.Upshift-Accordion summary::-webkit-details-marker {
-    display: none;
 }
