@@ -35,16 +35,16 @@ $images = [
             <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile">
                 <!-- wp:column {"verticalAlignment":"center","width":""} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"swt-duotone-secondary"} -->
-                    <figure class="wp-block-image aligncenter size-full swt-duotone-secondary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
+                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Secondary"} -->
+                    <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Secondary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:column -->
 
                 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"swt-duotone-secondary"} -->
-                    <figure class="wp-block-image aligncenter size-full swt-duotone-secondary"><img src="<?php echo esc_url($images[1]); ?>" alt=""/></figure>
+                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Secondary"} -->
+                    <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Secondary"><img src="<?php echo esc_url($images[1]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:column -->
@@ -59,16 +59,16 @@ $images = [
             <div class="wp-block-columns is-not-stacked-on-mobile">
                 <!-- wp:column {"verticalAlignment":"center","width":""} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"swt-duotone-secondary"} -->
-                    <figure class="wp-block-image aligncenter size-full swt-duotone-secondary"><img src="<?php echo esc_url($images[2]); ?>" alt=""/></figure>
+                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Secondary"} -->
+                    <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Secondary"><img src="<?php echo esc_url($images[2]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:column -->
 
                 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"swt-duotone-secondary"} -->
-                    <figure class="wp-block-image aligncenter size-full swt-duotone-secondary"><img src="<?php echo esc_url($images[3]); ?>" alt=""/></figure>
+                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Secondary"} -->
+                    <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Secondary"><img src="<?php echo esc_url($images[3]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:column -->
@@ -83,16 +83,16 @@ $images = [
             <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile">
                 <!-- wp:column {"verticalAlignment":"center","width":""} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"swt-duotone-secondary"} -->
-                    <figure class="wp-block-image aligncenter size-full swt-duotone-secondary"><img src="<?php echo esc_url($images[4]); ?>" alt=""/></figure>
+                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Secondary"} -->
+                    <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Secondary"><img src="<?php echo esc_url($images[4]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:column -->
 
                 <!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
                 <div class="wp-block-column is-vertically-aligned-center">
-                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"swt-duotone-secondary"} -->
-                    <figure class="wp-block-image aligncenter size-full swt-duotone-secondary"><img src="<?php echo esc_url($images[5]); ?>" alt=""/></figure>
+                    <!-- wp:image {"align":"center","sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Secondary"} -->
+                    <figure class="wp-block-image aligncenter size-full Upshift-Duotone-Secondary"><img src="<?php echo esc_url($images[5]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:column -->
