@@ -3,7 +3,7 @@
 /**
  * Title: Call to action.
  * Slug: upshift/call-to-action-2
- * Categories: banner
+ * Categories: featured
  * Keywords: Call to action
  */
 
