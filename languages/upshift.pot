@@ -7,7 +7,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language-Team: upshift\n"
-"POT-Creation-Date: 2024-03-22 05:52+0000\n"
+"POT-Creation-Date: 2024-04-23 09:35+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -15,38 +15,794 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: includes/setup.php:6
-msgid "Hero"
+#: functions.php:42
+msgid "Checkmark"
 msgstr ""
 
-#: includes/setup.php:12
-msgid "Gallery"
+#: functions.php:60
+msgid "With arrow"
 msgstr ""
 
-#: includes/setup.php:18
+#: includes/setup.php:53
+msgid "Pricing"
+msgstr ""
+
+#: patterns/accordian.php:13
+msgid "Frequently asked questions"
+msgstr ""
+
+#: patterns/accordian.php:19
+msgid "How does Up Shift work?"
+msgstr ""
+
+#: patterns/accordian.php:20, patterns/accordian.php:31, patterns/accordian.php:42, patterns/accordian.php:53
+msgid "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+msgstr ""
+
+#: patterns/accordian.php:30
+msgid "Is my data secure?"
+msgstr ""
+
+#: patterns/accordian.php:31, patterns/footer.php:36, patterns/header.php:25, patterns/header.php:48
 msgid "Features"
 msgstr ""
 
-#: includes/setup.php:24
-msgid "Testimonial"
+#: patterns/accordian.php:41
+msgid "Does Up Shift work well for large teams?"
 msgstr ""
 
-#: includes/setup.php:30
-msgid "blog"
+#: patterns/accordian.php:52
+msgid "How do I create a new account?"
 msgstr ""
 
-#: includes/setup.php:36
-msgid "Faq"
+#: patterns/add.php:22
+msgid "Join the innovative community"
 msgstr ""
 
-#: includes/setup.php:42
+#: patterns/add.php:26
+msgid "Still a bit curious?"
+msgstr ""
+
+#: patterns/add.php:26
+msgid "Get start today"
+msgstr ""
+
+#: patterns/add.php:32, patterns/features-three-columns-button.php:140, patterns/features-two-columns-left.php:113, patterns/features-two-columns-right.php:30, patterns/features-two-columns.php:33, patterns/header.php:40, patterns/header.php:60, patterns/pricing-three-col.php:79, patterns/pricing-three-col.php:144, patterns/pricing-three-col.php:209
+msgid "Get Started"
+msgstr ""
+
+#: patterns/blog.php:15
+msgid "Browse our"
+msgstr ""
+
+#: patterns/blog.php:15
+msgid "articles &amp; resources"
+msgstr ""
+
+#: patterns/blog.php:20
+msgid "Read More"
+msgstr ""
+
+#: patterns/call-to-action-2.php:26
+msgid "Everything on the web starts with a conversation. Let’s talk."
+msgstr ""
+
+#: patterns/call-to-action-2.php:31, patterns/header.php:29, patterns/header.php:52
 msgid "Contact"
 msgstr ""
 
-#: includes/setup.php:48
-msgid "Content"
+#: patterns/call-to-action.php:15, patterns/hero-banner.php:18
+msgid "Focus on your business growth with Round"
 msgstr ""
 
-#: includes/setup.php:54
-msgid "counts"
+#: patterns/call-to-action.php:19, patterns/features-two-columns-right.php:25, patterns/hero.php:19
+msgid "Create, build and ship your products real faster. With your own customized portal. showcase your Business like never before"
+msgstr ""
+
+#: patterns/call-to-action.php:25, patterns/hero-banner.php:30
+msgid "Start a Demo"
+msgstr ""
+
+#: patterns/content-counts.php:14
+msgid "Our numbers talks more than just words"
+msgstr ""
+
+#: patterns/content-counts.php:18, patterns/content-right-count.php:32, patterns/content-right-count.php:46, patterns/content-right-count.php:63, patterns/content-right.php:34
+msgid "Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet"
+msgstr ""
+
+#: patterns/content-counts.php:22
+msgid "Curabitur euismod pellentesque dapibus maecenas a pretium odio morbi porta congue tempus dignissim est tempor eros pulvinar."
+msgstr ""
+
+#: patterns/content-counts.php:31
+msgid "Revenue"
+msgstr ""
+
+#: patterns/content-counts.php:35
+msgid "growth:"
+msgstr ""
+
+#: patterns/content-counts.php:42
+msgid "93%"
+msgstr ""
+
+#: patterns/content-counts.php:52
+msgid "New"
+msgstr ""
+
+#: patterns/content-counts.php:56
+msgid "investors"
+msgstr ""
+
+#: patterns/content-counts.php:63
+msgid "87x"
+msgstr ""
+
+#: patterns/content-counts.php:73
+msgid "Investment"
+msgstr ""
+
+#: patterns/content-counts.php:77
+msgid "growth"
+msgstr ""
+
+#: patterns/content-counts.php:84
+msgid "63%"
+msgstr ""
+
+#: patterns/content-left-list.php:21
+msgid "Solutions for the unique business"
+msgstr ""
+
+#: patterns/content-left-list.php:25, patterns/content-left.php:23
+msgid "We are dedicated to helping businesses improve the experience they provide for their customers."
+msgstr ""
+
+#: patterns/content-left-list.php:40
+msgid "Meet your customer needs with Sense"
+msgstr ""
+
+#: patterns/content-left-list.php:57
+msgid "Automate managing and communicating ui"
+msgstr ""
+
+#: patterns/content-left-list.php:74
+msgid "Get your reporting and analytics at one place"
+msgstr ""
+
+#: patterns/content-left-list.php:91
+msgid "Human support and live chat functionality"
+msgstr ""
+
+#: patterns/content-left.php:19
+msgid "Up Shift got your back with friendly support"
+msgstr ""
+
+#: patterns/content-left.php:27
+msgid "Phasellus dignissim est tempor eros pulvinar luctus nam vulputate risus a efficitur cursus vivera allora ."
+msgstr ""
+
+#: patterns/content-left.php:31
+msgid "Mauris arcu odio, porttitor nec nunc sit amet, pulvinar vestibulum dui duis viverra erat mauris consectetur viverra quam."
+msgstr ""
+
+#: patterns/content-right-count.php:28
+msgid "Increase your sales and return on investment"
+msgstr ""
+
+#: patterns/content-right-count.php:39
+msgid "180+"
+msgstr ""
+
+#: patterns/content-right-count.php:56
+msgid "350+"
+msgstr ""
+
+#: patterns/content-right.php:30
+msgid "We create products that users love"
+msgstr ""
+
+#: patterns/content-right.php:38
+msgid "Eros, mi tincidunt lorem donec aenean. Facilisis velit eget morbi urna, in sed viverra sagittis dolor. Ultrices sem mattis eget faucibus tortor."
+msgstr ""
+
+#: patterns/content.php:14
+msgid "Take a look at the results we had achieved"
+msgstr ""
+
+#: patterns/content.php:18
+msgid "Mauris laoreet erat dolor, eget porta libero gravida nec. Sed vitae ultricies velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent molestie rutrum nisi a laoreet."
+msgstr ""
+
+#: patterns/content.php:22
+msgid "Duis vestibulum sodales ante sed malesuada. Nam consectetur sed ex eget blandit. In eget ante nisl. Sed laoreet id nisi ut suscipit. Etiam vestibulum"
+msgstr ""
+
+#: patterns/content.php:31
+msgid "3.2 million"
+msgstr ""
+
+#: patterns/content.php:31
+msgid "happy customers"
+msgstr ""
+
+#: patterns/content.php:39
+msgid "745k"
+msgstr ""
+
+#: patterns/content.php:39
+msgid "monthly active users"
+msgstr ""
+
+#: patterns/content.php:47
+msgid "$10 million gross"
+msgstr ""
+
+#: patterns/content.php:47
+msgid "merchandise volume"
+msgstr ""
+
+#: patterns/featured-logos.php:26
+msgid "Trusted by teams around the world"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:21, patterns/features-two-columns-icons.php:22
+msgid "Unique features."
+msgstr ""
+
+#: patterns/features-three-columns-button.php:21, patterns/features-two-columns-icons.php:22
+msgid "World class support."
+msgstr ""
+
+#: patterns/features-three-columns-button.php:32, patterns/features-two-columns-icons.php:29
+msgid "Everything is in the cloud"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:36, patterns/features-three-columns-button.php:54, patterns/features-three-columns-button.php:72, patterns/features-three-columns-button.php:93, patterns/features-three-columns-button.php:111, patterns/features-three-columns-button.php:129, patterns/features-two-columns-icons.php:32, patterns/features-two-columns-icons.php:54, patterns/features-two-columns-icons.php:78, patterns/features-two-columns-icons.php:98, patterns/features-two-columns-icons.php:121, patterns/features-two-columns-icons.php:141, patterns/features-two-columns-right.php:50, patterns/features-two-columns-right.php:68, patterns/features-two-columns-right.php:89, patterns/features-two-columns-right.php:107
+msgid "Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt."
+msgstr ""
+
+#: patterns/features-three-columns-button.php:50, patterns/features-two-columns-icons.php:50
+msgid "Easy management"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:68, patterns/features-two-columns-icons.php:75
+msgid "Quality assurance"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:89, patterns/features-two-columns-icons.php:95
+msgid "24/7 live support"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:107, patterns/features-two-columns-icons.php:117
+msgid "Customize your UIs"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:125, patterns/features-two-columns-icons.php:137
+msgid "Advanced security"
+msgstr ""
+
+#: patterns/features-three-columns.php:21
+msgid "The values that"
+msgstr ""
+
+#: patterns/features-three-columns.php:21
+msgid "drive our company."
+msgstr ""
+
+#: patterns/features-three-columns.php:32
+msgid "Do the right thing"
+msgstr ""
+
+#: patterns/features-three-columns.php:36, patterns/features-three-columns.php:54, patterns/features-three-columns.php:72, patterns/features-three-columns.php:93, patterns/features-three-columns.php:111, patterns/features-three-columns.php:129, patterns/features-two-columns-left.php:32, patterns/features-two-columns-left.php:71, patterns/features-two-columns-left.php:89
+msgid "Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue."
+msgstr ""
+
+#: patterns/features-three-columns.php:50
+msgid "Set the bar for quality"
+msgstr ""
+
+#: patterns/features-three-columns.php:68
+msgid "Celebrate diversity"
+msgstr ""
+
+#: patterns/features-three-columns.php:89
+msgid "The world a bit better"
+msgstr ""
+
+#: patterns/features-three-columns.php:107
+msgid "Live statistics"
+msgstr ""
+
+#: patterns/features-three-columns.php:125
+msgid "Grow your following"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:28, patterns/features-two-columns-left.php:46
+msgid "Advanced"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:28
+msgid "search"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:46
+msgid "security"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:50
+msgid "Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.."
+msgstr ""
+
+#: patterns/features-two-columns-left.php:67
+msgid "Fully."
+msgstr ""
+
+#: patterns/features-two-columns-left.php:67
+msgid "customizable."
+msgstr ""
+
+#: patterns/features-two-columns-left.php:85
+msgid "Global"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:85
+msgid "community."
+msgstr ""
+
+#: patterns/features-two-columns-left.php:104
+msgid "Advanced technology made plain and simple"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:108
+msgid "Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet consectetur aliquam. Nunc neque."
+msgstr ""
+
+#: patterns/features-two-columns-right.php:21
+msgid "Build your SaaS website with Up Shift"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:46
+msgid "Fully responsive"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:64
+msgid "E-commerce"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:85
+msgid "Multi layout template"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:103
+msgid "Amazing support staff"
+msgstr ""
+
+#: patterns/features-two-columns.php:21
+msgid "Still not convinced? Here's a few more services for you"
+msgstr ""
+
+#: patterns/features-two-columns.php:27
+msgid "Mauris sed lectus ipsum. Ut at tincidunt quam. Nunc rhoncus tempus ipsum vitae pharetra. Ut et leo at metus luctus condimentum quis eget lectus. Cras sed feugiat eros. Maecenas aliquet facilisis ."
+msgstr ""
+
+#: patterns/features-two-columns.php:50
+msgid "Create projects"
+msgstr ""
+
+#: patterns/features-two-columns.php:54, patterns/features-two-columns.php:72, patterns/features-two-columns.php:93, patterns/features-two-columns.php:112
+msgid "Morbi magna sapien, ullamcorper a eleifend vitae, iaculis eget massa. Ut feugiat bibendum diam, ut interdum dolor rhoncus in. Maecenas vel nunc enim. Orci varius natoque penatibus et magnis."
+msgstr ""
+
+#: patterns/features-two-columns.php:68
+msgid "Get detailed stats"
+msgstr ""
+
+#: patterns/features-two-columns.php:89
+msgid "Automatic backup"
+msgstr ""
+
+#: patterns/features-two-columns.php:108
+msgid "Multiple teams"
+msgstr ""
+
+#: patterns/footer.php:23
+msgid "Advanced creation platform for web professionals."
+msgstr ""
+
+#: patterns/footer.php:32
+msgid "Pages"
+msgstr ""
+
+#: patterns/footer.php:37, patterns/footer.php:66, patterns/header.php:26, patterns/header.php:49
+msgid "Company"
+msgstr ""
+
+#: patterns/footer.php:38, patterns/header.php:27, patterns/header.php:50
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer.php:39, patterns/footer.php:88, patterns/header.php:28, patterns/header.php:51
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:40, patterns/footer.php:55
+msgid "Contact us"
+msgstr ""
+
+#: patterns/footer.php:41
+msgid "Reviews"
+msgstr ""
+
+#: patterns/footer.php:49
+msgid "Support"
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "Docs"
+msgstr ""
+
+#: patterns/footer.php:54
+msgid "Hooks & Functions"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Support (Tech)"
+msgstr ""
+
+#: patterns/footer.php:57
+msgid "Feedback"
+msgstr ""
+
+#: patterns/footer.php:58
+msgid "Roadmap"
+msgstr ""
+
+#: patterns/footer.php:70
+msgid "About us"
+msgstr ""
+
+#: patterns/footer.php:71
+msgid "Other Products"
+msgstr ""
+
+#: patterns/footer.php:72
+msgid "Career"
+msgstr ""
+
+#: patterns/footer.php:74
+msgid "Blog "
+msgstr ""
+
+#: patterns/footer.php:75
+msgid "Privacy Policy "
+msgstr ""
+
+#: patterns/footer.php:83
+msgid "Products"
+msgstr ""
+
+#: patterns/footer.php:86
+msgid "Products List"
+msgstr ""
+
+#: patterns/footer.php:87
+msgid "Plans & Pricing"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Partners"
+msgstr ""
+
+#: patterns/header.php:20
+msgid "Up"
+msgstr ""
+
+#: patterns/header.php:20
+msgid "Shift"
+msgstr ""
+
+#: patterns/header.php:36, patterns/header.php:56
+msgid "Sign In"
+msgstr ""
+
+#: patterns/hero-banner-bg-cover.php:18
+msgid "Who are"
+msgstr ""
+
+#: patterns/hero-banner-bg-cover.php:18
+msgid "we?"
+msgstr ""
+
+#: patterns/hero-banner-bg-cover.php:23
+msgid "We are a small team of skilled and enthusiastic professionals who thrive on challenges and excel in turning ideas into reality. upshift was founded in 2024, with a vision to redefine the digital experience."
+msgstr ""
+
+#: patterns/hero-banner-bg-cover.php:29
+msgid "Explore Our Values"
+msgstr ""
+
+#: patterns/hero-banner.php:23
+msgid "reate, build and ship your products real faster. With your own customized portal. showcase your Business like never before"
+msgstr ""
+
+#: patterns/hero.php:15
+msgid "We are Up Shift &"
+msgstr ""
+
+#: patterns/hero.php:15
+msgid "we create digital things"
+msgstr ""
+
+#: patterns/logos.php:24
+msgid "Trusted by these brands:"
+msgstr ""
+
+#: patterns/portfolio.php:23
+msgid "Creative Works"
+msgstr ""
+
+#: patterns/portfolio.php:27
+msgid "Step into my world of creative prowess, where ideas take shape and innovation flourishes. Explore an eclectic mix of projects spanning design, writing, and multimedia endeavors."
+msgstr ""
+
+#: patterns/portfolio.php:37
+msgid "Innovation"
+msgstr ""
+
+#: patterns/portfolio.php:48
+msgid "Versatility"
+msgstr ""
+
+#: patterns/portfolio.php:59
+msgid "Impact"
+msgstr ""
+
+#: patterns/portfolio.php:74
+msgid "Precision"
+msgstr ""
+
+#: patterns/portfolio.php:88
+msgid "Distinction"
+msgstr ""
+
+#: patterns/portfolio.php:102
+msgid "Engagement"
+msgstr ""
+
+#: patterns/pricing-three-col.php:15
+msgid "Choose a plan, and get creative."
+msgstr ""
+
+#: patterns/pricing-three-col.php:19
+msgid "Choose a plan tailored to your needs"
+msgstr ""
+
+#: patterns/pricing-three-col.php:30
+msgid "Lite"
+msgstr ""
+
+#: patterns/pricing-three-col.php:34, patterns/pricing-three-col.php:99, patterns/pricing-three-col.php:164
+msgid "Perfect to get started"
+msgstr ""
+
+#: patterns/pricing-three-col.php:38
+msgid "$19.00"
+msgstr ""
+
+#: patterns/pricing-three-col.php:48
+msgid "Analytics"
+msgstr ""
+
+#: patterns/pricing-three-col.php:60, patterns/pricing-three-col.php:125
+msgid "Email &amp; SMS reminders"
+msgstr ""
+
+#: patterns/pricing-three-col.php:72, patterns/pricing-three-col.php:202
+msgid "24 X 7 Customer support"
+msgstr ""
+
+#: patterns/pricing-three-col.php:95
+msgid "Pro"
+msgstr ""
+
+#: patterns/pricing-three-col.php:103
+msgid "$25.00"
+msgstr ""
+
+#: patterns/pricing-three-col.php:113
+msgid "Advanced analytics"
+msgstr ""
+
+#: patterns/pricing-three-col.php:137
+msgid "100% Template edit"
+msgstr ""
+
+#: patterns/pricing-three-col.php:160
+msgid "Ultimate"
+msgstr ""
+
+#: patterns/pricing-three-col.php:168
+msgid "$35.00"
+msgstr ""
+
+#: patterns/pricing-three-col.php:178
+msgid "Daily performance reports"
+msgstr ""
+
+#: patterns/pricing-three-col.php:190
+msgid "Dedicated assistance"
+msgstr ""
+
+#: patterns/related-blog.php:12
+msgid "Related articles"
+msgstr ""
+
+#: patterns/teams-six-col.php:24
+msgid "Meet our team"
+msgstr ""
+
+#: patterns/teams-six-col.php:28
+msgid "A strong leadership team has a clear vision for the organization's future and works towards achieving it."
+msgstr ""
+
+#: patterns/teams-six-col.php:48, patterns/teams.php:49
+msgid "Patrick Meyer"
+msgstr ""
+
+#: patterns/teams-six-col.php:52, patterns/teams.php:53
+msgid "Chairman &amp; CEO"
+msgstr ""
+
+#: patterns/teams-six-col.php:68, patterns/teams.php:64
+msgid "Cameron Williamson"
+msgstr ""
+
+#: patterns/teams-six-col.php:72, patterns/teams.php:68
+msgid "Senior manager"
+msgstr ""
+
+#: patterns/teams-six-col.php:88, patterns/teams.php:80
+msgid "Jane Cooper"
+msgstr ""
+
+#: patterns/teams-six-col.php:92, patterns/teams.php:84
+msgid "Project manager"
+msgstr ""
+
+#: patterns/teams-six-col.php:116, patterns/teams.php:95
+msgid "Wade Warren"
+msgstr ""
+
+#: patterns/teams-six-col.php:120, patterns/teams.php:99
+msgid "Senior developer"
+msgstr ""
+
+#: patterns/teams-six-col.php:136, patterns/teams.php:113
+msgid "Liam Kim"
+msgstr ""
+
+#: patterns/teams-six-col.php:140, patterns/teams.php:117
+msgid "Resolution Expert"
+msgstr ""
+
+#: patterns/teams-six-col.php:156, patterns/teams.php:128
+msgid "Ava Rodriguez"
+msgstr ""
+
+#: patterns/teams-six-col.php:160, patterns/teams.php:132
+msgid "Solving Guru"
+msgstr ""
+
+#: patterns/teams.php:26
+msgid "The amazing team behind our company"
+msgstr ""
+
+#: patterns/teams.php:33
+msgid "Join Team"
+msgstr ""
+
+#: patterns/teams.php:143
+msgid "Cody Fischer"
+msgstr ""
+
+#: patterns/teams.php:147
+msgid "Satisfaction Champion"
+msgstr ""
+
+#: patterns/teams.php:158
+msgid "Leslie Alexander"
+msgstr ""
+
+#: patterns/teams.php:162
+msgid "Business Developer"
+msgstr ""
+
+#: patterns/template-404.php:14
+msgid "Error 404"
+msgstr ""
+
+#: patterns/template-404.php:20
+msgid "Unfortunately, this page doesn't exist."
+msgstr ""
+
+#: patterns/template-404.php:20
+msgid "Try another search?"
+msgstr ""
+
+#: patterns/template-index.php:16
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/template-search.php:57
+msgid "Sorry, but nothing matched your search terms"
+msgstr ""
+
+#: patterns/template-search.php:57
+msgid " Try another search?"
+msgstr ""
+
+#: patterns/template-single.php:23, patterns/template-single.php:36
+msgid "|"
+msgstr ""
+
+#: patterns/template-single.php:28
+msgid "Written by : "
+msgstr ""
+
+#: patterns/template-single.php:44
+msgid ".read - "
+msgstr ""
+
+#: patterns/testiomonial.php:19
+msgid "Listen to what our"
+msgstr ""
+
+#: patterns/testiomonial.php:19
+msgid "clients say."
+msgstr ""
+
+#: patterns/testiomonial.php:31
+msgid "“Viverra sem cursus ut consectetur at. Habitant lectus duis neque dui viverra dui. Magna pellentesque posuere nisl diam faucibus diam. Sapien at eleifend elit gravida amet tempus tortor. Lacinia egestas.”"
+msgstr ""
+
+#: patterns/testiomonial.php:41
+msgid "Sarah James"
+msgstr ""
+
+#: patterns/testiomonial.php:45
+msgid "@sarah"
+msgstr ""
+
+#: patterns/testiomonial.php:63
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique a tortor at elementum. Praesent volutpat, dolor et euismod congue, tellus ex cursus ipsum, eget posuere lacus ipsum a felis.volutpat, dolor et"
+msgstr ""
+
+#: patterns/testiomonial.php:73
+msgid "Jaheim Philip"
+msgstr ""
+
+#: patterns/testiomonial.php:77
+msgid "@philip"
+msgstr ""
+
+#: patterns/testiomonial.php:98, patterns/testiomonial.php:130
+msgid "Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus"
+msgstr ""
+
+#: patterns/testiomonial.php:108
+msgid "Cody Fisher"
+msgstr ""
+
+#: patterns/testiomonial.php:112
+msgid "@fisher"
+msgstr ""
+
+#: patterns/testiomonial.php:140
+msgid "Ronald Richards"
+msgstr ""
+
+#: patterns/testiomonial.php:144
+msgid "@ronald"
 msgstr ""
