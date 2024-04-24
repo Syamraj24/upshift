@@ -6,19 +6,14 @@
  * Categories: footer
  * Keywords: Footer
  */
-$get_url = trailingslashit(get_template_directory_uri());
-$images = [
-    $get_url . "/assets/images/footer-logo.png",
-];
+
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"margin":{"top":"0","bottom":"0"}}},"backgroundColor":"black","textColor":"white","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-white-color has-black-background-color has-text-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
     <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}}} -->
     <div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--20)"><!-- wp:column {"width":"380px","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","wideSize":"","justifyContent":"left"}} -->
-        <div class="wp-block-column" style="flex-basis:380px"><!-- wp:image {"sizeSlug":"full","linkDestination":"custom"} -->
-            <figure class="wp-block-image size-full"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
-            <!-- /wp:image -->
-
+        <div class="wp-block-column" style="flex-basis:380px">
+            <!-- wp:site-logo {"width":40} /-->
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"white","fontSize":"small"} -->
             <p class="has-white-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e('Advanced creation platform for web professionals.', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
