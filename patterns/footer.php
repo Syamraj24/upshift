@@ -13,7 +13,14 @@
     <!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}}} -->
     <div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--20)"><!-- wp:column {"width":"380px","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained","wideSize":"","justifyContent":"left"}} -->
         <div class="wp-block-column" style="flex-basis:380px">
-            <!-- wp:site-logo {"width":40} /-->
+            <!-- wp:group {"style":{"spacing":{"blockGap":"6px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+            <div class="wp-block-group">
+                <!-- wp:site-logo {"width":40} /-->
+                <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.1","letterSpacing":"0px"}},"textColor":"white","fontSize":"small"} -->
+                <p class="has-white-color has-text-color has-link-color has-small-font-size" style="font-style:normal;font-weight:700;letter-spacing:0px;line-height:1.1"><?php esc_html_e('Up', 'upshift'); ?><br><?php esc_html_e('Shift', 'upshift'); ?></p>
+                <!-- /wp:paragraph -->
+            </div>
+            <!-- /wp:group -->
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"white","fontSize":"small"} -->
             <p class="has-white-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e('Advanced creation platform for web professionals.', 'upshift'); ?></p>
             <!-- /wp:paragraph -->
