@@ -8,10 +8,10 @@
  */
 $get_url = trailingslashit(get_template_directory_uri());
 $images = [
-    $get_url . "/assets/images/res.svg",
-    $get_url . "/assets/images/cart.svg",
-    $get_url . "/assets/images/grid.svg",
-    $get_url . "/assets/images/chat.svg",
+    $get_url . "/assets/images/quality-1.svg",
+    $get_url . "/assets/images/quality-2.svg",
+    $get_url . "/assets/images/quality-3.svg",
+    $get_url . "/assets/images/quality-4.svg",
 ];
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"backgroundColor":"background","layout":{"type":"constrained"}} -->

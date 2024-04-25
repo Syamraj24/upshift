@@ -8,7 +8,7 @@
  */
 $get_url = trailingslashit(get_template_directory_uri());
 $images = [
-    $get_url . "/assets/images/support.png",
+    $get_url . "/assets/images/support.jpg",
 ];
 ?>
 <!-- wp:group {"align":"fill","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->

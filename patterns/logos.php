@@ -8,11 +8,12 @@
  */
 $get_url = trailingslashit(get_template_directory_uri());
 $images = [
-    $get_url . "/assets/images/Nextmove.svg",
-    $get_url . "/assets/images/Ebooks.svg",
-    $get_url . "/assets/images/cloud.svg",
-    $get_url . "/assets/images/vision.svg",
-    $get_url . "/assets/images/rise.svg",
+    $get_url . "/assets/images/logo-1.svg",
+    $get_url . "/assets/images/logo-2.svg",
+    $get_url . "/assets/images/logo-3.svg",
+    $get_url . "/assets/images/logo-4.svg",
+    $get_url . "/assets/images/logo-5.svg",
+    $get_url . "/assets/images/logo-6.svg", 
 
 
 ];

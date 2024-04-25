@@ -8,12 +8,12 @@
  */
 $get_url = trailingslashit(get_template_directory_uri());
 $images = [
-    $get_url . "/assets/images/cloud-computing.svg",
-    $get_url . "/assets/images/cube.svg",
-    $get_url . "/assets/images/badge.svg",
-    $get_url . "/assets/images/chatting.svg",
-    $get_url . "/assets/images/design.svg",
-    $get_url . "/assets/images/security.svg",
+    $get_url . "/assets/images/property-1.svg",
+    $get_url . "/assets/images/property-2.svg",
+    $get_url . "/assets/images/property-3.svg",
+    $get_url . "/assets/images/property-4.svg",
+    $get_url . "/assets/images/property-5.svg",
+    $get_url . "/assets/images/property-6.svg",
 ];
 ?>
 <!-- wp:group {"align":"fill","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"layout":{"type":"constrained"}} -->
