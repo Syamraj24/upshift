@@ -10,12 +10,12 @@
 $get_url = trailingslashit(get_template_directory_uri());
 
 $images = [
-    $get_url . "assets/images/logo-1.png",
-    $get_url . "assets/images/logo-2.png",
-    $get_url . "assets/images/logo-3.png",
-    $get_url . "assets/images/logo-4.png",
-    $get_url . "assets/images/logo-5.png",
-    $get_url . "assets/images/logo-6.png"
+    $get_url . "assets/images/logo-1.svg",
+    $get_url . "assets/images/logo-2.svg",
+    $get_url . "assets/images/logo-3.svg",
+    $get_url . "assets/images/logo-4.svg",
+    $get_url . "assets/images/logo-5.svg",
+    $get_url . "assets/images/logo-6.svg"
 ];
 
 ?>
