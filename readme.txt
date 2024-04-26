@@ -98,6 +98,12 @@ https://logoipsum.com/artwork/287
 https://logoipsum.com/artwork/288
 
 
+Content left list
+License :  CC0 1.0 Deed, CC0 1.0 Universal
+License URI : https://stocksnap.io/license
+https://stocksnap.io/photo/analytics-charts-RCFX768X06
+
+
 Portfolio
 License :  CC0 1.0 Deed, CC0 1.0 Universal
 License URI : https://stocksnap.io/license
