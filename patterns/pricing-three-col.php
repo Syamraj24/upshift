@@ -19,8 +19,8 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
     <p class="has-text-align-center has-small-font-size" style="font-style:normal;font-weight:500"><?php esc_html_e('Choose a plan tailored to your needs', 'upshift'); ?></p>
     <!-- /wp:paragraph -->
 
-    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"},"padding":{"top":"var:preset|spacing|55","right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
-    <div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--55);padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">
+    <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"},"padding":{"top":"var:preset|spacing|55"}}}} -->
+    <div class="wp-block-columns alignwide" style="padding-top:var(--wp--preset--spacing--55);">
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}}} -->
         <div class="wp-block-column">
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|55","right":"var:preset|spacing|55","bottom":"var:preset|spacing|55","left":"var:preset|spacing|55"},"blockGap":"0"},"border":{"radius":"12px","width":"0px","style":"none"}},"backgroundColor":"primary","layout":{"type":"constrained","justifyContent":"center"}} -->
@@ -53,7 +53,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
@@ -65,7 +65,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10","padding":{"bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--30)">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
@@ -106,7 +106,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
@@ -118,7 +118,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
@@ -130,7 +130,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10","padding":{"bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--30)">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
@@ -171,7 +171,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
@@ -183,7 +183,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
@@ -195,7 +195,7 @@ $images = [$get_url . "assets/images/tickcircle.svg"];
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10","padding":{"bottom":"var:preset|spacing|30"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
                 <div class="wp-block-group" style="padding-bottom:var(--wp--preset--spacing--30)">
                     <!-- wp:image {"sizeSlug":"large","linkDestination":"none","align":"center","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <figure class="wp-block-image aligncenter size-large Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                     <!-- /wp:image -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"textColor":"heading","fontSize":"small"} -->
