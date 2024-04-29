@@ -2,7 +2,7 @@
 
 /**
  * Title: Testimonials
- * Slug: upshift/testimonials
+ * Slug: nexara/testimonials
  * Categories: featured
  * Keywords: Testimonials
  */
@@ -16,7 +16,7 @@ $images = [
 ?>
 <!-- wp:group {"align":"fill","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|55"}}}} -->
-    <h2 class="wp-block-heading has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Listen to what our', 'upshift'); ?><br><?php esc_html_e('clients say.', 'upshift'); ?></h2>
+    <h2 class="wp-block-heading has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Listen to what our', 'nexara'); ?><br><?php esc_html_e('clients say.', 'nexara'); ?></h2>
     <!-- /wp:heading -->
 
     <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|55","bottom":"var:preset|spacing|80","right":"var:preset|spacing|10","left":"var:preset|spacing|10"},"blockGap":"20px"},"border":{"radius":"20px"}},"backgroundColor":"primary","layout":{"type":"constrained","wideSize":"780px","contentSize":""}} -->
@@ -28,7 +28,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"spacing":{"padding":{"left":"0","bottom":"var:preset|spacing|10"}},"typography":{"lineHeight":"1.9"}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('“Viverra sem cursus ut consectetur at. Habitant lectus duis neque dui viverra dui. Magna pellentesque posuere nisl diam faucibus diam. Sapien at eleifend elit gravida amet tempus tortor. Lacinia egestas.”', 'upshift'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('“Viverra sem cursus ut consectetur at. Habitant lectus duis neque dui viverra dui. Magna pellentesque posuere nisl diam faucibus diam. Sapien at eleifend elit gravida amet tempus tortor. Lacinia egestas.”', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -38,11 +38,11 @@ $images = [
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
                         <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Sarah James', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Sarah James', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
 
                             <!-- wp:paragraph {"textColor":"grey","fontSize":"xx-small"} -->
-                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@sarah', 'upshift'); ?></p>
+                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@sarah', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:group -->
@@ -60,7 +60,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique a tortor at elementum. Praesent volutpat, dolor et euismod congue, tellus ex cursus ipsum, eget posuere lacus ipsum a felis.volutpat, dolor et', 'upshift'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique a tortor at elementum. Praesent volutpat, dolor et euismod congue, tellus ex cursus ipsum, eget posuere lacus ipsum a felis.volutpat, dolor et', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -70,11 +70,11 @@ $images = [
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
                         <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Jaheim Philip', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Jaheim Philip', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
 
                             <!-- wp:paragraph {"textColor":"grey","fontSize":"xx-small"} -->
-                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@philip', 'upshift'); ?></p>
+                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@philip', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:group -->
@@ -95,7 +95,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'upshift'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -105,11 +105,11 @@ $images = [
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
                         <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Cody Fisher', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Cody Fisher', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
 
                             <!-- wp:paragraph {"textColor":"grey","fontSize":"xx-small"} -->
-                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@fisher', 'upshift'); ?></p>
+                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@fisher', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:group -->
@@ -127,7 +127,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'upshift'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -137,11 +137,11 @@ $images = [
 
                         <!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"flex","orientation":"vertical"}} -->
                         <div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Ronald Richards', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Ronald Richards', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
 
                             <!-- wp:paragraph {"textColor":"grey","fontSize":"xx-small"} -->
-                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@ronald', 'upshift'); ?></p>
+                            <p class="has-grey-color has-text-color has-xx-small-font-size"><?php esc_html_e('@ronald', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:group -->

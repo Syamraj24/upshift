@@ -2,14 +2,14 @@
 
 /**
  * Title: Related Blog
- * Slug: upshift/related-blog
+ * Slug: nexara/related-blog
  * Categories: posts
  */
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|80"},"blockGap":"0"}},"backgroundColor":"background","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull has-background-background-color has-background" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)">
     <!-- wp:heading {"textAlign":"center","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|55"}}},"textColor":"secondary"} -->
-    <h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color" style="padding-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Related articles', 'upshift'); ?></h2>
+    <h2 class="wp-block-heading has-text-align-center has-secondary-color has-text-color" style="padding-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Related articles', 'nexara'); ?></h2>
     <!-- /wp:heading -->
     <!-- wp:group {"align":"wide","layout":{"type":"constrained"}} -->
     <div class="wp-block-group alignwide">
@@ -22,7 +22,7 @@
 
                 <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","right":"25px","bottom":"43px","left":"25px"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
                 <div class="wp-block-group" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--30);padding-right:25px;padding-bottom:43px;padding-left:25px">
-                    <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"upshift-post-category","fontSize":"xxx-small"} /-->
+                    <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"Nexara-post-category","fontSize":"xxx-small"} /-->
 
                     <!-- wp:post-title {"level":3,"isLink":true,"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":1.4},"spacing":{"margin":{"bottom":"var:preset|spacing|30","top":"14px"}}},"fontSize":"medium"} /-->
 

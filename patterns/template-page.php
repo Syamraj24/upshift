@@ -2,7 +2,7 @@
 
 /**
  * Title: Template page
- * Slug: upshift/template-page
+ * Slug: nexara/template-page
  * Categories: template
  * Inserter: false
  */

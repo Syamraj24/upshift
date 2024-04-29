@@ -2,7 +2,7 @@
 
 /**
  * Title: Content left
- * Slug: upshift/content-left
+ * Slug: nexara/content-left
  * Categories: featured
  * Keywords: Content left 
  */
@@ -16,19 +16,19 @@ $images = [
     <div class="wp-block-columns alignwide are-vertically-aligned-center has-secondary-color has-text-color"><!-- wp:column {"verticalAlignment":"center"} -->
         <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
             <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"lineHeight":1.3,"letterSpacing":"0.01em"}}} -->
-                <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Up Shift got your back with friendly support', 'upshift'); ?></h2>
+                <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Up Shift got your back with friendly support', 'nexara'); ?></h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.6"}},"fontSize":"xmedium"} -->
-                <p class="has-xmedium-font-size" style="font-style:normal;font-weight:700;line-height:1.6"><?php esc_html_e('We are dedicated to helping businesses improve the experience they provide for their customers.', 'upshift'); ?></p>
+                <p class="has-xmedium-font-size" style="font-style:normal;font-weight:700;line-height:1.6"><?php esc_html_e('We are dedicated to helping businesses improve the experience they provide for their customers.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Phasellus dignissim est tempor eros pulvinar luctus nam vulputate risus a efficitur cursus vivera allora .', 'upshift'); ?></p>
+                <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Phasellus dignissim est tempor eros pulvinar luctus nam vulputate risus a efficitur cursus vivera allora .', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Mauris arcu odio, porttitor nec nunc sit amet, pulvinar vestibulum dui duis viverra erat mauris consectetur viverra quam.', 'upshift'); ?></p>
+                <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Mauris arcu odio, porttitor nec nunc sit amet, pulvinar vestibulum dui duis viverra erat mauris consectetur viverra quam.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
