@@ -2,7 +2,7 @@
 
 /**
  * Title: Features two columns left
- * Slug: upshift/features-two-columns-left
+ * Slug: nexara/features-two-columns-left
  * Categories: featured
  * Keywords: Features two columns left
  */
@@ -25,11 +25,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Advanced', 'upshift'); ?><br><?php esc_html_e('search', 'upshift'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Advanced', 'nexara'); ?><br><?php esc_html_e('search', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'upshift'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -43,11 +43,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Advanced', 'upshift'); ?><br><?php esc_html_e('security', 'upshift'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Advanced', 'nexara'); ?><br><?php esc_html_e('security', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue..', 'upshift'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue..', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -64,11 +64,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Fully.', 'upshift'); ?><br><?php esc_html_e('customizable.', 'upshift'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Fully.', 'nexara'); ?><br><?php esc_html_e('customizable.', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'upshift'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -82,11 +82,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Global', 'upshift'); ?><br><?php esc_html_e('community.', 'upshift'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Global', 'nexara'); ?><br><?php esc_html_e('community.', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'upshift'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -101,16 +101,16 @@ $images = [
         <div class="wp-block-column is-vertically-aligned-center">
             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained","justifyContent":"right","wideSize":"480px"}} -->
             <div class="wp-block-group"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}}},"textColor":"secondary","className":"wp-block-heading"} -->
-                <h2 class="wp-block-heading has-secondary-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px"><?php esc_html_e('Advanced technology made plain and simple', 'upshift'); ?></h2>
+                <h2 class="wp-block-heading has-secondary-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px"><?php esc_html_e('Advanced technology made plain and simple', 'nexara'); ?></h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"padding":{"bottom":"10px"}}},"textColor":"secondary","fontSize":"small"} -->
-                <p class="has-secondary-color has-text-color has-small-font-size" style="padding-bottom:10px;font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet consectetur aliquam. Nunc neque.', 'upshift'); ?></p>
+                <p class="has-secondary-color has-text-color has-small-font-size" style="padding-bottom:10px;font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet consectetur aliquam. Nunc neque.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:buttons -->
                 <div class="wp-block-buttons"><!-- wp:button {"style":{"elements":{"link":{"color":{"text":"var:preset|color|secondary"}}}}} -->
-                    <div class="wp-block-button"><a class="wp-block-button__link has-link-color wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+                    <div class="wp-block-button"><a class="wp-block-button__link has-link-color wp-element-button"><?php esc_html_e('Get Started', 'nexara'); ?></a></div>
                     <!-- /wp:button -->
                 </div>
                 <!-- /wp:buttons -->

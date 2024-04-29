@@ -2,7 +2,7 @@
 
 /**
  * Title: Add
- * Slug: upshift/add
+ * Slug: nexara/add
  * Categories: featured
  * Keywords: Add
  */
@@ -19,17 +19,17 @@ $images = [
         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:53.94%">
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"margin":{"bottom":"12px"}}},"fontSize":"small"} -->
             <p class="has-small-font-size" style="margin-bottom:12px;font-style:normal;font-weight:600;line-height:1.8">
-                <?php esc_html_e('Join the innovative community', 'upshift'); ?></p>
+                <?php esc_html_e('Join the innovative community', 'nexara'); ?></p>
             <!-- /wp:paragraph -->
 
             <!-- wp:heading {"style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"},"margin":{"top":"0","right":"0","bottom":"var:preset|spacing|40","left":"0"}}},"fontSize":"xxlarge"} -->
-            <h2 class="wp-block-heading has-xxlarge-font-size" style="margin-top:0;margin-right:0;margin-bottom:var(--wp--preset--spacing--40);margin-left:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><?php esc_html_e('Still a bit curious?', 'upshift'); ?><br><?php esc_html_e('Get start today', 'upshift'); ?></h2>
+            <h2 class="wp-block-heading has-xxlarge-font-size" style="margin-top:0;margin-right:0;margin-bottom:var(--wp--preset--spacing--40);margin-left:0;padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><?php esc_html_e('Still a bit curious?', 'nexara'); ?><br><?php esc_html_e('Get start today', 'nexara'); ?></h2>
             <!-- /wp:heading -->
 
             <!-- wp:buttons {"style":{"spacing":{"blockGap":"0","margin":{"top":"0","bottom":"0"}}}} -->
             <div class="wp-block-buttons" style="margin-top:0;margin-bottom:0">
                 <!-- wp:button {"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"x-small"} -->
-                <div class="wp-block-button has-custom-font-size has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'upshift'); ?></a></div>
+                <div class="wp-block-button has-custom-font-size has-x-small-font-size" style="font-style:normal;font-weight:700"><a class="wp-block-button__link wp-element-button"><?php esc_html_e('Get Started', 'nexara'); ?></a></div>
                 <!-- /wp:button -->
             </div>
             <!-- /wp:buttons -->

@@ -2,7 +2,7 @@
 
 /**
  * Title: Posts Grid
- * Slug: upshift/posts-grid
+ * Slug: nexara/posts-grid
  * Categories: posts
  * Keywords: posts grid
  */
@@ -20,7 +20,7 @@
 
             <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|30","left":"var:preset|spacing|30","right":"var:preset|spacing|30"},"blockGap":"0"}},"layout":{"type":"constrained","justifyContent":"left"}} -->
             <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--30);padding-right:var(--wp--preset--spacing--30);padding-bottom:var(--wp--preset--spacing--30);padding-left:var(--wp--preset--spacing--30)">
-                <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"upshift-post-category","fontSize":"xxx-small"} /-->
+                <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"Nexara-post-category","fontSize":"xxx-small"} /-->
 
                 <!-- wp:post-title {"level":3,"isLink":true,"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":1.4},"spacing":{"margin":{"bottom":"var:preset|spacing|30","top":"var:preset|spacing|20"}}},"fontSize":"medium"} /-->
 
@@ -32,7 +32,7 @@
         <!-- /wp:post-template -->
         <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
         <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)">
-            <!-- wp:query-pagination {"className":"upshift-pagination","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
+            <!-- wp:query-pagination {"className":"Nexara-pagination","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
             <!-- wp:query-pagination-previous /-->
 
             <!-- wp:query-pagination-numbers {"midSize":0} /-->

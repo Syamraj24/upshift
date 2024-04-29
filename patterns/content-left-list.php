@@ -2,7 +2,7 @@
 
 /**
  * Title: Content left list
- * Slug: upshift/content-left-list
+ * Slug: nexara/content-left-list
  * Categories: featured
  * Keywords: Content left list
  */
@@ -18,26 +18,26 @@ $images = [
     <div class="wp-block-columns alignwide are-vertically-aligned-center has-secondary-color has-text-color"><!-- wp:column {"verticalAlignment":"center"} -->
         <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
             <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"lineHeight":1.3,"letterSpacing":"0.01em"}}} -->
-                <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Solutions for the unique business', 'upshift'); ?></h2>
+                <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Solutions for the unique business', 'nexara'); ?></h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.6"}},"fontSize":"xmedium"} -->
-                <p class="has-xmedium-font-size" style="font-style:normal;font-weight:600;line-height:1.6"><?php esc_html_e('We are dedicated to helping businesses improve the experience they provide for their customers.', 'upshift'); ?></p>
+                <p class="has-xmedium-font-size" style="font-style:normal;font-weight:600;line-height:1.6"><?php esc_html_e('We are dedicated to helping businesses improve the experience they provide for their customers.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"layout":{"type":"constrained"}} -->
                 <div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px">
-                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                        <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Meet your customer needs with Sense', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Meet your customer needs with Sense', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->
@@ -46,15 +46,15 @@ $images = [
 
                     <!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
-                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Automate managing and communicating ui', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Automate managing and communicating ui', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->
@@ -63,15 +63,15 @@ $images = [
 
                     <!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
-                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Get your reporting and analytics at one place', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Get your reporting and analytics at one place', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->
@@ -80,15 +80,15 @@ $images = [
 
                     <!-- wp:columns {"verticalAlignment":"center","isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|20","left":"var:preset|spacing|20"}}}} -->
                     <div class="wp-block-columns are-vertically-aligned-center is-not-stacked-on-mobile"><!-- wp:column {"verticalAlignment":"center","width":"25px","style":{"spacing":[]}} -->
-                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                            <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                        <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:25px"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Primary"} -->
+                            <figure class="wp-block-image size-full Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                             <!-- /wp:image -->
                         </div>
                         <!-- /wp:column -->
 
                         <!-- wp:column {"verticalAlignment":"center","width":"","style":{"spacing":{"padding":{"top":"0px","right":"0px","bottom":"0px","left":"0px"}}}} -->
                         <div class="wp-block-column is-vertically-aligned-center" style="padding-top:0px;padding-right:0px;padding-bottom:0px;padding-left:0px"><!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Human support and live chat functionality', 'upshift'); ?></p>
+                            <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Human support and live chat functionality', 'nexara'); ?></p>
                             <!-- /wp:paragraph -->
                         </div>
                         <!-- /wp:column -->

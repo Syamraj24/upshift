@@ -2,7 +2,7 @@
 
 /**
  * Title: Portfolio
- * Slug: upshift/portfolio
+ * Slug: nexara/portfolio
  * Categories: gallery
  * Keywords: Portfolio
  */
@@ -20,11 +20,11 @@ $images = [
 ?>
 <!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"var:preset|spacing|100","bottom":"var:preset|spacing|100"},"margin":{"top":"0","bottom":"0"},"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--100);padding-bottom:var(--wp--preset--spacing--100)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"800"},"spacing":{"margin":{"bottom":"var:preset|spacing|20"}}},"textColor":"heading","className":"wp-block-heading"} -->
-    <h2 class="wp-block-heading has-text-align-center has-heading-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-weight:800"><?php esc_html_e('Creative Works', 'upshift'); ?></h2>
+    <h2 class="wp-block-heading has-text-align-center has-heading-color has-text-color" style="margin-bottom:var(--wp--preset--spacing--20);font-weight:800"><?php esc_html_e('Creative Works', 'nexara'); ?></h2>
     <!-- /wp:heading -->
 
     <!-- wp:paragraph {"align":"center","style":{"typography":{"fontStyle":"normal","fontWeight":"500"},"spacing":{"margin":{"bottom":"var:preset|spacing|55"}}},"fontSize":"small"} -->
-    <p class="has-text-align-center has-small-font-size" style="margin-bottom:var(--wp--preset--spacing--55);font-style:normal;font-weight:500"><?php esc_html_e('Step into my world of creative prowess, where ideas take shape and innovation flourishes. Explore an eclectic mix of projects spanning design, writing, and multimedia endeavors.', 'upshift'); ?></p>
+    <p class="has-text-align-center has-small-font-size" style="margin-bottom:var(--wp--preset--spacing--55);font-style:normal;font-weight:500"><?php esc_html_e('Step into my world of creative prowess, where ideas take shape and innovation flourishes. Explore an eclectic mix of projects spanning design, writing, and multimedia endeavors.', 'nexara'); ?></p>
     <!-- /wp:paragraph -->
 
     <!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
@@ -36,7 +36,7 @@ $images = [
             <!-- /wp:image -->
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
-            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Innovation', 'upshift'); ?></a></h3>
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Innovation', 'nexara'); ?></a></h3>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -48,7 +48,7 @@ $images = [
             <!-- /wp:image -->
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
-            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Versatility', 'upshift'); ?></a></h3>
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Versatility', 'nexara'); ?></a></h3>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -59,7 +59,7 @@ $images = [
             <!-- /wp:image -->
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
-            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Impact', 'upshift'); ?></a></h3>
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Impact', 'nexara'); ?></a></h3>
             <!-- /wp:heading -->
         </div>
         <!-- /wp:column -->
@@ -74,7 +74,7 @@ $images = [
             <!-- /wp:image -->
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
-            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Precision', 'upshift'); ?></a></h3>
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Precision', 'nexara'); ?></a></h3>
             <!-- /wp:heading -->
 
         </div>
@@ -88,7 +88,7 @@ $images = [
             <!-- /wp:image -->
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
-            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Distinction', 'upshift'); ?></a></h3>
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Distinction', 'nexara'); ?></a></h3>
             <!-- /wp:heading -->
 
         </div>
@@ -102,7 +102,7 @@ $images = [
             <!-- /wp:image -->
 
             <!-- wp:heading {"level":3,"style":{"spacing":{"margin":{"top":"var:preset|spacing|10"}}},"className":"wp-block-heading","fontSize":"xmedium"} -->
-            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Engagement', 'upshift'); ?></a></h3>
+            <h3 class="wp-block-heading has-xmedium-font-size" style="margin-top:var(--wp--preset--spacing--10)"><a href="#"><?php esc_html_e('Engagement', 'nexara'); ?></a></h3>
             <!-- /wp:heading -->
 
         </div>

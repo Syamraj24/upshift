@@ -2,7 +2,7 @@
 
 /**
  * Title: footer
- * Slug: upshift/footer
+ * Slug: nexara/footer
  * Categories: footer
  * Keywords: Footer
  */
@@ -16,13 +16,11 @@
             <!-- wp:group {"style":{"spacing":{"blockGap":"6px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
             <div class="wp-block-group">
                 <!-- wp:site-logo {"width":40} /-->
-                <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.1","letterSpacing":"0px"}},"textColor":"white","fontSize":"small"} -->
-                <p class="has-white-color has-text-color has-link-color has-small-font-size" style="font-style:normal;font-weight:700;letter-spacing:0px;line-height:1.1"><?php esc_html_e('Up', 'upshift'); ?><br><?php esc_html_e('Shift', 'upshift'); ?></p>
-                <!-- /wp:paragraph -->
+                <!-- wp:site-title {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.1"}},"textColor":"white","fontSize":"small"} /-->
             </div>
             <!-- /wp:group -->
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600"}},"textColor":"white","fontSize":"small"} -->
-            <p class="has-white-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e('Advanced creation platform for web professionals.', 'upshift'); ?></p>
+            <p class="has-white-color has-text-color has-small-font-size" style="font-style:normal;font-weight:600"><?php esc_html_e('Advanced creation platform for web professionals.', 'nexara'); ?></p>
             <!-- /wp:paragraph -->
         </div>
         <!-- /wp:column -->
@@ -31,16 +29,16 @@
         <div class="wp-block-column footer-menu"><!-- wp:columns {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|20"}}},"className":"mob-hidden"} -->
             <div class="wp-block-columns alignwide mob-hidden" style="padding-top:var(--wp--preset--spacing--20)"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Pages', 'upshift'); ?></h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Pages', 'nexara'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Features', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Company', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Blog', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Services', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Contact us', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Reviews', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Features', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Company', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Blog', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Services', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Contact us', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Reviews', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
                     <!-- /wp:navigation -->
                 </div>
@@ -48,16 +46,16 @@
 
                 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Support', 'upshift'); ?></h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Support', 'nexara'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Docs', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Hooks & Functions', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Contact us', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Support (Tech)', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Feedback', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Roadmap', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Docs', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Hooks & Functions', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Contact us', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Support (Tech)', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Feedback', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Roadmap', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
                     <!-- /wp:navigation -->
                 </div>
@@ -65,16 +63,16 @@
 
                 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Company', 'upshift'); ?></h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Company', 'nexara'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('About us', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Other Products', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Career', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('About us', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Other Products', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Career', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Blog ', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Privacy Policy ', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Blog ', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Privacy Policy ', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
 
                     <!-- /wp:navigation -->
                 </div>
@@ -82,13 +80,13 @@
 
                 <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|20"}}} -->
                 <div class="wp-block-column"><!-- wp:heading {"style":{"spacing":{"margin":{"bottom":"6px"}},"typography":{"fontSize":"20px"}},"textColor":"primary"} -->
-                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Products', 'upshift'); ?></h2>
+                    <h2 class="wp-block-heading has-primary-color has-text-color" style="margin-bottom:6px;font-size:20px"><?php esc_html_e('Products', 'nexara'); ?></h2>
                     <!-- /wp:heading -->
                     <!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical","justifyContent":"left","flexWrap":"wrap"},"style":{"spacing":{"blockGap":"0"},"typography":{"lineHeight":2.7,"fontStyle":"normal","fontWeight":"400"}}} -->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Products List', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Plans & Pricing', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Services', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
-                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Partners', 'upshift'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Products List', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Plans & Pricing', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Services', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
+                    <!-- wp:navigation-link {"label":"<?php esc_html_e('Partners', 'nexara'); ?>","url":"#","kind":"custom","isTopLevelLink":true} /-->
                     <!-- /wp:navigation -->
                 </div>
                 <!-- /wp:column -->

@@ -2,7 +2,7 @@
 
 /**
  * Title: Features two columns icons
- * Slug: upshift/features-two-columns-icons
+ * Slug: nexara/features-two-columns-icons
  * Categories: featured
  * Keywords: Features two columns icons
  */
@@ -19,22 +19,22 @@ $images = [
 
 <!-- wp:group {"align":"fill","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge"}},"layout":{"type":"constrained","wideSize":"780px"}} -->
 <div class="wp-block-group alignfull" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"top":"0","right":"0","bottom":"var:preset|spacing|55","left":"0"},"padding":{"bottom":"10px"}}}} -->
-    <h2 class="wp-block-heading has-text-align-center" style="margin-top:0;margin-right:0;margin-bottom:var(--wp--preset--spacing--55);margin-left:0;padding-bottom:10px"><?php esc_html_e('Unique features.', 'upshift'); ?><br><?php esc_html_e('World class support.', 'upshift'); ?> </h2>
+    <h2 class="wp-block-heading has-text-align-center" style="margin-top:0;margin-right:0;margin-bottom:var(--wp--preset--spacing--55);margin-left:0;padding-bottom:10px"><?php esc_html_e('Unique features.', 'nexara'); ?><br><?php esc_html_e('World class support.', 'nexara'); ?> </h2>
     <!-- /wp:heading -->
 
     <!-- wp:columns {"align":"wide","style":{"spacing":{"margin":{"bottom":"20px"}}}} -->
     <div class="wp-block-columns alignwide" style="margin-bottom:20px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
         <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"secondary","textColor":"bg-color","layout":{"type":"constrained","justifyContent":"center"}} -->
             <div class="wp-block-group has-bg-color-color has-secondary-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"bg-color","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-bg-color-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Everything is in the cloud', 'upshift'); ?></h5>
+                <h5 class="wp-block-heading has-bg-color-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Everything is in the cloud', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"},"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}}},"textColor":"bg-color","fontSize":"x-small"} -->
-                <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
+                <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
                 <div class="wp-block-group">
-                    <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
+                    <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Tertiary"} -->
+                    <figure class="wp-block-image size-full Nexara-Duotone-Tertiary"><img src="<?php echo esc_url($images[0]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
 
                 </div>
@@ -47,17 +47,17 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
         <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"primary","layout":{"type":"constrained","justifyContent":"center"}} -->
             <div class="wp-block-group has-primary-background-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Easy management', 'upshift'); ?></h5>
+                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Easy management', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
+                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
                 <div class="wp-block-group">
-                    <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt=""/></figure>
+                    <!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Primary"} -->
+                    <figure class="wp-block-image size-full Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -72,15 +72,15 @@ $images = [
     <div class="wp-block-columns alignwide" style="margin-bottom:20px"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
         <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"primary","textColor":"secondary","layout":{"type":"constrained","justifyContent":"center"}} -->
             <div class="wp-block-group has-secondary-color has-primary-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Quality assurance', 'upshift'); ?></h5>
+                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Quality assurance', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
+                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[2]); ?>" alt=""/></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Tertiary"} -->
+                    <figure class="wp-block-image size-full Nexara-Duotone-Tertiary"><img src="<?php echo esc_url($images[2]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -92,14 +92,14 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
         <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"secondary","textColor":"bg-color","layout":{"type":"constrained","justifyContent":"center"}} -->
             <div class="wp-block-group has-bg-color-color has-secondary-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"bg-color","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-bg-color-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('24/7 live support', 'upshift'); ?></h5>
+                <h5 class="wp-block-heading has-bg-color-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('24/7 live support', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"},"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}}},"textColor":"bg-color","fontSize":"x-small"} -->
-                <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
+                <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt=""/></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Primary"} -->
+                    <figure class="wp-block-image size-full Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -114,15 +114,15 @@ $images = [
     <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
         <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"secondary","textColor":"bg-color","layout":{"type":"constrained","justifyContent":"center"}} -->
             <div class="wp-block-group has-bg-color-color has-secondary-background-color has-text-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"bg-color","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-bg-color-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Customize your UIs', 'upshift'); ?></h5>
+                <h5 class="wp-block-heading has-bg-color-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Customize your UIs', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"},"elements":{"link":{"color":{"text":"var:preset|color|bg-color"}}}},"textColor":"bg-color","fontSize":"x-small"} -->
-                <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
+                <p class="has-bg-color-color has-text-color has-link-color has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Tertiary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Tertiary"><img src="<?php echo esc_url($images[4]); ?>" alt=""/></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Tertiary"} -->
+                    <figure class="wp-block-image size-full Nexara-Duotone-Tertiary"><img src="<?php echo esc_url($images[4]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->
@@ -134,16 +134,16 @@ $images = [
         <!-- wp:column {"style":{"spacing":{"blockGap":"var:preset|spacing|xx-small"}},"className":"min-height"} -->
         <div class="wp-block-column min-height"><!-- wp:group {"style":{"spacing":{"padding":{"top":"37px","right":"34px","bottom":"32px","left":"34px"},"blockGap":"12px"},"border":{"radius":"20px"}},"backgroundColor":"primary","layout":{"type":"constrained","justifyContent":"center"}} -->
             <div class="wp-block-group has-primary-background-color has-background" style="border-radius:20px;padding-top:37px;padding-right:34px;padding-bottom:32px;padding-left:34px"><!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Advanced security', 'upshift'); ?></h5>
+                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px;line-height:1.4"><?php esc_html_e('Advanced security', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'upshift'); ?></p>
+                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"right","verticalAlignment":"bottom"}} -->
-                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Upshift-Duotone-Primary"} -->
-                    <figure class="wp-block-image size-full Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[5]); ?>" alt=""/></figure>
+                <div class="wp-block-group"><!-- wp:image {"sizeSlug":"full","linkDestination":"none","className":"Nexara-Duotone-Primary"} -->
+                    <figure class="wp-block-image size-full Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[5]); ?>" alt=""/></figure>
                     <!-- /wp:image -->
                 </div>
                 <!-- /wp:group -->

@@ -2,7 +2,7 @@
 
 /**
  * Title: Template single
- * Slug: upshift/template-single
+ * Slug: nexara/template-single
  * Categories: template
  * Inserter: false
  */
@@ -17,15 +17,15 @@
 
             <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|40","left":"var:preset|spacing|40"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
             <div class="wp-block-group" style="padding-right:var(--wp--preset--spacing--40);padding-left:var(--wp--preset--spacing--40)">
-                <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"upshift-post-category","fontSize":"xxx-small"} /-->
+                <!-- wp:post-terms {"term":"category","style":{"spacing":{"padding":{"bottom":"4px","top":"4px","left":"var:preset|spacing|10","right":"var:preset|spacing|10"}},"typography":{"fontStyle":"normal","fontWeight":"700"}},"backgroundColor":"primary","textColor":"secondary","className":"Nexara-post-category","fontSize":"xxx-small"} /-->
 
                 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"textColor":"white"} -->
-                <p class="has-white-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"> <?php esc_html_e('|', 'upshift'); ?></p>
+                <p class="has-white-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"> <?php esc_html_e('|', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
-                <!-- wp:group {"className":"upshift-single-post-header","layout":{"type":"constrained"}} -->
-                <div class="wp-block-group upshift-single-post-header">
+                <!-- wp:group {"className":"Nexara-single-post-header","layout":{"type":"constrained"}} -->
+                <div class="wp-block-group Nexara-single-post-header">
                     <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
-                    <p class="has-white-color has-text-color has-link-color"><?php esc_html_e('Written by : ', 'upshift'); ?> </p>
+                    <p class="has-white-color has-text-color has-link-color"><?php esc_html_e('Written by : ', 'nexara'); ?> </p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:post-author-name /-->
@@ -33,15 +33,15 @@
                 <!-- /wp:group -->
 
                 <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}},"spacing":{"padding":{"right":"var:preset|spacing|20","left":"var:preset|spacing|20"}}},"textColor":"white"} -->
-                <p class="has-white-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><?php esc_html_e('|', 'upshift'); ?></p>
+                <p class="has-white-color has-text-color has-link-color" style="padding-right:var(--wp--preset--spacing--20);padding-left:var(--wp--preset--spacing--20)"><?php esc_html_e('|', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
 
-                <!-- wp:group {"className":"upshift-single-post-header","layout":{"type":"constrained"}} -->
-                <div class="wp-block-group upshift-single-post-header">
+                <!-- wp:group {"className":"Nexara-single-post-header","layout":{"type":"constrained"}} -->
+                <div class="wp-block-group Nexara-single-post-header">
                     <!-- wp:paragraph {"style":{"elements":{"link":{"color":{"text":"var:preset|color|white"}}}},"textColor":"white"} -->
                     <p class="has-white-color has-text-color has-link-color"><?php echo do_shortcode('[custom_metabox_shortcode]');
-                                                                                esc_html_e('.read - ', 'upshift'); ?> </p>
+                                                                                esc_html_e('.read - ', 'nexara'); ?> </p>
                     <!-- /wp:paragraph -->
                     <!-- wp:post-date /-->
 
@@ -69,6 +69,6 @@
 
 </div>
 <!-- /wp:group -->
-<!-- wp:pattern {"slug":"upshift/related-blog"} /-->
+<!-- wp:pattern {"slug":"nexara/related-blog"} /-->
 
-<!-- wp:pattern {"slug":"upshift/add"} /-->
+<!-- wp:pattern {"slug":"nexara/add"} /-->

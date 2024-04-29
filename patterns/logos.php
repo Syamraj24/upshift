@@ -2,7 +2,7 @@
 
 /**
  * Title: Logos
- * Slug: upshift/logos
+ * Slug: nexara/logos
  * Categories: gallery
  * Keywords:Logos
  */
@@ -28,15 +28,15 @@ $images = [
         <div class="wp-block-columns"><!-- wp:column -->
             <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
                 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
-                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Upshift-Duotone-Primary"} -->
-                        <figure class="wp-block-image aligncenter size-xlarge Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
+                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
+                        <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
                         <!-- /wp:image -->
                     </div>
                     <!-- /wp:column -->
 
                     <!-- wp:column -->
-                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Upshift-Duotone-Primary"} -->
-                        <figure class="wp-block-image aligncenter size-xlarge Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt="" /></figure>
+                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
+                        <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[1]); ?>" alt="" /></figure>
                         <!-- /wp:image -->
                     </div>
                     <!-- /wp:column -->
@@ -48,15 +48,15 @@ $images = [
             <!-- wp:column -->
             <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
                 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
-                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Upshift-Duotone-Primary"} -->
-                        <figure class="wp-block-image aligncenter size-xlarge Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[2]); ?>" alt="" /></figure>
+                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
+                        <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[2]); ?>" alt="" /></figure>
                         <!-- /wp:image -->
                     </div>
                     <!-- /wp:column -->
 
                     <!-- wp:column -->
-                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Upshift-Duotone-Primary"} -->
-                        <figure class="wp-block-image aligncenter size-xlarge Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt="" /></figure>
+                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
+                        <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[3]); ?>" alt="" /></figure>
                         <!-- /wp:image -->
                     </div>
                     <!-- /wp:column -->
@@ -68,15 +68,15 @@ $images = [
             <!-- wp:column -->
             <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
                 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
-                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Upshift-Duotone-Primary"} -->
-                        <figure class="wp-block-image aligncenter size-xlarge Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[4]); ?>" alt="" /></figure>
+                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
+                        <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[4]); ?>" alt="" /></figure>
                         <!-- /wp:image -->
                     </div>
                     <!-- /wp:column -->
 
                     <!-- wp:column -->
-                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Upshift-Duotone-Primary"} -->
-                        <figure class="wp-block-image aligncenter size-xlarge Upshift-Duotone-Primary"><img src="<?php echo esc_url($images[5]); ?>" alt="" /></figure>
+                    <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
+                        <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[5]); ?>" alt="" /></figure>
                         <!-- /wp:image -->
                     </div>
                     <!-- /wp:column -->
