@@ -47,6 +47,18 @@ License URI : https://github.com/Remix-Design/RemixIcon/blob/master/License
 
 Images
 
+Hero banner
+License :  CC0 1.0 Deed, CC0 1.0 Universal
+License URI : https://stocksnap.io/license
+https://stocksnap.io/photo/business-people-BTNAYJYPRX
+
+
+Hero banner with background
+License :  CC0 1.0 Deed, CC0 1.0 Universal
+License URI : https://stocksnap.io/license
+https://stocksnap.io/photo/business-people-AKSM11WW9N
+
+
 Add
 License: Copyright 2024 Katerina Limpitsouni
 License URL: https://undraw.co/license
@@ -87,21 +99,16 @@ License URI : https://stocksnap.io/license
 https://stocksnap.io/photo/business-people-HXDODYZKFS
 
 
-Logos
-License : Fair Use License
-License URI : https://logoipsum.com/license	
-https://logoipsum.com/artwork/317
-https://logoipsum.com/artwork/221
-https://logoipsum.com/artwork/311
-https://logoipsum.com/artwork/217
-https://logoipsum.com/artwork/287
-https://logoipsum.com/artwork/288
-
-
 Content left list
 License :  CC0 1.0 Deed, CC0 1.0 Universal
 License URI : https://stocksnap.io/license
 https://stocksnap.io/photo/analytics-charts-RCFX768X06
+
+
+Content right count
+License :  CC0 1.0 Deed, CC0 1.0 Universal
+License URI : https://stocksnap.io/license
+https://stocksnap.io/photo/mobile-smartphone-ASEQPBZMMX
 
 
 Portfolio
@@ -118,6 +125,17 @@ Call To Action
 License : CC0 1.0 Universal (CC0 1.0)
 License URI : https://stocksnap.io/license
 https://stocksnap.io/photo/people-browsing-MKIDJKUDEP
+
+
+Logos
+License : Fair Use License
+License URI : https://logoipsum.com/license	
+https://logoipsum.com/artwork/317
+https://logoipsum.com/artwork/221
+https://logoipsum.com/artwork/311
+https://logoipsum.com/artwork/217
+https://logoipsum.com/artwork/287
+https://logoipsum.com/artwork/288
 
 
 Featured Logos
