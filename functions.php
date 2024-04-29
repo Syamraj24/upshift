@@ -7,17 +7,17 @@ if (!defined('_S_VERSION')) {
 Enqueue Styles
 ------------------------------------------------------------*/
 
-if (!function_exists('upshift_styles')) :
+if (!function_exists('nexara_styles')) :
 
-	function upshift_styles()
+	function nexara_styles()
 	{
 		// Register Stylesheet
-		wp_enqueue_style('upshift-style', trailingslashit(get_template_directory_uri()) . 'assets/css/style.css', array(), _S_VERSION);
+		wp_enqueue_style('nexara-style', trailingslashit(get_template_directory_uri()) . 'assets/css/style.css', array(), _S_VERSION);
 	}
 
 endif;
 
-add_action('wp_enqueue_scripts', 'upshift_styles');
+add_action('wp_enqueue_scripts', 'nexara_styles');
 
 require get_template_directory() . '/includes/setup.php';
 
@@ -26,20 +26,20 @@ require get_template_directory() . '/includes/setup.php';
  * Register block styles.
  */
 
-if ( ! function_exists( 'upshift_register_block_styles' ) ) :
+if ( ! function_exists( 'nexara_register_block_styles' ) ) :
 	/**
 	 * Register custom block styles
 	 *
-	 * @since Upshift 1.0
+	 * @since Nexara 1.0
 	 * @return void
 	 */
-	function upshift_register_block_styles() {
+	function nexara_register_block_styles() {
 		if ( function_exists( 'register_block_style' ) ) :
 			register_block_style(
 				'core/list',
 				array(
 					'name'            => 'checkmark-list',
-					'label'           => __( 'Checkmark', 'upshift' ),
+					'label'           => __( 'Checkmark', 'nexara' ),
 					/*
 					* Styles for the custom checkmark list block style
 					*/
@@ -57,7 +57,7 @@ if ( ! function_exists( 'upshift_register_block_styles' ) ) :
 				'core/navigation-link',
 				array(
 					'name'            => 'arrow-link',
-					'label'           => __( 'With arrow', 'upshift' ),
+					'label'           => __( 'With arrow', 'nexara' ),
 					/*
 					* Styles for the custom arrow nav link block style
 					*/
@@ -75,4 +75,4 @@ if ( ! function_exists( 'upshift_register_block_styles' ) ) :
 	}
 endif;
 
-add_action( 'init', 'upshift_register_block_styles' );
+add_action( 'init', 'nexara_register_block_styles' );

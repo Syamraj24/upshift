@@ -1,4 +1,4 @@
-=== Upshift ===
+=== Nexara ===
 Contributors: awsmin
 Requires at least: 6.1
 Tested up to: 6.4
@@ -17,7 +17,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 == Installation ==
 
 1. In your site's admin panel, go to Appearance > Themes and click `Add New`.
-2. Type "Upshift" in the search field.
+2. Type "Nexara" in the search field.
 3. Click `Install` and then `Activate` to start using the theme.
 4. Navigate to Appearance > Editor.
 5. Edit the page content as you wish, you can add, remove or customize any of the blocks.
@@ -25,7 +25,7 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == License ==
-Upshift Theme, Copyright 2024 AWSM. Upshift is distributed under the terms of the GNU GPL.
+Nexara Theme, Copyright 2024 AWSM. Nexara is distributed under the terms of the GNU GPL.
 
 Composer
 License: MIT
@@ -149,7 +149,7 @@ https://logoipsum.com/artwork/286
 https://logoipsum.com/artwork/297
 
 
-© Copyright Upshift 2024, AWSM.
+© Copyright Nexara 2024, AWSM.
 
 == Changelog ==
 

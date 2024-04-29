@@ -8,7 +8,7 @@
  *
  * @link https://codex.wordpress.org/Template_Hierarchy
  *
- * @package Upshift
+ * @package Nexara
  * @since 0.0.1
  */
 

@@ -1,11 +1,11 @@
 {
-  "name": "upshift",
+  "name": "nexara",
   "lockfileVersion": 2,
   "requires": true,
   "main": "gulpfile.js",
   "scripts": {
-    "archive": "cross-env git archive --format=zip --prefix=upshift/ --output=./build/upshift.zip --worktree-attributes master",
-    "dev-archive": "cross-env git archive --format=zip --prefix=upshift/ --output=./build/upshift.zip --worktree-attributes dev-branch"
+    "archive": "cross-env git archive --format=zip --prefix=nexara/ --output=./build/nexara.zip --worktree-attributes master",
+    "dev-archive": "cross-env git archive --format=zip --prefix=nexara/ --output=./build/nexara.zip --worktree-attributes dev-branch"
   },
   "repository": {
     "type": "git",

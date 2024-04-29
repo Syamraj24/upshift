@@ -45,13 +45,13 @@ add_shortcode('custom_metabox_shortcode', 'custom_metabox');
 
 
 
-function upshift_register_block_pattern_category()
+function nexara_register_block_pattern_category()
 {
     register_block_pattern_category(
         'pricing',
         array(
-            'label' => esc_html__('Pricing', 'upshift'),
+            'label' => esc_html__('Pricing', 'nexara'),
         )
     );
 }
-add_action('init', 'upshift_register_block_pattern_category');
+add_action('init', 'nexara_register_block_pattern_category');

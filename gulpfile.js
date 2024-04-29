@@ -7,10 +7,10 @@ const NODE_ENV = process.env.NODE_ENV || 'development';
 let config = {
 	debug: NODE_ENV === 'development' ? true : false,
 	translation: {
-		domain: 'upshift',
-		package: 'upshift',
-		team: 'upshift',
-		dest: './languages/upshift.pot'
+		domain: 'nexara',
+		package: 'nexara',
+		team: 'nexara',
+		dest: './languages/nexara.pot'
 	}
 };
 
