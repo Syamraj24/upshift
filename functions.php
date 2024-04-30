@@ -1,7 +1,7 @@
 <?php
-if (!defined('_S_VERSION')) {
+if (!defined('NEXARA_VERSION')) {
 	// Replace the version number of the theme on each release.
-	define('_S_VERSION', '0.1.0');
+	define('NEXARA_VERSION', '0.1.0');
 }
 /*-----------------------------------------------------------
 Enqueue Styles
@@ -12,7 +12,7 @@ if (!function_exists('nexara_styles')) :
 	function nexara_styles()
 	{
 		// Register Stylesheet
-		wp_enqueue_style('nexara-style', trailingslashit(get_template_directory_uri()) . 'assets/css/style.css', array(), _S_VERSION);
+		wp_enqueue_style('nexara-style', trailingslashit(get_template_directory_uri()) . 'assets/css/style.css', array(), NEXARA_VERSION);
 	}
 
 endif;
