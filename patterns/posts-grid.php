@@ -8,8 +8,8 @@
  */
 ?>
 
-<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80"},"blockGap":"0"}},"backgroundColor":"bg-colorr","className":"has-bg-color-background-color","layout":{"type":"constrained"}} -->
-<div class="wp-block-group alignfull has-bg-color-background-color has-bg-colorr-background-color has-background" style="padding-bottom:var(--wp--preset--spacing--80)">
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"bottom":"var:preset|spacing|80","top":"var:preset|spacing|60"},"blockGap":"0"}},"backgroundColor":"bg-colorr","className":"has-bg-color-background-color","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-bg-color-background-color has-bg-colorr-background-color has-background" style="padding-top:var(--wp--preset--spacing--60);padding-bottom:var(--wp--preset--spacing--80)">
 
     <!-- wp:query {"queryId":1,"query":{"perPage":9,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":false},"align":"wide","layout":{"inherit":false}} -->
     <div class="wp-block-query alignwide">
