@@ -24,9 +24,9 @@ $images = [
         <p class="has-xmedium-font-size" style="padding-top:0;padding-right:6px;padding-bottom:0;padding-left:0;font-style:normal;font-weight:700">Trusted by these brands:</p>
         <!-- /wp:paragraph -->
 
-        <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|50","left":"var:preset|spacing|50"}}}} -->
+        <!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}}  -->
         <div class="wp-block-columns"><!-- wp:column -->
-            <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
+            <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
                 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
                     <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
                         <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[0]); ?>" alt="" /></figure>
@@ -46,7 +46,7 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column -->
-            <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
+            <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
                 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
                     <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
                         <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[2]); ?>" alt="" /></figure>
@@ -66,7 +66,7 @@ $images = [
             <!-- /wp:column -->
 
             <!-- wp:column -->
-            <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false} -->
+            <div class="wp-block-column"><!-- wp:columns {"isStackedOnMobile":false,"style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|40"}}}} -->
                 <div class="wp-block-columns is-not-stacked-on-mobile"><!-- wp:column -->
                     <div class="wp-block-column"><!-- wp:image {"sizeSlug":"xlarge","linkDestination":"custom","align":"center","className":"Nexara-Duotone-Primary"} -->
                         <figure class="wp-block-image aligncenter size-xlarge Nexara-Duotone-Primary"><img src="<?php echo esc_url($images[4]); ?>" alt="" /></figure>
