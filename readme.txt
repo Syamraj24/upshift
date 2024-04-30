@@ -10,8 +10,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 
 == Description ==
-
-
+Dive into the world of effortless design with Nexara, 
+where minimalism meets boundless potential. 
+Featuring 30+ meticulously crafted patterns, 
+Nexara offers a seamless experience for building any type of website with ease. 
+Whether you're a creative professional, entrepreneur, or blogger, 
+Nexara provides the perfect canvas to bring your ideas to life.
 
 
 == Installation ==
