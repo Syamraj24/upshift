@@ -214,3 +214,7 @@ footer a:hover span {
 footer .wp-block-site-logo img {
     filter: brightness(0) invert(1);
 }
+
+.Nexara-Accordion summary::-webkit-details-marker {
+    display: none;
+}
