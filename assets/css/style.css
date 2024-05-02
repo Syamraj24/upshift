@@ -52,7 +52,7 @@ img {
 }
 
 .Nexara-post-category {
-    width: fit-content;
+    display: inline;
     border-radius: 8px;
 }
 
