@@ -90,7 +90,7 @@ $images = [
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('By putting our customers first, we build long-term relationships, drive customer loyalty, and create mutual value for our clients and our company.', 'nexara'); ?></p>
+                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('By always putting our customers first, we focus on building long-term relationships, driving customer loyalty and satisfaction, and creating mutual value for all our clients and our company.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->

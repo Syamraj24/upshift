@@ -86,7 +86,7 @@ $images = [
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('With experience across multiple industries, we bring a diverse skill set that enhances our ability to solve complex problems and offer innovative solutions', 'nexara'); ?></p>
+                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('With years of experience across multiple industries, we bring a diverse skill set that enhances our ability to solve complex and critical problems and offer innovative solutions that modernize the web.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
