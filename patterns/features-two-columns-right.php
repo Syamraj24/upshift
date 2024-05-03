@@ -65,7 +65,7 @@ $images = [
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Our services are designed to be cost-effective, providing high-quality solutions without breaking the bank. We offer competitive pricing that aligns with your budget.', 'nexara'); ?></p>
+                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Our services are designed to be profitable, providing high-quality solutions without breaking the bank. We offer competitive pricing that aligns with your budget.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -104,7 +104,7 @@ $images = [
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('We provide personalized, round-the-clock support, ensuring your systems are always running smoothly and any issues are addressed promptly, fostering long-term partnerships based on trust and reliability.', 'nexara'); ?></p>
+                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('We provide personalized, round-the-clock support, ensuring your systems are always running smoothly and any issues are addressed promptly, fostering long-term partnerships.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
