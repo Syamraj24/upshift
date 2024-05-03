@@ -12,7 +12,7 @@
 <!-- wp:group {"align":"wide","style":{"spacing":{"blockGap":"var:preset|spacing|30","padding":{"bottom":"var:preset|spacing|55"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 <div class="wp-block-group alignwide" style="padding-bottom:var(--wp--preset--spacing--55)">
     <!-- wp:heading -->
-        <h2 class="wp-block-heading"><?php esc_html_e('Browse our', 'nexara'); ?><br><?php esc_html_e('articles &amp; resources', 'nexara'); ?></h2>
+        <h2 class="wp-block-heading"><?php esc_html_e('Explore our', 'nexara'); ?><br><?php esc_html_e('Knowledge Base.', 'nexara'); ?></h2>
         <!-- /wp:heading -->
 
         <!-- wp:buttons -->

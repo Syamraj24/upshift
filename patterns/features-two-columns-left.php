@@ -25,11 +25,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Advanced', 'nexara'); ?><br><?php esc_html_e('search', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Custom', 'nexara'); ?><br><?php esc_html_e('API Development', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'nexara'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Custom API development enables seamless integration between different software systems, allowing them to communicate and share data effectively.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -43,11 +43,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Advanced', 'nexara'); ?><br><?php esc_html_e('security', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Software', 'nexara'); ?><br><?php esc_html_e('Testing', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue..', 'nexara'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('We identify and address potential issues through comprehensive testing strategies before they impact your users, guaranteeing a high-quality product.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -64,11 +64,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Fully.', 'nexara'); ?><br><?php esc_html_e('customizable.', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Mobile', 'nexara'); ?><br><?php esc_html_e('Application', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'nexara'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('By developing intuitive and responsive mobile apps, we can help you reach a wider audience and strengthen customer relationships through interactive features and seamless functionality.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -82,11 +82,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"left","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|30","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading"} -->
-                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Global', 'nexara'); ?><br><?php esc_html_e('community.', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-left has-heading-color has-text-color" style="margin-top:var(--wp--preset--spacing--30);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Web', 'nexara'); ?><br><?php esc_html_e('Optimization', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.', 'nexara'); ?></p>
+                        <p class="has-text-align-left has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e("By optimizing elements like page load times, and server configurations, we can boost your website's efficiency and search engine rankings, leading to increased traffic and user engagement.", 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -101,11 +101,11 @@ $images = [
         <div class="wp-block-column is-vertically-aligned-center">
             <!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained","justifyContent":"right","wideSize":"480px"}} -->
             <div class="wp-block-group"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"12px"}}},"textColor":"secondary","className":"wp-block-heading"} -->
-                <h2 class="wp-block-heading has-secondary-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px"><?php esc_html_e('Advanced technology made plain and simple', 'nexara'); ?></h2>
+                <h2 class="wp-block-heading has-secondary-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:12px"><?php esc_html_e('Custom software development', 'nexara'); ?></h2>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"padding":{"bottom":"10px"}}},"textColor":"secondary","fontSize":"small"} -->
-                <p class="has-secondary-color has-text-color has-small-font-size" style="padding-bottom:10px;font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet consectetur aliquam. Nunc neque.', 'nexara'); ?></p>
+                <p class="has-secondary-color has-text-color has-small-font-size" style="padding-bottom:10px;font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('We create tailored solutions that address your unique business needs and challenges and ensure that every feature aligns with your goals, offering greater flexibility and scalability than off-the-shelf products.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
 
                 <!-- wp:buttons -->

@@ -27,15 +27,15 @@ $images = [
             <!-- wp:column {"verticalAlignment":"center"} -->
             <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
                 <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"lineHeight":1.3,"letterSpacing":"0.01em"}}} -->
-                    <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('We create products that users love', 'nexara'); ?></h2>
+                    <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Building apps and websites that stand out.', 'nexara'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"700","lineHeight":"1.6"}},"fontSize":"xmedium"} -->
-                    <p class="has-xmedium-font-size" style="font-style:normal;font-weight:700;line-height:1.6"><?php esc_html_e('Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet', 'nexara'); ?></p>
+                    <p class="has-xmedium-font-size" style="font-style:normal;font-weight:700;line-height:1.6"><?php esc_html_e('We are always on the lookout for ways to make each of our projects stand out and deliver the best to our clients.', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                    <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Eros, mi tincidunt lorem donec aenean. Facilisis velit eget morbi urna, in sed viverra sagittis dolor. Ultrices sem mattis eget faucibus tortor.', 'nexara'); ?></p>
+                    <p class="has-small-font-size" style="font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('From incorporating modern trends to the constant lookout for recent developments,  we always live up to the hype with our projects.', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
                 </div>
                 <!-- /wp:group -->
