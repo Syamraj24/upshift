@@ -25,25 +25,25 @@ $images = [
             <!-- wp:column {"verticalAlignment":"center"} -->
             <div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
                 <div class="wp-block-group"><!-- wp:heading {"style":{"typography":{"lineHeight":1.3,"letterSpacing":"0.01em"}}} -->
-                    <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('Increase your sales and return on investment', 'nexara'); ?></h2>
+                    <h2 class="wp-block-heading" style="letter-spacing:0.01em;line-height:1.3"><?php esc_html_e('We keep our word and deliver on our commitments.', 'nexara'); ?></h2>
                     <!-- /wp:heading -->
 
                     <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":"1.6"}},"fontSize":"xmedium"} -->
-                    <p class="has-xmedium-font-size" style="font-style:normal;font-weight:600;line-height:1.6"><?php esc_html_e('Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet', 'nexara'); ?></p>
+                    <p class="has-xmedium-font-size" style="font-style:normal;font-weight:600;line-height:1.6"><?php esc_html_e('Our commitment to meeting deadlines and exceeding expectations builds trust and ensures long-lasting relationships with our clients.', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"20px"}},"layout":{"type":"constrained"}} -->
                     <div class="wp-block-group"><!-- wp:columns {"verticalAlignment":"center"} -->
                         <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"17.29%"} -->
                             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:17.29%"><!-- wp:heading {"level":3} -->
-                                <h3 class="wp-block-heading"><?php esc_html_e('180+', 'nexara'); ?></h3>
+                                <h3 class="wp-block-heading"><?php esc_html_e('14+', 'nexara'); ?></h3>
                                 <!-- /wp:heading -->
                             </div>
                             <!-- /wp:column -->
 
                             <!-- wp:column {"verticalAlignment":"center","width":"73.12%","style":{"border":{"left":{"color":"var:preset|color|Border","width":"1px"}},"spacing":{"padding":{"left":"20px"}}}} -->
                             <div class="wp-block-column is-vertically-aligned-center" style="border-left-color:var(--wp--preset--color--border);border-left-width:1px;padding-left:20px;flex-basis:73.12%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.7"}},"fontSize":"small"} -->
-                                <p class="has-small-font-size" style="line-height:1.7"><?php esc_html_e('Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet', 'nexara'); ?></p>
+                                <p class="has-small-font-size" style="line-height:1.7"><?php esc_html_e('We have over 14 years of experience in web development', 'nexara'); ?></p>
                                 <!-- /wp:paragraph -->
                             </div>
                             <!-- /wp:column -->
@@ -53,14 +53,14 @@ $images = [
                         <!-- wp:columns {"verticalAlignment":"center"} -->
                         <div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","width":"17.29%"} -->
                             <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:17.29%"><!-- wp:heading {"level":3} -->
-                                <h3 class="wp-block-heading"><?php esc_html_e('350+', 'nexara'); ?></h3>
+                                <h3 class="wp-block-heading"><?php esc_html_e('1500 +', 'nexara'); ?></h3>
                                 <!-- /wp:heading -->
                             </div>
                             <!-- /wp:column -->
 
                             <!-- wp:column {"verticalAlignment":"center","width":"73.12%","style":{"border":{"left":{"color":"var:preset|color|Border","width":"1px"}},"spacing":{"padding":{"left":"20px"}}}} -->
                             <div class="wp-block-column is-vertically-aligned-center" style="border-left-color:var(--wp--preset--color--border);border-left-width:1px;padding-left:20px;flex-basis:73.12%"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.7"}},"fontSize":"small"} -->
-                                <p class="has-small-font-size" style="line-height:1.7"><?php esc_html_e('Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet', 'nexara'); ?></p>
+                                <p class="has-small-font-size" style="line-height:1.7"><?php esc_html_e('We have served over 1500 satisfied customers.', 'nexara'); ?></p>
                                 <!-- /wp:paragraph -->
                             </div>
                             <!-- /wp:column -->

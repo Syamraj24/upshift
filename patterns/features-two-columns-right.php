@@ -4,7 +4,7 @@
  * Title: Features two columns right
  * Slug: nexara/features-two-columns-right
  * Categories: featured
- * Keywords: Features Three Columns right
+ * Keywords: Features Two Columns right
  */
 $get_url = trailingslashit(get_template_directory_uri());
 $images = [
@@ -18,11 +18,11 @@ $images = [
 <div class="wp-block-group alignfull has-background-background-color has-background" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"var:preset|spacing|40","left":"var:preset|spacing|20"}}}} -->
     <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"center","width":"33.33%","style":{"spacing":{"blockGap":"0"}}} -->
         <div class="wp-block-column is-vertically-aligned-center" style="flex-basis:33.33%"><!-- wp:heading {"style":{"spacing":{"margin":{"top":"var:preset|spacing|small","bottom":"var:preset|spacing|30"}}},"textColor":"secondary"} -->
-            <h2 class="wp-block-heading has-secondary-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--30)"><?php esc_html_e('Build your SaaS website with Up Shift', 'nexara'); ?></h2>
+            <h2 class="wp-block-heading has-secondary-color has-text-color" style="margin-top:var(--wp--preset--spacing--small);margin-bottom:var(--wp--preset--spacing--30)"><?php esc_html_e('Why do companies partner with us?', 'nexara'); ?></h2>
             <!-- /wp:heading -->
 
             <!-- wp:paragraph {"style":{"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8},"spacing":{"padding":{"bottom":"var:preset|spacing|40"}}},"textColor":"secondary","fontSize":"small"} -->
-            <p class="has-secondary-color has-text-color has-small-font-size" style="padding-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Create, build and ship your products real faster. With your own customized portal. showcase your Business like never before', 'nexara'); ?></p>
+            <p class="has-secondary-color has-text-color has-small-font-size" style="padding-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Our commitment to delivering reliable solutions on time and within budget sets us apart, creating long-lasting partnerships built on trust and success.', 'nexara'); ?></p>
             <!-- /wp:paragraph -->
 
             <!-- wp:buttons -->
@@ -43,11 +43,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Fully responsive', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Full transparency', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
+                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e("We believe in full transparency, providing clear communication and regular updates throughout every stage of the project. Our clients always know what's happening.", 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -61,11 +61,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('E-commerce', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Affordable cost', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
+                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Our services are designed to be cost-effective, providing high-quality solutions without breaking the bank. We offer competitive pricing that aligns with your budget.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -82,11 +82,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Multi layout template', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Technical expertise', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
+                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('With experience across multiple industries, we bring a diverse skill set that enhances our ability to solve complex problems and offer innovative solutions', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->
@@ -100,11 +100,11 @@ $images = [
                         <!-- /wp:image -->
 
                         <!-- wp:heading {"textAlign":"center","level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|20"}},"typography":{"lineHeight":1.4}},"textColor":"heading","fontSize":"medium"} -->
-                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Amazing support staff', 'nexara'); ?></h5>
+                        <h5 class="wp-block-heading has-text-align-center has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--20);line-height:1.4"><?php esc_html_e('Dedicated Support', 'nexara'); ?></h5>
                         <!-- /wp:heading -->
 
                         <!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt.', 'nexara'); ?></p>
+                        <p class="has-text-align-center has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('We provide personalized, round-the-clock support, ensuring your systems are always running smoothly and any issues are addressed promptly, fostering long-term partnerships based on trust and reliability.', 'nexara'); ?></p>
                         <!-- /wp:paragraph -->
                     </div>
                     <!-- /wp:group -->

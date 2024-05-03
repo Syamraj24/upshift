@@ -15,12 +15,12 @@ $images = [$get_url . "assets/images/hero-banner.jpg"];
 <div class="wp-block-group alignfull has-primary-background-color has-background" style="margin-top:0;margin-bottom:0"><!-- wp:columns {"verticalAlignment":"center","align":"wide","style":{"spacing":{"padding":{"left":"0","right":"0","top":"var:preset|spacing|70","bottom":"var:preset|spacing|70"},"blockGap":{"top":"var:preset|spacing|40"}}}} -->
     <div class="wp-block-columns alignwide are-vertically-aligned-center" style="padding-top:var(--wp--preset--spacing--70);padding-right:0;padding-bottom:var(--wp--preset--spacing--70);padding-left:0"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":[]}} -->
         <div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"level":1,"textColor":"heading","className":"wp-block-heading"} -->
-            <h1 class="wp-block-heading has-heading-color has-text-color"><?php esc_html_e('Focus on your business growth with Round', 'nexara'); ?></h1>
+            <h1 class="wp-block-heading has-heading-color has-text-color"><?php esc_html_e('Crafting Code, Creating Solutions.', 'nexara'); ?></h1>
             <!-- /wp:heading -->
 
             <!-- wp:group {"layout":{"type":"constrained","wideSize":"490px","justifyContent":"left","contentSize":"490px"}} -->
             <div class="wp-block-group"><!-- wp:paragraph {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}},"typography":{"fontStyle":"normal","fontWeight":"600","lineHeight":1.8}},"fontSize":"small"} -->
-                <p class="has-small-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('reate, build and ship your products real faster. With your own customized portal. showcase your Business like never before', 'nexara'); ?></p>
+                <p class="has-small-font-size" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);font-style:normal;font-weight:600;line-height:1.8"><?php esc_html_e('Find everything you need to grow and scale your business in one place. Our mission is to transform ideas into innovative technology that makes a difference.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
