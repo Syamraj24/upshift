@@ -28,7 +28,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"spacing":{"padding":{"left":"0","bottom":"var:preset|spacing|10"}},"typography":{"lineHeight":"1.9"}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('“Viverra sem cursus ut consectetur at. Habitant lectus duis neque dui viverra dui. Magna pellentesque posuere nisl diam faucibus diam. Sapien at eleifend elit gravida amet tempus tortor. Lacinia egestas.”', 'nexara'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('“This team of designers and developers is my go-to for all my web development projects. We’ve been working together for the past couple of years and have successfully collaborated and completed multiple projects.”', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -60,7 +60,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique a tortor at elementum. Praesent volutpat, dolor et euismod congue, tellus ex cursus ipsum, eget posuere lacus ipsum a felis.volutpat, dolor et', 'nexara'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Developing our cross-platform application and the multiple integrations was made possible thanks to this amazing team and their dedication. Right from the user experience to the functionality, the approach taken is truly commendable', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -95,7 +95,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'nexara'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('The website migration and database optimizations that followed truly enhanced the experience for our users. They successfully migrated all the data to different servers and configured them properly to handle the peak hours.', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
@@ -127,7 +127,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9},"spacing":{"padding":{"left":"0","bottom":"10px"}}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus', 'nexara'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:10px;padding-left:0;line-height:1.9"><?php esc_html_e('Their excellent content strategy ticked all the right boxes and allowed us to connect strongly with a wider audience effectively. The content strategy is a blend of storytelling with the best SEO practices that yield the best results.', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
