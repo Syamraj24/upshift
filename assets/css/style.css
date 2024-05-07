@@ -218,3 +218,8 @@ footer .wp-block-site-logo img {
 .Nexara-Accordion summary::-webkit-details-marker {
     display: none;
 }
+
+.mob-menu .wp-block-navigation-submenu a,
+.nav-menu .wp-block-navigation-submenu a {
+    font-size: var(--wp--preset--font-size--xx-small);
+}
