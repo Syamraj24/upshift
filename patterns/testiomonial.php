@@ -16,7 +16,7 @@ $images = [
 ?>
 <!-- wp:group {"align":"fill","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|55"}}}} -->
-    <h2 class="wp-block-heading has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Find out what clients are saying about us.', 'nexara'); ?><br><?php esc_html_e('clients say.', 'nexara'); ?></h2>
+    <h2 class="wp-block-heading has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Find out what clients are saying about us.', 'nexara'); ?></h2>
     <!-- /wp:heading -->
 
     <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|55","bottom":"var:preset|spacing|80","right":"var:preset|spacing|10","left":"var:preset|spacing|10"},"blockGap":"20px"},"border":{"radius":"20px"}},"backgroundColor":"primary","layout":{"type":"constrained","wideSize":"780px","contentSize":""}} -->
@@ -28,7 +28,7 @@ $images = [
                     <!-- /wp:paragraph -->
 
                     <!-- wp:paragraph {"style":{"spacing":{"padding":{"left":"0","bottom":"var:preset|spacing|10"}},"typography":{"lineHeight":"1.9"}},"textColor":"secondary","fontSize":"x-small"} -->
-                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('“This team of designers and developers is my go-to for all my web development projects. We’ve been working together for the past couple of years and have successfully collaborated and completed multiple projects.”', 'nexara'); ?></p>
+                    <p class="has-secondary-color has-text-color has-x-small-font-size" style="padding-bottom:var(--wp--preset--spacing--10);padding-left:0;line-height:1.9"><?php esc_html_e('This team of designers and developers is my go-to for all my web development projects. We’ve been working together for the past couple of years and have successfully collaborated and completed multiple projects.', 'nexara'); ?></p>
                     <!-- /wp:paragraph -->
 
                     <!-- wp:group {"style":{"spacing":{"blockGap":"17px"}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
