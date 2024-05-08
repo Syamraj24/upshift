@@ -29,7 +29,7 @@ $images = [
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|30"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--30);line-height:1.4"><?php esc_html_e('Commitment to innovation', 'nexara'); ?></h5>
+                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--30);line-height:1.4"><?php esc_html_e('committed to innovation', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
@@ -51,7 +51,7 @@ $images = [
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('From code to customer service, we hold ourselves to the highest standards in all aspects to ensure excellence in every aspect of our work.', 'nexara'); ?></p>
+                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('From code to customer service, we hold ourselves to the highest standards in all aspects to ensure excellence in every project we deliver.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
@@ -104,7 +104,7 @@ $images = [
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|30"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--30);line-height:1.4"><?php esc_html_e('Teamwork and collaboration', 'nexara'); ?></h5>
+                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--30);line-height:1.4"><?php esc_html_e('Collaborative efforts', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
@@ -122,7 +122,7 @@ $images = [
                 <!-- /wp:image -->
 
                 <!-- wp:heading {"level":5,"style":{"spacing":{"margin":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|30"}},"typography":{"lineHeight":1.4}},"textColor":"heading","className":"wp-block-heading","fontSize":"medium"} -->
-                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--30);line-height:1.4"><?php esc_html_e('Integrity and ethical conduct', 'nexara'); ?></h5>
+                <h5 class="wp-block-heading has-heading-color has-text-color has-medium-font-size" style="margin-top:var(--wp--preset--spacing--20);margin-bottom:var(--wp--preset--spacing--30);line-height:1.4"><?php esc_html_e(' Committed to integrity', 'nexara'); ?></h5>
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
