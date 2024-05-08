@@ -31,8 +31,8 @@
         <!-- /wp:group -->
         <!-- /wp:post-template -->
         <!-- wp:query-no-results {"fontSize":"x-small"} -->
-        <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when the query returns no results.","className":"aligncenter aligncenter"} -->
-        <p class="has-text-align-center aligncenter aligncenter"><?php esc_html_e('There are no posts available.', 'nexara'); ?></p>
+        <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when the query returns no results.","style":{"typography":{"fontStyle":"normal","fontWeight":"800"}},"className":"aligncenter aligncenter","fontSize":"large"} -->
+        <p class="has-text-align-center aligncenter has-large-font-size" style="font-style:normal;font-weight:800"><?php esc_html_e('There are no posts available.', 'nexara'); ?></p>
         <!-- /wp:paragraph -->
         <!-- /wp:query-no-results -->
         <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
