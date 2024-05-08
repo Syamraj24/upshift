@@ -16,7 +16,7 @@ $images = [
 ?>
 <!-- wp:group {"align":"fill","style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"},"blockGap":"var:preset|spacing|xlarge","margin":{"top":"0","bottom":"0"}}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull" style="margin-top:0;margin-bottom:0;padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"spacing":{"margin":{"bottom":"var:preset|spacing|55"}}}} -->
-    <h2 class="wp-block-heading has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Find out what clients are saying about us.', 'nexara'); ?></h2>
+    <h2 class="wp-block-heading has-text-align-center" style="margin-bottom:var(--wp--preset--spacing--55)"><?php esc_html_e('Find out what clients are', 'nexara'); ?><br><?php esc_html_e('saying about us.', 'nexara'); ?></h2>
     <!-- /wp:heading -->
 
     <!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"var:preset|spacing|55","bottom":"var:preset|spacing|80","right":"var:preset|spacing|10","left":"var:preset|spacing|10"},"blockGap":"20px"},"border":{"radius":"20px"}},"backgroundColor":"primary","layout":{"type":"constrained","wideSize":"780px","contentSize":""}} -->
