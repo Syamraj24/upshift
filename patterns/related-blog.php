@@ -35,7 +35,7 @@
 
             <!-- wp:query-no-results {"fontSize":"x-small"} -->
             <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when the query returns no results.","className":"aligncenter aligncenter"} -->
-            <p class="has-text-align-center aligncenter aligncenter"></p>
+            <p class="has-text-align-center aligncenter aligncenter"><?php esc_html_e('There are no posts available.', 'nexara'); ?></p>
             <!-- /wp:paragraph -->
             <!-- /wp:query-no-results -->
         </div>

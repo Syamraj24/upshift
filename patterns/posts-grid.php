@@ -30,6 +30,11 @@
         </div>
         <!-- /wp:group -->
         <!-- /wp:post-template -->
+        <!-- wp:query-no-results {"fontSize":"x-small"} -->
+        <!-- wp:paragraph {"align":"center","placeholder":"Add text or blocks that will display when the query returns no results.","className":"aligncenter aligncenter"} -->
+        <p class="has-text-align-center aligncenter aligncenter"><?php esc_html_e('There are no posts available.', 'nexara'); ?></p>
+        <!-- /wp:paragraph -->
+        <!-- /wp:query-no-results -->
         <!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|50","bottom":"var:preset|spacing|50"}}},"layout":{"type":"constrained"}} -->
         <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--50);padding-bottom:var(--wp--preset--spacing--50)">
             <!-- wp:query-pagination {"className":"Nexara-pagination","layout":{"type":"flex","justifyContent":"center","orientation":"horizontal"}} -->
