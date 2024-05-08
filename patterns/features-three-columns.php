@@ -51,7 +51,7 @@ $images = [
                 <!-- /wp:heading -->
 
                 <!-- wp:paragraph {"style":{"typography":{"lineHeight":1.9,"fontStyle":"normal","fontWeight":"500","letterSpacing":"0.02em"}},"fontSize":"x-small"} -->
-                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('From code to customer service, we hold ourselves to the highest standards to ensure excellence in every aspect of our work.', 'nexara'); ?></p>
+                <p class="has-x-small-font-size" style="font-style:normal;font-weight:500;letter-spacing:0.02em;line-height:1.9"><?php esc_html_e('From code to customer service, we hold ourselves to the highest standards in all aspects to ensure excellence in every aspect of our work.', 'nexara'); ?></p>
                 <!-- /wp:paragraph -->
             </div>
             <!-- /wp:group -->
