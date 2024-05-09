@@ -7,7 +7,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language-Team: nexara\n"
-"POT-Creation-Date: 2024-04-29 16:07+0000\n"
+"POT-Creation-Date: 2024-05-09 07:10+0000\n"
 "X-Poedit-Basepath: ..\n"
 "X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
 "X-Poedit-SearchPath-0: .\n"
@@ -23,7 +23,7 @@ msgstr ""
 msgid "With arrow"
 msgstr ""
 
-#: includes/setup.php:53
+#: includes/setup.php:11
 msgid "Pricing"
 msgstr ""
 
@@ -32,39 +32,47 @@ msgid "Frequently asked questions"
 msgstr ""
 
 #: patterns/accordian.php:19
-msgid "How does Up Shift work?"
+msgid "What types of software development services do you offer?"
 msgstr ""
 
-#: patterns/accordian.php:20, patterns/accordian.php:31, patterns/accordian.php:42, patterns/accordian.php:53
-msgid "Lorem Ipsum&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum."
+#: patterns/accordian.php:20
+msgid "We offer a wide range of software development services, including web and mobile application development, custom software solutions, system integration, and software maintenance. Our expertise spans various technologies, frameworks, and industries, ensuring we can meet your unique requirements."
 msgstr ""
 
 #: patterns/accordian.php:30
-msgid "Is my data secure?"
+msgid "How do you ensure the quality of your software?"
 msgstr ""
 
 #: patterns/accordian.php:31, patterns/footer.php:36, patterns/header.php:23, patterns/header.php:46
 msgid "Features"
 msgstr ""
 
+#: patterns/accordian.php:31
+msgid "We have a rigorous quality assurance process that includes automated and manual testing, code reviews, and continuous integration. Our development team follows best practices to ensure that our software is reliable, secure, and performs at its best."
+msgstr ""
+
 #: patterns/accordian.php:41
-msgid "Does Up Shift work well for large teams?"
+msgid "What is your typical project timeline?"
+msgstr ""
+
+#: patterns/accordian.php:42
+msgid "The timeline for a project depends on its scope and complexity. We work closely with our clients to define clear milestones and keep them updated throughout the development process. While smaller projects may be completed in a few weeks, larger projects can take several months or longer. We always aim to deliver on time and within budget."
 msgstr ""
 
 #: patterns/accordian.php:52
-msgid "How do I create a new account?"
+msgid "How do you handle project communication and updates?"
+msgstr ""
+
+#: patterns/accordian.php:53
+msgid "Communication is key to a successful project. We use collaborative tools to maintain open lines of communication with our clients, providing regular updates and progress reports. Our project managers are readily available to address any questions or concerns, ensuring you always know what's happening."
 msgstr ""
 
 #: patterns/add.php:22
-msgid "Join the innovative community"
+msgid "We love hearing from you."
 msgstr ""
 
 #: patterns/add.php:26
-msgid "Still a bit curious?"
-msgstr ""
-
-#: patterns/add.php:26
-msgid "Get start today"
+msgid "Let's collaborate."
 msgstr ""
 
 #: patterns/add.php:32, patterns/features-three-columns-button.php:140, patterns/features-two-columns-left.php:113, patterns/features-two-columns-right.php:30, patterns/features-two-columns.php:33, patterns/header.php:38, patterns/header.php:58, patterns/pricing-three-col.php:79, patterns/pricing-three-col.php:144, patterns/pricing-three-col.php:209
@@ -72,15 +80,19 @@ msgid "Get Started"
 msgstr ""
 
 #: patterns/blog.php:15
-msgid "Browse our"
+msgid "Explore our"
 msgstr ""
 
 #: patterns/blog.php:15
-msgid "articles &amp; resources"
+msgid "Knowledge Base."
 msgstr ""
 
 #: patterns/blog.php:20
 msgid "Read More"
+msgstr ""
+
+#: patterns/blog.php:46, patterns/posts-grid.php:35, patterns/related-blog.php:38
+msgid "There are no posts available."
 msgstr ""
 
 #: patterns/call-to-action-2.php:25
@@ -91,36 +103,36 @@ msgstr ""
 msgid "Contact"
 msgstr ""
 
-#: patterns/call-to-action.php:15, patterns/hero-banner.php:18
+#: patterns/call-to-action.php:15
 msgid "Focus on your business growth with Round"
 msgstr ""
 
-#: patterns/call-to-action.php:19, patterns/features-two-columns-right.php:25, patterns/hero.php:19
+#: patterns/call-to-action.php:19
 msgid "Create, build and ship your products real faster. With your own customized portal. showcase your Business like never before"
 msgstr ""
 
-#: patterns/call-to-action.php:25, patterns/hero-banner.php:30
+#: patterns/call-to-action.php:25, patterns/hero-banner.php:31
 msgid "Start a Demo"
 msgstr ""
 
 #: patterns/content-counts.php:14
-msgid "Our numbers talks more than just words"
+msgid "Our achievements are reflections of how dedicated we are to what we do."
 msgstr ""
 
-#: patterns/content-counts.php:18, patterns/content-right-count.php:32, patterns/content-right-count.php:46, patterns/content-right-count.php:63, patterns/content-right.php:34
-msgid "Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet"
+#: patterns/content-counts.php:18
+msgid "We deliver what we promise each time, and the targets and growth we have achieved over the years are testimonials to our dedication."
 msgstr ""
 
 #: patterns/content-counts.php:22
-msgid "Curabitur euismod pellentesque dapibus maecenas a pretium odio morbi porta congue tempus dignissim est tempor eros pulvinar."
+msgid "With every project we deliver, we are growing closer to our next phase in the journey."
 msgstr ""
 
 #: patterns/content-counts.php:31
-msgid "Revenue"
+msgid "Conversion"
 msgstr ""
 
 #: patterns/content-counts.php:35
-msgid "growth:"
+msgid "rate:"
 msgstr ""
 
 #: patterns/content-counts.php:42
@@ -128,11 +140,11 @@ msgid "93%"
 msgstr ""
 
 #: patterns/content-counts.php:52
-msgid "New"
+msgid "Projects"
 msgstr ""
 
 #: patterns/content-counts.php:56
-msgid "investors"
+msgid "delivered"
 msgstr ""
 
 #: patterns/content-counts.php:63
@@ -140,11 +152,11 @@ msgid "87x"
 msgstr ""
 
 #: patterns/content-counts.php:73
-msgid "Investment"
+msgid "Growth by"
 msgstr ""
 
 #: patterns/content-counts.php:77
-msgid "growth"
+msgid "phase"
 msgstr ""
 
 #: patterns/content-counts.php:84
@@ -152,71 +164,91 @@ msgid "63%"
 msgstr ""
 
 #: patterns/content-left-list.php:21
-msgid "Solutions for the unique business"
+msgid "eCommerce Development Solutions"
 msgstr ""
 
-#: patterns/content-left-list.php:25, patterns/content-left.php:23
-msgid "We are dedicated to helping businesses improve the experience they provide for their customers."
+#: patterns/content-left-list.php:25
+msgid "By integrating secure payment gateways, user-friendly interfaces, and scalable backend systems, we empower you to build a seamless shopping experience that can grow with your business."
 msgstr ""
 
 #: patterns/content-left-list.php:40
-msgid "Meet your customer needs with Sense"
+msgid "Fully customizable eCommerce platforms"
 msgstr ""
 
 #: patterns/content-left-list.php:57
-msgid "Automate managing and communicating ui"
+msgid "Multiple payment gateways with robust security"
 msgstr ""
 
 #: patterns/content-left-list.php:74
-msgid "Get your reporting and analytics at one place"
+msgid "Integrated marketing tools to help you drive traffic"
 msgstr ""
 
 #: patterns/content-left-list.php:91
-msgid "Human support and live chat functionality"
+msgid "Intuitive navigation and a seamless user interface"
 msgstr ""
 
 #: patterns/content-left.php:19
-msgid "Up Shift got your back with friendly support"
+msgid "Agile methodology ensures proper project management"
+msgstr ""
+
+#: patterns/content-left.php:23
+msgid "With proper planning and collaboration through all the phases, we ensure all the requirements of the clients are met diligently."
 msgstr ""
 
 #: patterns/content-left.php:27
-msgid "Phasellus dignissim est tempor eros pulvinar luctus nam vulputate risus a efficitur cursus vivera allora ."
+msgid "From timely progress updates to regular reviews, all the roadblocks are tackled effectively."
 msgstr ""
 
 #: patterns/content-left.php:31
-msgid "Mauris arcu odio, porttitor nec nunc sit amet, pulvinar vestibulum dui duis viverra erat mauris consectetur viverra quam."
+msgid "The development process goes through a loop where all steps are iterated to ensure maximum efficiency."
 msgstr ""
 
 #: patterns/content-right-count.php:28
-msgid "Increase your sales and return on investment"
+msgid "We keep our word and deliver on our commitments."
+msgstr ""
+
+#: patterns/content-right-count.php:32
+msgid "Our commitment to meeting deadlines and exceeding expectations builds trust and ensures long-lasting relationships with our clients."
 msgstr ""
 
 #: patterns/content-right-count.php:39
-msgid "180+"
+msgid "14+"
+msgstr ""
+
+#: patterns/content-right-count.php:46
+msgid "We have over 14 years of experience in web development"
 msgstr ""
 
 #: patterns/content-right-count.php:56
-msgid "350+"
+msgid "1500 +"
+msgstr ""
+
+#: patterns/content-right-count.php:63
+msgid "We have served over 1500 satisfied customers."
 msgstr ""
 
 #: patterns/content-right.php:30
-msgid "We create products that users love"
+msgid "Building apps and websites that stand out."
+msgstr ""
+
+#: patterns/content-right.php:34
+msgid "We are always on the lookout for ways to make each of our projects stand out and deliver the best to our clients."
 msgstr ""
 
 #: patterns/content-right.php:38
-msgid "Eros, mi tincidunt lorem donec aenean. Facilisis velit eget morbi urna, in sed viverra sagittis dolor. Ultrices sem mattis eget faucibus tortor."
+msgid "From incorporating modern trends to the constant lookout for recent developments,  we always live up to the hype with our projects."
 msgstr ""
 
 #: patterns/content.php:14
-msgid "Take a look at the results we had achieved"
+msgid "What we have achieved together is nothing short of exceptional."
 msgstr ""
 
 #: patterns/content.php:18
-msgid "Mauris laoreet erat dolor, eget porta libero gravida nec. Sed vitae ultricies velit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent molestie rutrum nisi a laoreet."
+msgid "Over the years, we have seen it all, tackled all kinds of projects, and raised the bar for client satisfaction. "
 msgstr ""
 
 #: patterns/content.php:22
-msgid "Duis vestibulum sodales ante sed malesuada. Nam consectetur sed ex eget blandit. In eget ante nisl. Sed laoreet id nisi ut suscipit. Etiam vestibulum"
+msgid "We set out with a mission to modernize the web with our radical approach and working with individuals like you has brought us closer to it."
 msgstr ""
 
 #: patterns/content.php:31
@@ -224,7 +256,7 @@ msgid "3.2 million"
 msgstr ""
 
 #: patterns/content.php:31
-msgid "happy customers"
+msgid "users trust our products"
 msgstr ""
 
 #: patterns/content.php:39
@@ -232,179 +264,319 @@ msgid "745k"
 msgstr ""
 
 #: patterns/content.php:39
-msgid "monthly active users"
+msgid "revenue generated"
 msgstr ""
 
 #: patterns/content.php:47
-msgid "$10 million gross"
+msgid "$10 million total"
 msgstr ""
 
 #: patterns/content.php:47
-msgid "merchandise volume"
+msgid "sales recorded"
 msgstr ""
 
 #: patterns/featured-logos.php:26
 msgid "Trusted by teams around the world"
 msgstr ""
 
-#: patterns/features-three-columns-button.php:21, patterns/features-two-columns-icons.php:22
-msgid "Unique features."
+#: patterns/features-three-columns-button.php:21
+msgid "Explore Our Services "
 msgstr ""
 
-#: patterns/features-three-columns-button.php:21, patterns/features-two-columns-icons.php:22
-msgid "World class support."
+#: patterns/features-three-columns-button.php:32
+msgid "Cloud services"
 msgstr ""
 
-#: patterns/features-three-columns-button.php:32, patterns/features-two-columns-icons.php:29
-msgid "Everything is in the cloud"
+#: patterns/features-three-columns-button.php:36
+msgid "Our robust cloud infrastructure caters to a wide range of needs from backup to hosting with maximum uptime. Access your data anytime from anywhere."
 msgstr ""
 
-#: patterns/features-three-columns-button.php:36, patterns/features-three-columns-button.php:54, patterns/features-three-columns-button.php:72, patterns/features-three-columns-button.php:93, patterns/features-three-columns-button.php:111, patterns/features-three-columns-button.php:129, patterns/features-two-columns-icons.php:32, patterns/features-two-columns-icons.php:54, patterns/features-two-columns-icons.php:78, patterns/features-two-columns-icons.php:98, patterns/features-two-columns-icons.php:121, patterns/features-two-columns-icons.php:141, patterns/features-two-columns-right.php:50, patterns/features-two-columns-right.php:68, patterns/features-two-columns-right.php:89, patterns/features-two-columns-right.php:107
-msgid "Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue. Etiam condimentum vel justo in tincidunt."
+#: patterns/features-three-columns-button.php:50
+msgid "Social media marketing"
 msgstr ""
 
-#: patterns/features-three-columns-button.php:50, patterns/features-two-columns-icons.php:50
-msgid "Easy management"
+#: patterns/features-three-columns-button.php:54
+msgid "Get the word about your offering and services to the users with our social media marketing strategy, widen your audience base, and grow exponentially."
 msgstr ""
 
-#: patterns/features-three-columns-button.php:68, patterns/features-two-columns-icons.php:75
-msgid "Quality assurance"
+#: patterns/features-three-columns-button.php:68
+msgid "UI/UX"
 msgstr ""
 
-#: patterns/features-three-columns-button.php:89, patterns/features-two-columns-icons.php:95
-msgid "24/7 live support"
+#: patterns/features-three-columns-button.php:72
+msgid "Craft visually stunning experiences that portray your vision in a modern web. We build web experiences that go beyond the normal experience."
 msgstr ""
 
-#: patterns/features-three-columns-button.php:107, patterns/features-two-columns-icons.php:117
-msgid "Customize your UIs"
+#: patterns/features-three-columns-button.php:89
+msgid "Security optimizations"
 msgstr ""
 
-#: patterns/features-three-columns-button.php:125, patterns/features-two-columns-icons.php:137
-msgid "Advanced security"
+#: patterns/features-three-columns-button.php:93
+msgid "Our stringent and state-of-the-art security protocols ensure that your data never gets breached and tampered with. This also safeguards your users against modern-day cyber threats and attackers."
+msgstr ""
+
+#: patterns/features-three-columns-button.php:107
+msgid "Automated project management"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:111
+msgid "Our automated project management suite can be fine-tuned as per the project requirement and improves your workflow and efficiency."
+msgstr ""
+
+#: patterns/features-three-columns-button.php:125
+msgid "QA & Testing"
+msgstr ""
+
+#: patterns/features-three-columns-button.php:129
+msgid "Guarantee your audience a flawless experience with our comprehensive QA services. Our testing process covers everything from the functionality to the usability to the security aspect. "
 msgstr ""
 
 #: patterns/features-three-columns.php:21
-msgid "The values that"
-msgstr ""
-
-#: patterns/features-three-columns.php:21
-msgid "drive our company."
+msgid "Our core values"
 msgstr ""
 
 #: patterns/features-three-columns.php:32
-msgid "Do the right thing"
+msgid "committed to innovation"
 msgstr ""
 
-#: patterns/features-three-columns.php:36, patterns/features-three-columns.php:54, patterns/features-three-columns.php:72, patterns/features-three-columns.php:93, patterns/features-three-columns.php:111, patterns/features-three-columns.php:129, patterns/features-two-columns-left.php:32, patterns/features-two-columns-left.php:71, patterns/features-two-columns-left.php:89
-msgid "Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue."
+#: patterns/features-three-columns.php:36
+msgid "By fostering a culture of innovation, we stay ahead of the curve and always deliver cutting-edge solutions that drive growth and success."
 msgstr ""
 
 #: patterns/features-three-columns.php:50
-msgid "Set the bar for quality"
+msgid "Non-negotiable quality"
+msgstr ""
+
+#: patterns/features-three-columns.php:54
+msgid "From code to customer service, we hold ourselves to the highest standards in all aspects to ensure excellence in every project we deliver."
 msgstr ""
 
 #: patterns/features-three-columns.php:68
-msgid "Celebrate diversity"
+msgid "Continuous improvement"
+msgstr ""
+
+#: patterns/features-three-columns.php:72
+msgid "We embrace feedback, reflect on our experiences, and seek opportunities to grow and develop both individually and as a company."
 msgstr ""
 
 #: patterns/features-three-columns.php:89
-msgid "The world a bit better"
+msgid "Customer focus"
+msgstr ""
+
+#: patterns/features-three-columns.php:93
+msgid "By putting our customers first, we build long-term relationships, drive customer loyalty, and create mutual value for our clients and our company."
 msgstr ""
 
 #: patterns/features-three-columns.php:107
-msgid "Live statistics"
+msgid "Collaborative efforts"
+msgstr ""
+
+#: patterns/features-three-columns.php:111
+msgid "We believe in working closely with our clients, partners, and team members to achieve shared goals. Effective collaboration right from start to finish."
 msgstr ""
 
 #: patterns/features-three-columns.php:125
-msgid "Grow your following"
+msgid " Committed to integrity"
 msgstr ""
 
-#: patterns/features-two-columns-left.php:28, patterns/features-two-columns-left.php:46
-msgid "Advanced"
+#: patterns/features-three-columns.php:129
+msgid "We believe that trust is earned through integrity, and we strive to uphold our commitments and values in everything we do."
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:22
+msgid "Features that make"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:22
+msgid "us stand out"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:29
+msgid "Backup with a single click"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:32
+msgid "Keep logs of your progress and revisions and push them to the cloud storage with a single click and access them from anywhere."
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:50
+msgid "Project Tracking"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:54
+msgid "Track multiple projects across various teams all from the dashboard. Review status, and pending tasks and alert members of news tasks effortlessly."
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:75
+msgid "Content strategy"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:78
+msgid "Level up your social media strategy and landing pages with effective content plans. Rank higher on SERP and gain the attention you deserve."
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:95
+msgid "Chat support"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:98
+msgid "Our team of expert support staff is available round the clock. From troubleshooting to providing the right solution our team is always there."
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:117
+msgid "Built-in analytics"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:121
+msgid "Keep track of your growth and progress as your business scales. The intuitive dashboard shows you the areas you need to focus on for growing your business."
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:137
+msgid "Cross-platform support"
+msgstr ""
+
+#: patterns/features-two-columns-icons.php:141
+msgid "All our apps are cross-platform compatible without compromising on features. This ensures all users are prioritized and no one misses out on anything."
 msgstr ""
 
 #: patterns/features-two-columns-left.php:28
-msgid "search"
+msgid "Custom"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:28
+msgid "API Development"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:32
+msgid "Custom API development enables seamless integration between different software systems, allowing them to communicate and share data effectively."
 msgstr ""
 
 #: patterns/features-two-columns-left.php:46
-msgid "security"
+msgid "Software"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:46
+msgid "Testing"
 msgstr ""
 
 #: patterns/features-two-columns-left.php:50
-msgid "Aenean ac bibendum ipsum. Sed et nisi pharetra, blandit justo a, mollis justo. Nunc id fermentum augue.."
+msgid "We identify and address potential issues through comprehensive testing strategies before they impact your users, guaranteeing a high-quality product."
 msgstr ""
 
 #: patterns/features-two-columns-left.php:67
-msgid "Fully."
+msgid "Mobile"
 msgstr ""
 
 #: patterns/features-two-columns-left.php:67
-msgid "customizable."
+msgid "Application"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:71
+msgid "By developing intuitive and responsive mobile apps, we can help you reach a wider audience and strengthen customer relationships through interactive features and seamless functionality."
 msgstr ""
 
 #: patterns/features-two-columns-left.php:85
-msgid "Global"
+msgid "Web"
 msgstr ""
 
 #: patterns/features-two-columns-left.php:85
-msgid "community."
+msgid "Optimization"
+msgstr ""
+
+#: patterns/features-two-columns-left.php:89
+msgid "By optimizing elements like page load times, and server configurations, we can boost your website's efficiency and search engine rankings, leading to increased traffic and user engagement."
 msgstr ""
 
 #: patterns/features-two-columns-left.php:104
-msgid "Advanced technology made plain and simple"
+msgid "Custom software development"
 msgstr ""
 
 #: patterns/features-two-columns-left.php:108
-msgid "Orci molestie nam vulputate nunc habitant gravida. Interdum vitae vivamus ipsum aliquet consectetur aliquam. Nunc neque."
+msgid "We create tailored solutions that address your unique business needs and challenges and ensure that every feature aligns with your goals, offering greater flexibility and scalability than off-the-shelf products."
 msgstr ""
 
 #: patterns/features-two-columns-right.php:21
-msgid "Build your SaaS website with Up Shift"
+msgid "Why do companies partner with us?"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:25
+msgid "Our commitment to delivering reliable solutions on time and within budget sets us apart, creating long-lasting partnerships built on trust and success."
 msgstr ""
 
 #: patterns/features-two-columns-right.php:46
-msgid "Fully responsive"
+msgid "Full transparency"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:50
+msgid "We believe in full transparency, providing clear communication and regular updates throughout every stage of the project. Our clients always know what's happening."
 msgstr ""
 
 #: patterns/features-two-columns-right.php:64
-msgid "E-commerce"
+msgid "Affordable cost"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:68
+msgid "Our services are designed to be profitable, providing high-quality solutions without breaking the bank. We offer competitive pricing that aligns with your budget."
 msgstr ""
 
 #: patterns/features-two-columns-right.php:85
-msgid "Multi layout template"
+msgid "Technical expertise"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:89
+msgid "With years of experience across multiple industries, we bring a diverse skill set that enhances our ability to solve complex and critical problems and offer innovative solutions that modernize the web."
 msgstr ""
 
 #: patterns/features-two-columns-right.php:103
-msgid "Amazing support staff"
+msgid "Dedicated Support"
+msgstr ""
+
+#: patterns/features-two-columns-right.php:107
+msgid "We provide personalized, round-the-clock support, ensuring your systems are always running smoothly and any issues are addressed promptly, fostering long-term partnerships."
 msgstr ""
 
 #: patterns/features-two-columns.php:21
-msgid "Still not convinced? Here's a few more services for you"
+msgid "We offer a lot more!"
+msgstr ""
+
+#: patterns/features-two-columns.php:21
+msgid " Our host of services encompasses a wide audience."
 msgstr ""
 
 #: patterns/features-two-columns.php:27
-msgid "Mauris sed lectus ipsum. Ut at tincidunt quam. Nunc rhoncus tempus ipsum vitae pharetra. Ut et leo at metus luctus condimentum quis eget lectus. Cras sed feugiat eros. Maecenas aliquet facilisis ."
+msgid "No matter what your requirement is, conversing it together opens up various possibilities and helps you convert your vision into a reality."
 msgstr ""
 
 #: patterns/features-two-columns.php:50
-msgid "Create projects"
+msgid "Optimized online stores"
 msgstr ""
 
-#: patterns/features-two-columns.php:54, patterns/features-two-columns.php:72, patterns/features-two-columns.php:93, patterns/features-two-columns.php:112
-msgid "Morbi magna sapien, ullamcorper a eleifend vitae, iaculis eget massa. Ut feugiat bibendum diam, ut interdum dolor rhoncus in. Maecenas vel nunc enim. Orci varius natoque penatibus et magnis."
+#: patterns/features-two-columns.php:54
+msgid "Get your store up and running with proper optimizations from day one itself. Sell more and more efficiently with zero chances of downtime for your online stores."
 msgstr ""
 
 #: patterns/features-two-columns.php:68
-msgid "Get detailed stats"
+msgid "SEO Optimization"
+msgstr ""
+
+#: patterns/features-two-columns.php:72
+msgid "Multiply and drive your current organic traffic with our SEO optimization techniques. From optimizing the page speed to keyword research, we help you rank better and faster in no time."
 msgstr ""
 
 #: patterns/features-two-columns.php:89
-msgid "Automatic backup"
+msgid "Copywriting"
+msgstr ""
+
+#: patterns/features-two-columns.php:93
+msgid "Create copies that convert visitors to users with our in-house talented copywriters who know how to tell a story that drives actions."
 msgstr ""
 
 #: patterns/features-two-columns.php:108
-msgid "Multiple teams"
+msgid "Collaborations"
+msgstr ""
+
+#: patterns/features-two-columns.php:112
+msgid "Integrate your team members with all the leading apps and services to stay connected and work from anywhere."
 msgstr ""
 
 #: patterns/footer.php:23
@@ -515,24 +687,28 @@ msgstr ""
 msgid "Explore Our Values"
 msgstr ""
 
-#: patterns/hero-banner.php:23
-msgid "reate, build and ship your products real faster. With your own customized portal. showcase your Business like never before"
+#: patterns/hero-banner.php:21
+msgid "Crafting Code, Creating Solutions."
+msgstr ""
+
+#: patterns/hero-banner.php:25
+msgid "Find everything you need to grow and scale your business in one place. Our mission is to transform ideas into innovative technology that makes a difference."
 msgstr ""
 
 #: patterns/hero.php:15
-msgid "We are Up Shift &"
+msgid "Our cutting-edge software solutions can transform your business"
 msgstr ""
 
-#: patterns/hero.php:15
-msgid "we create digital things"
+#: patterns/hero.php:19
+msgid "Our cutting-edge software solutions leverage the latest technology to drive innovation and efficiency in your business processes. By integrating advanced tools and custom features, we can help you unlock new opportunities, streamline operations, and create a competitive edge in your industry."
 msgstr ""
 
 #: patterns/portfolio.php:23
-msgid "Creative Works"
+msgid "Our Incredible Projects"
 msgstr ""
 
 #: patterns/portfolio.php:27
-msgid "Step into my world of creative prowess, where ideas take shape and innovation flourishes. Explore an eclectic mix of projects spanning design, writing, and multimedia endeavors."
+msgid "We take great pride in completing projects on time, within budget, and, above all, with the expected value. Our list of returning customers keeps expanding, reflecting our commitment to client satisfaction."
 msgstr ""
 
 #: patterns/portfolio.php:39
@@ -723,11 +899,11 @@ msgstr ""
 msgid "Latest Posts"
 msgstr ""
 
-#: patterns/template-search.php:57
+#: patterns/template-search.php:60
 msgid "Sorry, but nothing matched your search terms"
 msgstr ""
 
-#: patterns/template-search.php:57
+#: patterns/template-search.php:60
 msgid " Try another search?"
 msgstr ""
 
@@ -739,20 +915,16 @@ msgstr ""
 msgid "Written by : "
 msgstr ""
 
-#: patterns/template-single.php:44
-msgid ".read - "
+#: patterns/testiomonial.php:19
+msgid "Find out what clients are"
 msgstr ""
 
 #: patterns/testiomonial.php:19
-msgid "Listen to what our"
-msgstr ""
-
-#: patterns/testiomonial.php:19
-msgid "clients say."
+msgid "saying about us."
 msgstr ""
 
 #: patterns/testiomonial.php:31
-msgid "“Viverra sem cursus ut consectetur at. Habitant lectus duis neque dui viverra dui. Magna pellentesque posuere nisl diam faucibus diam. Sapien at eleifend elit gravida amet tempus tortor. Lacinia egestas.”"
+msgid "This team of designers and developers is my go-to for all my web development projects. We’ve been working together for the past couple of years and have successfully collaborated and completed multiple projects."
 msgstr ""
 
 #: patterns/testiomonial.php:41
@@ -764,7 +936,7 @@ msgid "@sarah"
 msgstr ""
 
 #: patterns/testiomonial.php:63
-msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique a tortor at elementum. Praesent volutpat, dolor et euismod congue, tellus ex cursus ipsum, eget posuere lacus ipsum a felis.volutpat, dolor et"
+msgid "Developing our cross-platform application and the multiple integrations was made possible thanks to this amazing team and their dedication. Right from the user experience to the functionality, the approach taken is truly commendable"
 msgstr ""
 
 #: patterns/testiomonial.php:73
@@ -775,8 +947,8 @@ msgstr ""
 msgid "@philip"
 msgstr ""
 
-#: patterns/testiomonial.php:98, patterns/testiomonial.php:130
-msgid "Nam quis sem hendrerit, laoreet nunc viverra, laoreet libero. Vestibulum posuere, nibh ac aliquet dictum, ligula lectus hendrerit nunc, in fringilla nisi ante id urna. habitant morbi tristique senectus.ligula lectus"
+#: patterns/testiomonial.php:98
+msgid "The website migration and database optimizations that followed truly enhanced the experience for our users. They successfully migrated all the data to different servers and configured them properly to handle the peak hours."
 msgstr ""
 
 #: patterns/testiomonial.php:108
@@ -785,6 +957,10 @@ msgstr ""
 
 #: patterns/testiomonial.php:112
 msgid "@fisher"
+msgstr ""
+
+#: patterns/testiomonial.php:130
+msgid "Their excellent content strategy ticked all the right boxes and allowed us to connect strongly with a wider audience effectively. The content strategy is a blend of storytelling with the best SEO practices that yield the best results."
 msgstr ""
 
 #: patterns/testiomonial.php:140
